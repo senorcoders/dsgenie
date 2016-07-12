@@ -1,0 +1,16 @@
+drwxr-xr-x   2 bluephoenix bluephoenixg     4096 Jun 22  2015 .
+drwxr-xr-x  11 bluephoenix bluephoenixg     4096 Feb 12 12:57 ..
+-rw-r--r--   1 bluephoenix bluephoenixg     7646 Jun 22  2015 FeedsCSVParser.inc
+-rw-r--r--   1 bluephoenix bluephoenixg     6214 Jun 22  2015 FeedsFetcher.inc
+-rw-r--r--   1 bluephoenix bluephoenixg    11957 Jun 22  2015 FeedsFileFetcher.inc
+-rw-r--r--   1 bluephoenix bluephoenixg    10800 Jun 22  2015 FeedsHTTPFetcher.inc
+-rw-r--r--   1 bluephoenix bluephoenixg    12397 Jun 22  2015 FeedsNodeProcessor.inc
+-rw-r--r--   1 bluephoenix bluephoenixg      890 Jun 22  2015 FeedsOPMLParser.inc
+-rw-r--r--   1 bluephoenix bluephoenixg    25214 Jun 22  2015 FeedsParser.inc
+-rw-r--r--   1 bluephoenix bluephoenixg     5482 Jun 22  2015 FeedsPlugin.inc
+-rw-r--r--   1 bluephoenix bluephoenixg    26308 Jun 22  2015 FeedsProcessor.inc
+-rw-r--r--   1 bluephoenix bluephoenixg     7743 Jun 22  2015 FeedsSimplePieParser.inc
+-rw-r--r--   1 bluephoenix bluephoenixg     1882 Jun 22  2015 FeedsSitemapParser.inc
+-rw-r--r--   1 bluephoenix bluephoenixg     2525 Jun 22  2015 FeedsSyndicationParser.inc
+-rw-r--r--   1 bluephoenix bluephoenixg     5914 Jun 22  2015 FeedsTermProcessor.inc
+-rw-r--r--   1 bluephoenix bluephoenixg     6983 Jun 22  2015 FeedsUserProcessor.inc

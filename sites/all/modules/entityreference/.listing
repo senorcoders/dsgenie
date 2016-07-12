@@ -1,0 +1,16 @@
+drwxrwxrwx   6 bluephoenix bluephoenixg     4096 Apr 18  2015 .
+drwxrwxrwx  27 bluephoenix bluephoenixg     4096 Feb 12 12:07 ..
+-rw-r--r--   1 bluephoenix bluephoenixg    18092 Apr 18  2015 LICENSE.txt
+-rw-r--r--   1 bluephoenix bluephoenixg      678 Apr 18  2015 README.txt
+-rw-r--r--   1 bluephoenix bluephoenixg       53 Apr 18  2015 entityreference.admin.css
+-rw-r--r--   1 bluephoenix bluephoenixg      980 Apr 18  2015 entityreference.devel_generate.inc
+-rw-r--r--   1 bluephoenix bluephoenixg     2570 Apr 18  2015 entityreference.diff.inc
+-rw-r--r--   1 bluephoenix bluephoenixg     6045 Apr 18  2015 entityreference.feeds.inc
+-rw-r--r--   1 bluephoenix bluephoenixg      885 Apr 18  2015 entityreference.info
+-rw-r--r--   1 bluephoenix bluephoenixg     5297 Apr 18  2015 entityreference.install
+-rw-r--r--   1 bluephoenix bluephoenixg      549 Apr 18  2015 entityreference.migrate.inc
+-rw-r--r--   1 bluephoenix bluephoenixg    44338 Apr 18  2015 entityreference.module
+drwxrwxrwx   3 bluephoenix bluephoenixg     4096 Apr 18  2015 examples
+drwxrwxrwx   4 bluephoenix bluephoenixg     4096 Apr 18  2015 plugins
+drwxrwxrwx   3 bluephoenix bluephoenixg     4096 Apr 18  2015 tests
+drwxrwxrwx   2 bluephoenix bluephoenixg     4096 Apr 18  2015 views

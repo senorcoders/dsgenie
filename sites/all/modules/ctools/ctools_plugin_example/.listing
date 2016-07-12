@@ -1,0 +1,8 @@
+drwxrwxrwx   4 bluephoenix bluephoenixg     4096 Apr 18  2015 .
+drwxrwxrwx  19 bluephoenix bluephoenixg     4096 Apr 18  2015 ..
+-rw-r--r--   1 bluephoenix bluephoenixg      549 Apr 18  2015 README.txt
+-rw-r--r--   1 bluephoenix bluephoenixg      456 Apr 18  2015 ctools_plugin_example.info
+-rw-r--r--   1 bluephoenix bluephoenixg     3534 Apr 18  2015 ctools_plugin_example.module
+-rw-r--r--   1 bluephoenix bluephoenixg    13736 Apr 18  2015 ctools_plugin_example.pages_default.inc
+drwxrwxrwx   2 bluephoenix bluephoenixg     4096 Apr 18  2015 help
+drwxrwxrwx   7 bluephoenix bluephoenixg     4096 Apr 18  2015 plugins

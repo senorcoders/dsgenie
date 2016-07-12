@@ -1,0 +1,15 @@
+drwxr-xr-x   7 bluephoenix bluephoenixg     4096 Jan 23 13:12 .
+drwxrwxrwx   5 bluephoenix bluephoenixg     4096 Jan 23 13:11 ..
+-rw-r--r--   1 bluephoenix bluephoenixg        6 Jan 23 13:11 common.inc
+-rw-r--r--   1 bluephoenix bluephoenixg      854 Jan 23 13:11 config.rb
+drwxr-xr-x   2 bluephoenix bluephoenixg     4096 Jan 23 13:11 css
+-rw-r--r--   1 bluephoenix bluephoenixg      855 Jan 23 13:11 favicon.ico
+drwxr-xr-x   5 bluephoenix bluephoenixg     4096 Jan 23 13:13 fonts
+drwxr-xr-x   2 bluephoenix bluephoenixg     4096 Jan 23 13:11 js
+-rw-r--r--   1 bluephoenix bluephoenixg     1467 Jan 23 13:11 logo.png
+drwxr-xr-x   6 bluephoenix bluephoenixg     4096 Jan 23 13:13 sass
+-rw-r--r--   1 bluephoenix bluephoenixg    17138 Jan 23 13:11 screenshot.png
+-rw-r--r--   1 bluephoenix bluephoenixg       81 Jan 23 13:11 template.php
+drwxr-xr-x   2 bluephoenix bluephoenixg     4096 Jan 23 13:12 templates
+-rw-r--r--   1 bluephoenix bluephoenixg      158 Jan 23 13:11 theme-settings.php
+-rw-r--r--   1 bluephoenix bluephoenixg      802 Jan 23 13:11 weebpal_backend.info

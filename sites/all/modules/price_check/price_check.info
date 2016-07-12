@@ -1,0 +1,4 @@
+name = Price Check
+description = Custom code for Price Check
+core = 7.x
+

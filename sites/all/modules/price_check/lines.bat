@@ -1,0 +1,1 @@
+for  %%g in (*.*) do find /c /v "xxxyyy" %%g

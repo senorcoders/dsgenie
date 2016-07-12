@@ -1,0 +1,17 @@
+drwxr-xr-x   7 bluephoenix bluephoenixg     4096 Apr 20  2015 .
+drwxrwxrwx  27 bluephoenix bluephoenixg     4096 Feb 12 12:07 ..
+-rw-r--r--   1 bluephoenix bluephoenixg        6 Apr 20  2015 .gitignore
+-rw-r--r--   1 bluephoenix bluephoenixg    23018 Apr 20  2015 CHANGELOG.txt
+-rw-r--r--   1 bluephoenix bluephoenixg    18092 Apr 20  2015 LICENSE.txt
+-rw-r--r--   1 bluephoenix bluephoenixg     1524 Apr 20  2015 README.txt
+drwxr-xr-x   2 bluephoenix bluephoenixg     4096 Apr 20  2015 ckeditor
+-rw-r--r--   1 bluephoenix bluephoenixg     3925 Apr 20  2015 ckeditor.api.php
+-rw-r--r--   1 bluephoenix bluephoenixg     3949 Apr 20  2015 ckeditor.config.js
+-rw-r--r--   1 bluephoenix bluephoenixg      354 Apr 20  2015 ckeditor.info
+-rw-r--r--   1 bluephoenix bluephoenixg    22194 Apr 20  2015 ckeditor.install
+-rw-r--r--   1 bluephoenix bluephoenixg    27580 Apr 20  2015 ckeditor.module
+-rw-r--r--   1 bluephoenix bluephoenixg     3749 Apr 20  2015 ckeditor.styles.js
+drwxr-xr-x   2 bluephoenix bluephoenixg     4096 Apr 20  2015 css
+drwxr-xr-x   3 bluephoenix bluephoenixg     4096 Apr 20  2015 images
+drwxr-xr-x   4 bluephoenix bluephoenixg     4096 Apr 20  2015 includes
+drwxr-xr-x   7 bluephoenix bluephoenixg     4096 Apr 20  2015 plugins

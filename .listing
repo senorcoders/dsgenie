@@ -1,0 +1,16 @@
+drwxrwxrwx   2 bluephoenix bluephoenixg     4096 Apr 18  2015 .
+drwxrwxrwx   4 bluephoenix bluephoenixg     4096 Apr 18  2015 ..
+-rw-r--r--   1 bluephoenix bluephoenixg      189 Apr 18  2015 application-octet-stream.png
+-rw-r--r--   1 bluephoenix bluephoenixg      346 Apr 18  2015 application-pdf.png
+-rw-r--r--   1 bluephoenix bluephoenixg      189 Apr 18  2015 application-x-executable.png
+-rw-r--r--   1 bluephoenix bluephoenixg      314 Apr 18  2015 audio-x-generic.png
+-rw-r--r--   1 bluephoenix bluephoenixg      385 Apr 18  2015 image-x-generic.png
+-rw-r--r--   1 bluephoenix bluephoenixg      260 Apr 18  2015 package-x-generic.png
+-rw-r--r--   1 bluephoenix bluephoenixg      265 Apr 18  2015 text-html.png
+-rw-r--r--   1 bluephoenix bluephoenixg      220 Apr 18  2015 text-plain.png
+-rw-r--r--   1 bluephoenix bluephoenixg      220 Apr 18  2015 text-x-generic.png
+-rw-r--r--   1 bluephoenix bluephoenixg      276 Apr 18  2015 text-x-script.png
+-rw-r--r--   1 bluephoenix bluephoenixg      214 Apr 18  2015 video-x-generic.png
+-rw-r--r--   1 bluephoenix bluephoenixg      196 Apr 18  2015 x-office-document.png
+-rw-r--r--   1 bluephoenix bluephoenixg      181 Apr 18  2015 x-office-presentation.png
+-rw-r--r--   1 bluephoenix bluephoenixg      183 Apr 18  2015 x-office-spreadsheet.png

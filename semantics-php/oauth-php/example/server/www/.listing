@@ -1,0 +1,8 @@
+drwxr-xr-x   2 bluephoenix bluephoenixg     4096 Jan 15 10:56 .
+drwxr-xr-x   4 bluephoenix bluephoenixg     4096 Jan 15 10:56 ..
+-rw-r--r--   1 bluephoenix bluephoenixg     1865 Jan 15 10:56 hello.php
+-rw-r--r--   1 bluephoenix bluephoenixg     1351 Jan 15 10:56 index.php
+-rw-r--r--   1 bluephoenix bluephoenixg     1722 Jan 15 10:56 logon.php
+-rw-r--r--   1 bluephoenix bluephoenixg     2079 Jan 15 10:56 oauth.php
+-rw-r--r--   1 bluephoenix bluephoenixg      655 Jan 15 10:56 register.php
+-rw-r--r--   1 bluephoenix bluephoenixg     2891 Jan 15 10:56 services.xrds.php

@@ -1,0 +1,12 @@
+drwxr-xr-x   3 bluephoenix bluephoenixg     4096 Jan 28 05:22 .
+drwxr-xr-x   4 bluephoenix bluephoenixg     4096 Jan 28 05:22 ..
+drwxr-xr-x   2 bluephoenix bluephoenixg     4096 Jan 28 05:22 collector
+-rw-r--r--   1 bluephoenix bluephoenixg       64 Jan 28 05:22 empty_test_file.php
+-rw-r--r--   1 bluephoenix bluephoenixg      174 Jan 28 05:22 failing_test.php
+-rw-r--r--   1 bluephoenix bluephoenixg       18 Jan 28 05:22 latin1_sample
+-rw-r--r--   1 bluephoenix bluephoenixg      174 Jan 28 05:22 passing_test.php
+-rw-r--r--   1 bluephoenix bluephoenixg      319 Jan 28 05:22 recorder_sample.php
+-rw-r--r--   1 bluephoenix bluephoenixg      397 Jan 28 05:22 spl_examples.php
+-rw-r--r--   1 bluephoenix bluephoenixg       22 Jan 28 05:22 supplementary_upload_sample.txt
+-rw-r--r--   1 bluephoenix bluephoenixg      110 Jan 28 05:22 test1.php
+-rw-r--r--   1 bluephoenix bluephoenixg       30 Jan 28 05:22 upload_sample.txt

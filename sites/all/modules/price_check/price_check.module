@@ -1,0 +1,4756 @@
+<?php
+
+/*
+ * 
+ * Name:
+Key Set 1 Edit Name
+DEVID:
+0915f944-cd14-48f9-a89c-65e2ee6442ac
+AppID:
+DSGeniefd-4b71-47c4-9b1e-e36fd4d1043
+CertID:
+8ddc39f9-84f0-40e7-90a6-f53e423f2cab
+ * RuName 'DS_Genie-DSGeniefd-4b71--pmyrqipd' has been added.
+ * 
+ * AgAAAA**AQAAAA**aAAAAA**3fXlVQ**nY+sHZ2PrBmdj6wVnY+sEZ2PrA2dj6AHlYqkD5CHoAydj6x9nY+seQ**T+ICAA**AAMAAA**jWV3vUbcQqpgwB8XAjt+RyXRA5XCv6gvgFY8gKC9UvGVXKRaBZ3q1BixJHcA96lPyASjua3rNmWZp22cpY8n2JUVl4vhKtQmMn/2I9TiZTW6Nt12pISjk+MW8Py+JW7my9Xmv355Et4dN0Rd/0QnzdxDSishpYb8goVck1lilEmVmH+33z7401MrYwD25UbF6L8fjX4zxrrXMg+56B+bQgNiQP5hawUZ4fciuTyMjHsT/263nwzyAf52W9Z21qBMg1o7aS3rVL3ed8C4hubNeDlAIsR4KwNCd4wV651u8Yf112sfZlO+245B4nGJQbJrbvBIgc8kDf3FXGlh2RmSNltdsyC+zBcb4sK0KuLoJHFTKU56SzRwl1NAO/OKinNqhvzs0PlBhLwVv8pAyfG5wjbMGklMwbJI/diFq6u4RTXO1FTm0M86uWYVIvTU9BZ52tH/J9Ld6hP/9PqU6HG/9/vBQwmKXg4d6nLD69PehVWJeD1rsM9GngS8kuSkM5/gih8JvkCMJvrBK0/SO0QYZMvTl0iIi3dnp+OXY/RdqBrrGrQT2WigfzbIiHhpcxXdeAHRRtdNVVFpRcZx1b4tW0b/w8GvsDcMDoedw6m2KnTxKkII48YQzGbKdsrlPrAevkhpIN3yYuobciCpWkdXMtD6LzltlOBYMX1XsNQ7zKtnu8p2shbVZQigANLz0psuh9RN43oCyXEfC23UvjVAtz+U2c3l5D9TycQ1RDa5fzwzpvKIbf2mSPZtT5NGnNcm
+ * 
+ * https://bit.ly/1FYZYOq
+ * http://www.dsgenie.com/ebay_auth?auth=true
+ * https://bit.ly/1xqoPJH
+ * http://www.dsgenie.com/ebay_auth?auth=false
+ * 
+ * 
+ * kwesidsgenie
+ * 
+ * Name:
+Key Set 1 Edit Name
+DEVID:
+71d57122-1b75-4f7b-a510-f4e57f48bd90
+AppID:
+DSGENIE4f-fe00-44d3-b54f-82c84be7642
+CertID:
+3f048811-7158-4d9b-96c5-346513f54bb8
+ * 
+ * runame: DSGENIE-DSGENIE4f-fe00--dpxizyn
+ * kwes_stewa
+ * AgAAAA**AQAAAA**aAAAAA**ZMrlVQ**nY+sHZ2PrBmdj6wVnY+sEZ2PrA2dj6AHlYqkD5CHoAydj6x9nY+seQ**z/kCAA**AAMAAA**eTi/S/z21hnIRzLsaUDmNCgVuIzagBjzb6PmmkQtvV3Se9Al6iyDHBriH98hFMeAGPEy5CjhQ+pPG7omnWxVm3G2r88ZZSOIWf2KmLZXl5tIY3WQi2asEfZwU3IjLTw+1SLr4a2uVIZRK0lJtEYA3JEfmp1KueLMDPfr2kRgGwikevMCf2HERFYIiILu7T+bCvsbWJcMVfnygsihkJh6DMl27qg1Tb772+yKU1L/UXmrhgtDV1HLueYeKEp5yWjvpMcGG5wS4lbUGWXjqt7F+32XaS+4EMIfjkmX9V3d/w32O/jJi4eUevZeihac827JIBKBHDCnp1E7IpSOzawl5vHba0i2eXVjT6PTdTvv+nunmbtWC2Z5ZM1STL9Jp+HIFnSTDgdSnLEudBMaazRXXTZXMG9ycAuz17RzjoXZ9wMA4E9pE3f6BwfL4YHiU13P8lyH3jYFSmS9xPxK7xHTlFlZgi7pBTC0ebD3JkLgjkdpRjis0qTrHUtKMHHLG0fIYuIHE9XfVkJMDgjf/wfId2y2kyqhjETpO5a82ZSbH4MM+C3O221Ytxwgy/eLGEw41WQW5bnb4eWMR1cAdLgYHkwAsLwvu2i2vjKSNK6sBAfd1YnTncb1nUmfzG1m0PX47rVoKSgOQZuQCBHTd0pw9uaDMtIBH2bRgTjlZxw84zkHpDxaoR2N9V1wOb2LtKSZChDI1dL9GKFWhl7/TJyqu8QiWbSI9BRvYNHpGFv8yHVAKKmA8mEWOMAapTkfDDUq
+ */
+
+include_once DRUPAL_ROOT . '/sites/all/modules/price_check/testing.inc';
+include_once DRUPAL_ROOT . '/sites/all/modules/price_check/menu.inc';
+include_once DRUPAL_ROOT . '/sites/all/modules/price_check/ebay_api.inc';
+include_once DRUPAL_ROOT . '/sites/all/modules/price_check/common.inc';
+include_once DRUPAL_ROOT . '/sites/all/modules/price_check/drupal.api.inc';
+include_once DRUPAL_ROOT . '/sites/all/modules/price_check/pages.inc';
+include_once DRUPAL_ROOT . '/sites/all/modules/price_check/bot.inc';
+include_once DRUPAL_ROOT . '/sites/all/modules/price_check/spider.inc';
+include_once DRUPAL_ROOT . '/sites/all/modules/price_check/skugrid.inc';
+
+function price_check_item_hook() {
+  global $user;
+  $uid = $user->uid;
+  $sql = <<<SQL
+select nid from field_data_field_form_stage fs join
+node n on n.nid = fs.entity_id where field_form_stage_value in (2,4)      
+and uid = :uid order by nid desc limit 1
+SQL;
+  $result = db_query($sql, array(':uid' => $uid));
+  $nid = $result->fetchField();
+  if($nid) {
+    $node = node_load($nid);
+    drupal_goto("node/$nid/edit");
+    return;
+  }
+}
+
+function price_check_item_value_row($item, $value, $delta = 0, $time = true) {
+  if($time && !$delta) $value = date('Y-m-d H:i:s', $value);
+  if($delta) $value = price_check_seconds_to_time($value, $delta);
+  return "<tr><td>$item</td><td>$value</td></tr>";
+}
+
+function price_check_seconds_to_time($origin, $delta) {
+  $dtF = new DateTime("@$delta");
+  $dtT = new DateTime("@$origin");
+  return $dtF->diff($dtT)->format('%a days, %h hours, %i minutes and %s seconds');
+}
+
+class PriceCheckMailSystem extends DefaultMailSystem {
+  public function format(array $message) {
+    $message['body'] = implode("\n\n", $message['body']);
+    $message['body'] = drupal_wrap_mail($message['body']);
+    return $message;
+  }
+}
+
+function price_check_email_diagnostic($cron_last, $old_item, $old_walmart, $last_item, $last_walmart, $old_skugrid, $queue_length) {
+  $server_time = time();
+  $html = "<table><tr><th>Item</th><th>Value</th><tr>" . 
+      price_check_item_value_row('server time', $server_time, 0) .
+      price_check_item_value_row('cron last', $cron_last, $server_time) .
+      price_check_item_value_row('oldest item', $old_item, $server_time) .
+      price_check_item_value_row('oldest walmart', $old_walmart, $server_time) .
+      price_check_item_value_row('last item', $last_item, $server_time) .
+      price_check_item_value_row('last walmart', $last_walmart, $server_time) .
+      price_check_item_value_row('last skugrid', $old_skugrid, $server_time) .
+      price_check_item_value_row('items in queue', $queue_length, null, false) .
+      "</table><br />";
+  
+  $queuenames = array('price_check_walmart_queue',
+    'price_check_walmart_queue_atom',
+    'price_check_general_queue',
+    'price_check_skugrid_queue',
+    'price_check_skugrid_queue_atom');
+  $results = array();
+  foreach($queuenames as $queuename) {
+    $results[$queuename] = DrupalQueue::get($queuename)->numberOfItems(); 
+  }
+  $output = "<table><tr><th>name</th><th>count</th></tr>";
+  foreach($results as $k => $v) {
+    $output .= "<tr><td>$k</td><td>$v</td></tr>";
+  }
+  $output .= "</table>";
+ $html .= $output;
+  
+  
+  drupal_mail('price_check', 'diagnostics', "kwesistewart@bluephoenixtt.com", language_default(), $html);
+}
+
+function price_check_prepare_email_diagnostic() {
+  $cron_last = variable_get('cron_last', '');
+  //queue length
+  $sql = "select count(*) c from queue where name not like 'drupal_batch%' and name not like '%skugrid%'";
+  $result = db_query($sql);
+  $queue_length = $result->fetchField();
+  //stale items
+  $sql = <<<EOSQL
+select count(*) from queue where unix_timestamp() - created > 360
+and name not like 'drupal%'
+EOSQL;
+  $result = db_query($sql);
+  $stale_items = $result->fetchField();
+  $sql = <<<EOSQL
+delete from queue where unix_timestamp() - created > 360
+and name not like 'drupal%'
+EOSQL;
+  $result = db_query($sql);
+  //last item checked
+  $sql = <<<EOSQL
+select max(cast(field_last_checked_value as unsigned)) from role r
+join users_roles ur on r.rid = ur.rid 
+join node n on n.uid = ur.uid
+join field_data_field_external_url fu on fu.entity_id = nid
+left join field_data_field_last_checked fc on  fc.entity_id = n.nid
+where name ='Paying Customer' and type = 'item_template'
+and nid in (select entity_id from field_data_field_subscribers)
+and nid not in (select entity_id from field_data_field_data where field_data_value like 'invalid%')
+EOSQL;
+  $result = db_query($sql);
+  $last_item = $result->fetchField();
+  //last walmart item checked
+  $sql = <<<EOSQL
+select max(cast(field_last_checked_1_value as unsigned)) from role r
+join users_roles ur on r.rid = ur.rid 
+join node n on n.uid = ur.uid
+join field_data_field_external_url fu on fu.entity_id = nid
+left join field_data_field_last_checked_1 fc on  fc.entity_id = n.nid
+where name ='Paying Customer' and type = 'item_template'
+and nid in (select entity_id from field_data_field_subscribers)
+and nid not in (select entity_id from field_data_field_data where field_data_value like 'invalid%')
+EOSQL;
+  $result = db_query($sql);
+  $last_walmart = $result->fetchField();
+  //oldest item checked
+  $sql = <<<EOSQL
+select min(cast(field_last_checked_value as unsigned)) from role r
+join users_roles ur on r.rid = ur.rid 
+join node n on n.uid = ur.uid
+join field_data_field_external_url fu on fu.entity_id = nid
+left join field_data_field_last_checked fc on  fc.entity_id = n.nid
+where name ='Paying Customer' and type = 'item_template'
+and nid in (select entity_id from field_data_field_subscribers)
+and nid not in (select entity_id from field_data_field_data where field_data_value like 'invalid%')
+and cast(field_last_checked_value as unsigned) > 0
+EOSQL;
+  $result = db_query($sql);
+  $old_item = $result->fetchField();
+  //oldest walmart checked
+  $sql = <<<EOSQL
+select min(cast(field_last_checked_1_value as unsigned)) from role r
+join users_roles ur on r.rid = ur.rid 
+join node n on n.uid = ur.uid
+join field_data_field_external_url fu on fu.entity_id = nid
+left join field_data_field_last_checked_1 fc on  fc.entity_id = n.nid
+where name ='Paying Customer' and type = 'item_template'
+and nid in (select entity_id from field_data_field_subscribers)
+and nid not in (select entity_id from field_data_field_data where field_data_value like 'invalid%')
+and field_external_url_value like '%walmart%'
+and cast(field_last_checked_1_value as unsigned) > 0
+EOSQL;
+  $result = db_query($sql);
+  $old_walmart = $result->fetchField();
+  //oldest skugrid checked
+  $sql = <<<EOSQL
+select max(cast(field_last_checked_value as unsigned)) from role r
+join users_roles ur on r.rid = ur.rid 
+join node n on n.uid = ur.uid
+join field_data_field_external_url fu on fu.entity_id = nid
+join field_data_field_skugrid_local_id fi on fi.entity_id = nid
+left join field_data_field_last_checked fc on  fc.entity_id = n.nid
+where name ='Paying Customer' and type = 'item_template'
+EOSQL;
+  $result = db_query($sql);
+  $old_skugrid = $result->fetchField();
+  price_check_email_diagnostic($cron_last, $old_item, $old_walmart, $last_item, $last_walmart, $old_skugrid, $queue_length);
+  return $queue_length;
+}
+
+function price_check_cron() {
+return;
+  if(@$_GET['debug']) {
+    $sql = "truncate queue";
+    db_query($sql);
+  }
+  $cron_seq = variable_get('cron_seq');
+  $cron_seq++;
+  variable_set('cron_seq',$cron_seq);
+  if($cron_seq) {
+    mkdir("/var/www/html/sites/default/logs/$cron_seq");
+    file_put_contents("/var/www/html/sites/default/logs/$cron_seq/start", time(), FILE_APPEND);
+    $data = time();
+    price_check_write_cron_log($cron_seq, 'start_1', $data);
+  }
+  
+  $skugrid_queue = DrupalQueue::get('price_check_skugrid_queue'); 
+  $queue_count = $skugrid_queue->numberOfItems();
+  $skugrid_queue = DrupalQueue::get('price_check_skugrid_queue_atom'); 
+  $queue_count += $skugrid_queue->numberOfItems();
+  if(!$queue_count) {
+    $data_file = '/var/www/html/sites/default/skugrid.csv';
+    $last_write_time = filemtime($data_file);
+    if(@$_GET['debug']) {
+      copy("/var/www/html/sites/default/skugrid.csv", "/var/www/html/sites/default/logs/$cron_seq/skugrid.csv"); 
+      $file = fopen("/var/www/html/sites/default/skugrid.csv","r");
+      $headers = fgetcsv($file);
+      $queue = DrupalQueue::get('price_check_skugrid_queue'); 
+      $queue->createQueue();
+      while(!feof($file))
+      {
+        $row = fgetcsv($file);
+        $obj = price_check_skugrid_csv_to_object($headers, $row);
+        if($obj->localId) {
+          $queue->createItem($obj); 
+          $data = "price_check_skugrid_queue debug entry: " . print_r($obj, true);
+          price_check_write_cron_log($cron_seq, 'a_cron_enter', $data);
+        }
+      }
+      fclose($file);
+    } else 
+    if(time() - $last_write_time > 31 * 60) {
+      //watchdog("debug:skugrid", time());
+      $csv_data = price_check_skugrid_get_csv();
+      if($csv_data) {
+        file_put_contents($data_file, $csv_data);
+        copy("/var/www/html/sites/default/skugrid.csv", "/var/www/html/sites/default/logs/$cron_seq/skugrid.csv"); 
+        $file = fopen("/var/www/html/sites/default/skugrid.csv","r");
+        $headers = fgetcsv($file);
+        $queue = DrupalQueue::get('price_check_skugrid_queue'); 
+        $queue->createQueue();
+        while(!feof($file))
+        {
+          $row = fgetcsv($file);
+          $obj = price_check_skugrid_csv_to_object($headers, $row);
+          if($obj->localId) {
+            $queue->createItem($obj); 
+            $data = "price_check_skugrid_queue entry: " . print_r($obj, true);
+            price_check_write_cron_log($cron_seq, 'a_cron_enter', $data);
+          }
+        }
+        fclose($file);
+      }
+    }
+  }
+  /*$sql = "select * from queue";
+  $results = db_query($sql);
+  foreach($results as $row) {
+    //price_check_cron_print(print_r($row, true));
+  }
+  return;*/
+  $queue_length = price_check_prepare_email_diagnostic();
+  if($queue_length > 0) return;
+  price_check_create_walmart_queue();
+  //price_check_prepare_email_diagnostic();
+  //drupal_flush_all_caches();
+  //delete activity on deleted nodes
+  $sql = "select entity_id  from field_data_field_related_node where field_related_node_value not in (select nid from node)";
+  $results = db_query($sql);
+  $nids = array();
+  foreach($results as $row) {
+    $nids[] = $row->entity_id;
+  }
+  node_delete_multiple($nids);
+  //price_check_create_walmart_queue();
+  //build queue for the others
+  $sql = <<<SQL
+select fc.entity_id, field_external_url_value
+from role r
+join users_roles ur on r.rid = ur.rid 
+join node n on n.uid = ur.uid
+join field_revision_field_external_url fu on fu.entity_id = nid
+join field_revision_field_last_checked fc on  fc.entity_id = fu.entity_id
+where name ='Paying Customer' and type = 'item_template' and
+nid not in (select entity_id from field_revision_field_skugrid_local_id)
+and 
+(fu.entity_id in (select entity_id from field_revision_field_subscribers)
+or
+fc.entity_id in (select entity_id from field_revision_field_suggested_accounts))
+order by cast(field_last_checked_value as unsigned) asc
+limit 800
+SQL;
+  $results = db_query($sql); 
+  $queue = DrupalQueue::get('price_check_general_queue'); 
+  $queue->createQueue();
+  foreach($results as $result) {
+    $queue->createItem($result); 
+  }
+}
+
+function price_check_soft_blacklist($seller) {
+  //TODO: queue this
+  global $user;
+  $uid = $user->uid;
+  $nid = price_check_get_active_spider();
+  if(!$nid) return;
+  $node = node_load($nid);
+  $obj = array('op' => 'softblacklist', 'user' => $uid, 'seller' => $seller);
+  $data = json_encode($obj);
+  $node->field_data['und'][] = array('value' => $data);
+  node_save($node);
+  //print_r($node);exit(0);
+}
+
+function price_check_delete_seller($seller) {
+  global $user;
+  if(price_check_is_paying_customer()) {
+    $sql = <<<SQL
+select nid from field_data_field_seller fs 
+join node n on n.nid = fs.entity_id
+where uid = :uid and
+field_seller_value = :seller and 
+nid not in (select entity_id from field_data_field_complete_date)
+SQL;
+    $results = db_query($sql, array(':uid' => $user->uid, ':seller' => $seller));
+    $nids = array();
+    foreach($results as $row) {
+      $nids[] = $row->nid;
+    }
+    node_delete_multiple($nids);
+  } else {
+    $sql = <<<SQL
+select title, nid from field_data_field_assigned_to fa 
+join field_data_field_seller fs on fs.entity_id = fa.entity_id
+join node n on n.nid = fs.entity_id
+where field_assigned_to_value = :uid and
+field_seller_value = :seller and 
+nid not in (select entity_id from field_data_field_complete_date)
+SQL;
+    $results = db_query($sql, array(':uid' => $user->uid, ':seller' => $seller));
+    $nids = array();
+    foreach($results as $row) {
+      $nids[] = $row->nid;
+    }
+    node_delete_multiple($nids);
+    price_check_soft_blacklist($seller);
+  }
+  drupal_set_message("Seller $seller removed.");
+  drupal_goto('/');
+}
+
+function price_check_get_amazon_asin_from_url($url) {
+  $reg = '#(?:http://(?:www\.){0,1}amazon\.com(?:/.*){0,1}(?:/dp/|/gp/product/|/exec/obidos/ASIN/))(.*?)(?:/.*|$)#';
+  preg_match($reg, $url, $matches);
+  $raw_asin = @$matches[1];
+  if($raw_asin) {
+    $asin_parts = explode('?', $raw_asin);
+    return substr(@$asin_parts[0],0,10);
+  } 
+  return false;
+}
+
+function price_check_get_amazon_best_offer($offers) {
+  $prices = array();
+  foreach($offers as $offer) {
+    if(@$offer['OfferAttributes']['Condition'] == 'New') {
+      $offerlistings = @$offer['OfferListing'];
+      if($offerlistings) {
+        $offerlistings = price_check_force_json_array($offerlistings);
+        foreach($offerlistings as $offerlisting) {
+          if(@$offerlisting['AvailabilityAttributes']['AvailabilityType'] == 'now') {
+            if(@$offerlisting['SalePrice']['Amount']) {
+              $prices[] = $offerlisting['SalePrice']['Amount'] / 100;
+            } else {
+              if(@$offerlisting['Price']['Amount']) {
+                $prices[] = $offerlisting['Price']['Amount'] / 100;
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  if(!$prices) return 0;
+  return min($prices);
+}
+
+function price_check_get_amazon_item_from_asin($asin) {
+	$xml = price_check_aws_signed_request(array(
+    "Operation" => "ItemLookup",
+    "ItemId" => $asin,
+    "IncludeReviewsSummary" => False,
+    "ResponseGroup" => "Medium,Variations,Offers",
+	));
+  return $xml;
+}
+ 
+function price_check_get_page($url) {
+	$curl = curl_init($url);
+	curl_setopt($curl, CURLOPT_FAILONERROR, true);
+	curl_setopt($curl, CURLOPT_FOLLOWLOCATION, true);
+	curl_setopt($curl, CURLOPT_RETURNTRANSFER, true);
+	curl_setopt($curl, CURLOPT_SSL_VERIFYHOST, false);
+	curl_setopt($curl, CURLOPT_SSL_VERIFYPEER, false);
+	$html = curl_exec($curl);
+	curl_close($curl);
+	return $html;
+}
+ 
+function price_check_aws_signed_request($params) {
+  $region = "com";
+	$public_key = "AKIAJZ5RM3DQXSWELRIQ";
+	$private_key = "JHK4fIkq3dgUCPNjKniKR/tsGP4nxjvGkG2J0NJo";
+ 
+	$method = "GET";
+	$host = "ecs.amazonaws." . $region;
+	$host = "webservices.amazon." . $region;
+	$uri = "/onca/xml";
+ 
+	$params["Service"] = "AWSECommerceService";
+	$params["AssociateTag"] = "affiliate-20"; // Put your Affiliate Code here
+	$params["AWSAccessKeyId"] = $public_key;
+	$params["Timestamp"] = gmdate("Y-m-d\TH:i:s\Z");
+	$params["Version"] = "2011-08-01";
+ 
+	ksort($params);
+ 
+	$canonicalized_query = array();
+	foreach ($params as $param => $value) {
+    $param = str_replace("%7E", "~", rawurlencode($param));
+    $value = str_replace("%7E", "~", rawurlencode($value));
+    $canonicalized_query[] = $param . "=" . $value;
+	}
+ 
+	$canonicalized_query = implode("&", $canonicalized_query);
+ 
+	$string_to_sign = $method . "\n" . $host . "\n" . $uri . "\n" . $canonicalized_query;
+	$signature = base64_encode(hash_hmac("sha256", $string_to_sign, $private_key, True));
+	$signature = str_replace("%7E", "~", rawurlencode($signature));
+ 
+	$request = "http://" . $host . $uri . "?" . $canonicalized_query . "&Signature=" . $signature;
+	$response = price_check_get_page($request);
+
+	$pxml = @simplexml_load_string($response);
+	if ($pxml === False) {
+    return False;// no xml
+	} else {
+    $data = json_decode(json_encode($pxml), true);
+    //print_r($data['Items']); exit(0);
+    return $data['Items'];
+	}
+}
+
+function price_check_get_workers($skip_blank = false) {
+  if($skip_blank)
+    $sql = <<<SQL
+select u.uid, field_user_full_name_value, 
+(select count(*) from field_data_field_assigned_to where field_assigned_to_value = u.uid
+and entity_id not in (select entity_id from field_data_field_complete_date)) num from role r
+join users_roles ur on ur.rid = r.rid
+join users u on u.uid = ur.uid
+join field_data_field_user_full_name fn on fn.entity_id = u.uid
+where r.name = 'DS Genie Employee'
+and status = 1
+and login <> 0
+and (select count(*) from field_data_field_assigned_to where field_assigned_to_value = u.uid
+and entity_id not in (select entity_id from field_data_field_complete_date)) > 0
+SQL;
+  else 
+    $sql = <<<SQL
+select u.uid, field_user_full_name_value, 
+(select count(*) from field_data_field_assigned_to where field_assigned_to_value = u.uid
+and entity_id not in (select entity_id from field_data_field_complete_date)) num from role r
+join users_roles ur on ur.rid = r.rid
+join users u on u.uid = ur.uid
+join field_data_field_user_full_name fn on fn.entity_id = u.uid
+where r.name = 'DS Genie Employee'
+and status = 1
+and login <> 0
+SQL;
+  $results = db_query($sql); 
+  $output = array();
+  foreach($results as $row) {
+    $output[$row->uid] = $row->field_user_full_name_value . " (" . $row->num . ")";
+  }
+  return $output;
+}
+
+function price_check_transfer_work_form($form, &$form_state) {
+  $form['work_from'] = array(
+    '#type' => 'select',
+    '#title' => t('Work From'),
+    '#options' => price_check_get_workers(true),
+    '#required' => TRUE, 
+  );
+  $form['work_to'] = array(
+    '#type' => 'select',
+    '#title' => t('Work To'),
+    '#options' => price_check_get_workers(),
+    '#required' => TRUE, 
+  );
+  $form['quantity'] = array(
+    '#type' => 'textfield',
+    '#title' => t('Quantity'),
+    '#required' => TRUE, 
+  );
+  $form['submit_button'] = array(
+    '#type' => 'submit',
+    '#value' => t('Transfer'),
+  );
+  return $form; 
+}
+
+function price_check_transfer_work_atom($nid, $worker_to, &$context) {
+  $node = node_load($nid);
+  $node->field_assigned_to['und'][0]['value'] = $worker_to;
+  node_save($node);
+  $context['results'][] = $node->title;
+  $context['message'] = $node->title;
+}
+
+function price_check_query_transfer_work_alter(QueryAlterableInterface $query) {
+  $query->leftJoin('field_data_field_complete_date', 'fc', 'node.nid = fc.entity_id');
+  $query->isNull('fc.field_complete_date_value'); 
+}
+
+function price_check_transfer_work_finished($success, $results, $operations) {
+  $count = count($results);
+  drupal_set_message("$count items transfered");
+}
+
+function price_check_transfer_work_form_submit($form, &$form_state) {
+  $worker_from = @$form_state['values']['work_from'];
+  $worker_to = @$form_state['values']['work_to'];
+  $quantity = @$form_state['values']['quantity'];
+  
+  $query = new EntityFieldQuery();
+  $query->entityCondition('entity_type', 'node')
+    ->entityCondition('bundle', 'item_template')
+    ->propertyCondition('status', NODE_PUBLISHED)
+    ->fieldCondition('field_assigned_to', 'value', $worker_from, "=")
+    ->addTag('transfer_work')
+    ->range(0, $quantity);
+  
+  $result = $query->execute();
+  if (isset($result['node'])) {
+    //print_r($result); exit(0);
+    $operations = array(); 
+    foreach($result['node'] as $nid => $v) {
+      $node = node_load($nid);
+      $operations[] = array(
+        'price_check_transfer_work_atom',
+        array($nid, $worker_to,),
+      );
+    }
+    $batch = array(
+      'title' => 'Transfer Work',
+      'operations' => $operations,
+      'finished' => 'price_check_transfer_work_finished',
+      'file' => drupal_get_path('module', 'price_check')  . '/price_check.module',
+    );
+    batch_set($batch);
+    batch_process('/');
+  }
+    /*
+  $sql = <<<SQL
+update field_data_field_assigned_to set field_assigned_to_value = :worker_to where
+field_assigned_to_value = :worker_from
+and entity_id not in (select entity_id from field_data_field_complete_date)
+limit $quantity
+SQL;
+  db_query($sql, array(':worker_to'=>$worker_to, ':worker_from'=>$worker_from));
+  $sql = <<<SQL
+update field_revision_field_assigned_to set field_assigned_to_value = :worker_to where
+field_assigned_to_value = :worker_from
+and entity_id not in (select entity_id from field_data_field_complete_date)
+limit $quantity
+SQL;
+  db_query($sql, array(':worker_to'=>$worker_to, ':worker_from'=>$worker_from));
+  drupal_flush_all_caches();
+  $_SESSION['transfer_work_output'] = array("transfer complete");*/
+}
+
+function price_check_worker_report_form($form, &$form_state) {
+  $form['start_date'] = array(
+    '#type' => 'textfield', 
+    '#title' => 'Start Date (YYYY-MM-DD)',
+    '#size' => 20,
+    '#maxlength' => 20,
+    '#required' => TRUE, 
+  );
+  $form['end_date'] = array(
+    '#type' => 'textfield', 
+    '#title' => 'End Date (YYYY-MM-DD)',
+    '#size' => 20,
+    '#maxlength' => 20,
+    '#required' => TRUE, 
+  );
+  $form['submit_button'] = array(
+    '#type' => 'submit',
+    '#value' => t('OK'),
+  );
+  if(@$_SESSION['worker_output']) {
+    $form['markup'] = array(
+      '#type' => 'item',
+      '#markup' => $_SESSION['worker_output'][0],
+    );
+    unset($_SESSION['worker_output']);
+  }
+  return $form;  
+}
+
+function price_check_get_worker_report_24h($uid) {
+  $start_time = strtotime('today midnight');
+  //$start_time = time() - (24 * 60 * 60);
+  //$end_time = time();
+  $sql = <<<SQL
+select count(*) completed from 
+field_data_field_complete_date fd join
+field_data_field_assigned_to fa on fd.entity_id = fa.entity_id
+where cast(field_complete_date_value as unsigned) >= :start 
+and field_assigned_to_value = :uid
+SQL;
+  $results = db_query($sql, array(':start' => $start_time, ':uid' => $uid));
+  $output = "<table><tr><th>User</th><th>Count</th></tr>";
+  foreach($results as $row) {
+    return $row->completed;
+  }
+  return 0;
+}
+
+function price_check_worker_report_form_submit($form, &$form_state) {
+  $start_date = @$form_state['values']['start_date'];
+  $end_date = @$form_state['values']['end_date'];
+  $start_time = strtotime($start_date);
+  $end_time = strtotime($end_date);
+  $sql = <<<SQL
+select count(*) completed, field_assigned_to_value from 
+field_data_field_complete_date fd join
+field_data_field_assigned_to fa on fd.entity_id = fa.entity_id
+where cast(field_complete_date_value as unsigned) >= :start and 
+cast(field_complete_date_value as unsigned) <= :end
+group by field_assigned_to_value
+SQL;
+  $results = db_query($sql, array(':start' => $start_time, ':end' => $end_time));
+  $output = "<table><tr><th>User</th><th>Count</th></tr>";
+  foreach($results as $row) {
+    $uid = $row->field_assigned_to_value;
+    $account = user_load($uid);
+    $name = $account->name;
+    $count = $row->completed;
+    $output .= "<tr><td>$name</td><td>$count</td></tr>";
+  }
+  $output .= "</table>";
+  $_SESSION['worker_output'] = array($output);
+  //return $output;
+}
+
+function price_check_fix_affiliate_links() {
+  if(@$_SESSION['fix_affiliate_links']) {
+    unset($_SESSION['fix_affiliate_links']);
+    return "done";
+  }
+  $sql = <<<SQL
+select uid from users_roles ur
+join role r on r.rid = ur.rid 
+where r.name = 'Paying Customer'
+SQL;
+  $results = db_query($sql);
+  $operations = array();
+  foreach($results as $row) {
+    $operations[] = array(
+      'price_check_fix_affiliate_links_atom',
+      array($row->uid),
+    );
+  }
+  $batch = array(
+    'title' => 'Update Affiliate Links',
+    'operations' => $operations,
+    'finished' => 'price_check_fix_affiliate_links_finished',
+  );
+  batch_set($batch);
+  batch_process('fix_affiliate_links');    
+}
+
+function price_check_fix_affiliate_links_atom($uid, &$context) {
+  $account = user_load($uid);
+  $customer_id = @$account->field_stripe_id['und'][0]['value'];
+  if($customer_id) {
+    //cus_6lDAb7CINk3MzI
+    $affiliate_id = substr($customer_id, 4);
+    $account->field_affiliate_hash['und'][0]['value'] = $affiliate_id;
+    user_save($account);
+  }
+}  
+
+function price_check_fix_affiliate_links_finished($success, $results, $operations) {
+  $_SESSION['fix_affiliate_links'] = array(true);
+}
+
+function price_check_card_marketplace() {
+  if($_POST) {
+    //Array ( [c24427] => 24427 [c24430] => 24430 )
+    //get the order total
+    $nodes = array();
+    foreach($_POST as $nid) {
+      $nodes[] = $nid;
+    }
+    $cards = node_load_multiple($nodes);
+    $total = 0;
+    foreach($cards as $card) {
+      $total += $card->field_gc_balance['und'][0]['value'];
+    }
+    $total = number_format((float)$total * 0.95, 2, '.', '');
+    //create an invoice
+    global $user;
+    $user = user_load($user->uid);
+    $customer_name = $user->field_user_full_name['und'][0]['value'];
+    $email = $user->mail;
+    $node = new stdClass();
+    $node->title = "\$$total order for $customer_name";
+    $node->type = "invoice";
+    node_object_prepare($node); // Sets some defaults. Invokes hook_prepare() and hook_node_prepare().
+    $node->language = LANGUAGE_NONE; // Or e.g. 'en' if locale is enabled
+    $node->uid = $user->uid; 
+    $node->status = 1; //(1 or 0): published or not
+    $node->promote = 0; //(1 or 0): promoted to front page
+    $node->comment = 0; // 0 = comments disabled, 1 = read only, 2 = read/write
+    $node->field_customer_email['und'][0]['value'] = $email;
+    $node->field_customer_name['und'][0]['value'] = $customer_name;
+    $node->field_customer_amount[$node->language][0]['value'] = $total;
+    $node->field_data[$node->language][0]['value'] = implode(',', $nodes);
+    $node = node_submit($node); 
+    node_save($node);
+    
+    //lock the giftcards to that order
+    $invoice_node = $node->nid;
+    foreach($cards as $card) {
+      $card->field_gc_locked_by['und'][0]['value'] = "invoice\\$invoice_node";
+      node_save($card);
+    }
+    return "Order complete. Check your email $email for the invoice to pay.";
+  }
+  $output = '<form action="" method="POST"><table><tr><th>Card Value</th><th>Add to Order</th></tr>';
+  $uid = 1034;
+  $sql = <<<SQL
+select nid, field_gc_balance_value  from node 
+join field_data_field_gc_balance fb on fb.entity_id = nid
+where uid = :uid
+and type='gift_card'
+and nid not in (select entity_id from field_data_field_gc_locked_by where field_gc_locked_by_value > '')
+SQL;
+  $result = db_query($sql, array(':uid' => $uid));
+  foreach($result as $row) {
+    $value = $row->field_gc_balance_value;
+    $nid = $row->nid;
+    $output .= "<tr><td>\$$value</td><td><input type='checkbox' name='c$nid' value='$nid'/></td></tr>";
+  }
+  $output .=  "<tr><td colspan='2'><input type='submit' value='Order' onclick='return confirm(\"Are you sure you want to place this order? Only order what you need today.\");'></td></tr>" .
+    "</table></form>";
+  return $output;
+}
+
+function price_check_give_listings($uid, $listings, $summary = false) {
+  $account = user_load($uid);
+  $limit = @$account->field_minimum_price['und']['0']['value'];
+  if(!$limit) $limit = 0;
+  $sql = <<<SQL
+select nid, title, field_store_price_value from field_data_field_complete fc 
+join field_data_field_imported fi on fi.entity_id = fc.entity_id 
+join field_data_field_store_price fp on fi.entity_id = fp.entity_id 
+join node on node.nid = fc.entity_id
+where field_complete_value = 1 and 
+uid in (5,1,2290) and 
+cast(field_store_price_value as decimal(11,3)) > :slimit
+order by rand()
+SQL;
+  $results = db_query_range($sql, 0, $listings, array(':slimit' => $limit));
+  $count = 0;
+  $output = '';
+  foreach($results as $row) {
+    $count++;
+    $nid = $row->nid;
+    $title = $row->title;
+    $output .= "<a href='/node/$nid'>$title</a><br />";
+    price_check_give_user_listing($account, $nid);
+  }
+  if($summary) return $count;
+  $output .= "$count listings given";
+  return $output;
+}
+
+function price_check_give_user_listing($account, $nid) {
+  $node = node_load($nid);
+  $node->uid = $account->uid;
+  $node->field_complete['und'][0]['value'] = 0;
+  $node->field_suggested_accounts = $account->field_ebay_accounts;
+  node_save($node);
+}
+
+function price_check_is_paying_customer($uid = false) {
+  if($uid) {
+    $user_full = user_load($uid);
+  } else {
+    $user_full = price_check_get_current_user();
+  }
+  if (in_array('Paying Customer', $user_full->roles)) return true;
+  return false;
+}
+
+/*
+function price_check_fix_walmart_items() {
+  if(@$_SESSION['walmart_fix']) {
+    unset($_SESSION['walmart_fix']);
+    return "done";
+  } else {
+    $sql = "select * from field_data_field_external_url where field_external_url_value like '%walmart.com%' order by entity_id desc";
+    $results = db_query($sql);
+    $operations = array();
+    foreach($results as $row) {
+      $operations[] = array(
+        'price_check_fix_walmart_item_atom',
+        array($row->entity_id),
+      );
+    }
+    $batch = array(
+      'title' => 'Update Walmart Item',
+      'operations' => $operations,
+      'finished' => 'price_check_fix_walmart_item_finished',
+    );
+    batch_set($batch);
+    batch_process('fix_walmart_items');
+  }
+}
+
+function price_check_fix_walmart_item_atom($nid, &$context) {
+  $node = node_load($nid);
+  $ext_url = $node->field_external_url['und'][0]['value'];
+  $ebay_url = $node->field_ebay_url['und'][0]['value'];
+  $obj = price_check_get_walmart_item_from_url($ext_url);
+  $ebay_item = price_check_get_ebay_item_from_url($ebay_url);
+  
+  //add seller info
+  $node->field_seller['und'][0]['value'] = $ebay_item['Item']['Seller']['UserID'];
+  $node->field_quantity_sold['und'][0]['value'] = $ebay_item['Item']['SellingStatus']['QuantitySold'];
+  
+  //add brand, mpn, upc info
+  $node->field_upc['und'][0]['value'] = @$obj->upc;
+  $node->field_mpn['und'][0]['value'] = @$obj->modelNumber;
+  $node->field_brand['und'][0]['value'] = @$obj->brandName;
+  
+  node_save($node);
+}
+
+function price_check_fix_walmart_item_finished($success, $results, $operations)  {
+  $_SESSION['walmart_fix'] = array(true);
+}*/
+
+function price_check_debug_ebay_listings($id) {
+  $sql = "select entity_id from field_data_field_subscribers where field_subscribers_value like '%$id%'";
+  $result = db_query($sql);
+  $nid = $result->fetchField();
+  $node = node_load($nid);
+  $output = "<div><a href='/node/$nid/edit' target='_new'>Node</a></div>" .  
+     "<div>" . price_check_get_ebay_item_url($id) . "</div>" .
+     "<div>" . $node->field_external_url['und'][0]['value'] . "</div>";
+  return $output;
+}
+
+function price_check_is_debug() {
+  return false;
+}
+
+function price_check_permission() {
+  return array(
+    'dsgenie basic functions' => array(
+      'title' => t('Basic Functions'),
+    ),
+    'dsgenie financial functions' => array(
+      'title' => t('Financial Functions'),
+    ),
+    'dsgenie paying customer' => array(
+      'title' => t('Paying Customer'),
+    ),
+    'dsgenie affiliate functions' => array(
+      'title' => t('Affiliate'),
+    ),
+    'dsgenie reporting functions' => array(
+      'title' => t('Reporting'),
+    ),
+    'dsgenie listing functions' => array(
+      'title' => t('Listing'),
+    ),
+    'dsgenie lookup functions' => array(
+      'title' => t('Lookup'),
+    ),
+    'dsgenie marketplace functions' => array(
+      'title' => t('MarketPlace'),
+    ),
+    'dsgenie research functions' => array(
+      'title' => t('Research'),
+    ),
+    'dsgenie manager functions' => array(
+      'title' => t('Manager'),
+    ),
+  );
+}
+
+function price_check_paypal_ipn() {
+  drupal_mail('price_check', 'ipn', "kwesistewart@bluephoenixtt.com", language_default(), print_r($_POST, true));
+}
+
+function price_check_block_info() {
+  $blocks['subscription_status'] = array(
+    'info' => t('Subscription Status'),
+    'status' => TRUE,
+    'region' => 'sidebar_first',
+    'cache' => DRUPAL_CACHE_PER_USER,
+  );
+
+  return $blocks;
+}
+
+function price_check_call_stripe() {
+  die("stripe is gone"); exit(0);
+  require_once('/mnt/target03/355840/www.dsgenie.com/web/content/stripe-php/init.php');
+  \Stripe\Stripe::setApiKey("sk_live_Q5K1eBX9iUjZ6YKZVvQzubku");
+}
+
+function price_check_get_stripe_public_key() {
+  return "pk_live_0Wk2zQXzdhHEmXYK4baiU9Dw";
+}
+
+function price_check_call_stripe_test() {
+  require_once('/mnt/target03/355840/www.dsgenie.com/web/content/stripe-php/init.php');
+  \Stripe\Stripe::setApiKey("sk_test_WCvYMLtppzyaBkDDzvL1eMaT");
+}
+
+function price_check_get_stripe_public_key_test() {
+  return "pk_test_RAwnpgvMAFXzTMi5U9c3Qt4Z";
+}
+
+function price_check_get_stripe_button() {
+  $public_key = price_check_get_stripe_public_key();
+  $output = <<<OUTPUT
+<form action="/payment_processor" method="POST">
+  <script
+    src="https://checkout.stripe.com/checkout.js" class="stripe-button"
+    data-key="pk_live_0Wk2zQXzdhHEmXYK4baiU9Dw"
+    data-amount="10000"
+    data-name="DS Genie"
+    data-description="Monthly subscription $100.00">
+  </script>
+</form>
+OUTPUT;
+    return $output;
+}
+
+function price_check_build_subscription() {
+  return ".";
+  $user_full = price_check_get_current_user();
+  if($user_full->uid == 0) return "";
+  if (in_array('Paying Customer', $user_full->roles)) {
+    //bootleggers
+    $stripe_id = @$user_full->field_stripe_id['und'][0]['value'];
+    if(!$stripe_id) return "<h3>Status: FREE</h3>" . 
+      "<p>Current subscription does not expire</p>";
+    //find out when does the subscription end
+    price_check_call_stripe();
+    $customer = \Stripe\Customer::retrieve($user_full->field_stripe_id['und'][0]['value']);
+    $subscription = $customer->subscriptions->retrieve($user_full->field_subscription_id['und'][0]['value']);
+    $status = $subscription->status;
+    $end_timestamp = $subscription->current_period_end;
+    $end_date = date('Y-m-d', $end_timestamp);
+    $output = "<h3>Status: $status</h3>" . 
+        "<p>Current subscription ends on $end_date</p>";
+    return $output;
+  } else {
+    if (in_array('Trial Customer', $user_full->roles)) {
+      $output = "<h3>Status: Trial</h3>" . 
+          "<p>You are currently in Trial Mode. You should use the button below to subscribe before the trial period ends.</p>";
+      $output .= price_check_get_stripe_button();
+      return $output;
+    } else {
+      //new signup maybe?
+      $output = "<h3>Status: New User</h3>" . 
+          "<p>It looks like you are new to the system. You should use the button below to subscribe and access all the features.</p>";
+      $output .= price_check_get_stripe_button();
+      return $output;
+    }
+  }
+}
+
+function price_check_block_view($delta = '') {
+  // The $delta parameter tells us which block is being requested.
+  switch ($delta) {
+    case 'subscription_status':
+      $block['subject'] = t('Subscription Status');
+      $block['content'] = price_check_build_subscription();
+      break;
+  }
+  return $block;
+}
+
+function price_check_bcm_stripe() {
+  if($_POST) {
+    $amount = '1600';
+    $email = @$_POST['bcm_email'];
+    $token = @$_POST['stripetoken'];
+    price_check_call_stripe();
+    $token = $_POST['stripeToken'];
+    try {
+      $charge = \Stripe\Charge::create(array(
+        "amount" => $amount,
+        "source" => $token,
+        "currency" => 'usd')
+      );  
+    }
+    catch (Exception $e) {
+    // Something else happened, completely unrelated to Stripe
+    }
+    $stripe_id = @$charge->id;
+    if(@$charge->status == 'succeeded') {
+      price_check_go_bcm_success_url($stripe_id);
+    } else {
+      price_check_go_bcm_fail_url($stripe_id);
+    }
+  } else {
+    price_check_go_bcm_fail_url(false);
+  }
+}
+
+function price_check_go_bcm_success_url($stripe_id) {  
+  $data = "success=true&stripe_id=" . $stripe_id; 
+  print_r($data); exit(0);
+  header("Location: http://tumscoltd.com/registernow.php?$data"); 
+}
+
+function price_check_go_bcm_fail_url($stripe_id) {
+  $data = "success=false&stripe_id=" . $stripe_id; 
+  
+  print_r($data); exit(0);
+  header("Location: http://tumscoltd.com/registernow.php?$data"); 
+}
+
+function price_check_stripe_hook() {
+  return;
+  price_check_call_stripe();
+  $input = @file_get_contents("php://input");
+  $event_json = json_decode($input);
+  drupal_mail('price_check', 'stripe hook', "kwesistewart@bluephoenixtt.com", language_default(), print_r($event_json, true));
+  //http_response_code(200); // PHP 5.4 or greater
+  exit(0);
+}
+
+function price_check_payment_processor() {
+  if($_POST) {
+    $token = @$_POST['stripetoken'];
+    $user_full = price_check_get_current_user();
+    price_check_call_stripe();
+    $token = $_POST['stripeToken'];
+    $customer = \Stripe\Customer::create(array(
+      "source" => $token,
+      "plan" => "basic",
+      "email" => $user_full->mail)
+    );  
+    $user = user_load($user_full->uid);
+    $vp = '_values:protected';
+    //$stripe_id = $customer->$vp['id'];
+    //$subscr_id = $customer->$vp['subscriptions']->$vp['data'][0]->$vp['id'];
+    $stripe_id = $customer->id;
+    $subscr_id = $customer->subscriptions->data[0]->id; 
+    if($customer->subscriptions->data[0]->status == 'active') {
+      $user->field_stripe_id['und'][0]['value'] = $stripe_id;
+      $user->field_subscription_id['und'][0]['value'] = $subscr_id;
+      //create affiliate id
+      $affiliate_id = substr($stripe_id, 4);
+      $user->field_affiliate_hash['und'][0]['value'] = $affiliate_id;
+      user_save($user);
+      $role = user_role_load_by_name("Paying Customer");
+      user_multiple_role_edit(array($user_full->uid), 'add_role', $role->rid);
+      $role = user_role_load_by_name("Basic");
+      user_multiple_role_edit(array($user_full->uid), 'add_role', $role->rid);
+      $role = user_role_load_by_name("Financial");
+      user_multiple_role_edit(array($user_full->uid), 'add_role', $role->rid);
+      return "Payment Success. <br />" . 
+        "You need to <a href='/user/logout'>log out</a> and in again for changes to take effect.";
+    } else {
+      return "Payment failed. Please try again.";
+    }
+  } else {
+    $public_key = price_check_get_stripe_public_key();
+    $output = <<<OUTPUT
+<h1>Pay for DS Genie</h1>
+<form action="" method="POST">
+  <script
+    src="https://checkout.stripe.com/checkout.js" class="stripe-button"
+    data-key="pk_live_0Wk2zQXzdhHEmXYK4baiU9Dw"
+    data-amount="10000"
+    data-name="DS Genie"
+    data-description="Monthly subscription $100.00">
+  </script>
+</form>
+OUTPUT;
+    return $output;
+  }
+}
+
+function price_check_view_invoice($nid) {
+  if(!$nid) return;
+  $node = node_load($nid);
+  if($_POST) {
+    $amount = $node->field_customer_amount['und'][0]['value'] * 100;
+    $email = $node->field_customer_email['und'][0]['value'];
+    $token = @$_POST['stripetoken'];
+    price_check_call_stripe();
+    $token = $_POST['stripeToken'];
+    $charge = \Stripe\Charge::create(array(
+      "amount" => $amount,
+      "source" => $token,
+      "currency" => 'usd')
+    );  
+    $stripe_id = $charge->id;
+    if($charge->status == 'succeeded') {
+      $node->field_transaction_id['und'][0]['value'] = $stripe_id;
+      $node->field_paid['und'][0]['value'] = 1;
+      node_save($node);
+      //is this a GC order?
+      $data = @$node->field_data['und'][0]['value'];
+      $output = '';
+      if($data) {
+        $nodes = explode(',', $data);
+        $cards = node_load_multiple($nodes);
+        $output = '<table><tr><th>Card</th><th>Pin</th><th>Value</th></tr>';
+        foreach($cards as $card) {
+          $card->uid = $node->uid;
+          $account = user_load($card->uid);
+          $card->field_content_access_token = $account->field_user_access_token;
+          $card->field_gc_locked_by['und'][0] = null;
+          node_save($card);
+          $output .= "<tr><td>{$card->title}</td><td>{$card->field_pin['und'][0]['value']}</td><td>{$card->field_gc_balance['und'][0]['value']}</td></tr>";
+        }
+        $output .= "</table>";
+      }
+      return "Payment Success." . $output;
+    } else {
+      return "Payment failed. Please try again.";
+    }
+  } else {
+    $public_key = price_check_get_stripe_public_key();
+    $stripe_amount = $node->field_customer_amount['und'][0]['value'] * 100;
+    $amount = $node->field_customer_amount['und'][0]['value'];    
+    $output = <<<OUTPUT
+<h1>Pay Invoice</h1>
+<p>Customer Name: {$node->field_customer_name['und'][0]['value']}</p>
+<p>Description: {$node->title}</p>
+<p>Amount: {$node->field_customer_amount['und'][0]['value']}</p>
+<form action="" method="POST">
+  <script
+    src="https://checkout.stripe.com/checkout.js" class="stripe-button"
+    data-key="$public_key"
+    data-amount="$stripe_amount"
+    data-name="DS Genie Invoice"
+    data-description="One time payment $$amount">
+  </script>
+</form>
+OUTPUT;
+    return $output;
+  }
+}
+
+function price_check_dismiss_notification($nid) {
+  global $user;
+  if($nid == 'all') {
+    $sql = "select nid from node where type='item_activity' and status = 1 and uid = :uid";
+    $results = db_query($sql, array(":uid" => $user->uid));
+    $operations = array(); 
+    foreach($results as $row) {
+      $operations[] = array(
+        'price_check_remove_notifications_atom',
+        array($row->nid),
+      );
+    }
+    $batch = array(
+      'title' => 'Removing notifications',
+      'operations' => $operations,
+      'finished' => 'price_check_remove_notifications_finished',
+      'file' => drupal_get_path('module', 'price_check')  . '/price_check.module',
+    );
+    batch_set($batch);
+    batch_process('/');
+  } else {
+    $node = node_load($nid);
+    if($node->uid == $user->uid || $user->uid == 1) {
+      $node->status = 0;
+      node_save($node);
+    }
+  }
+  if(@$_SERVER['HTTP_REFERER']) {
+    header("Location: " . $_SERVER['HTTP_REFERER']);
+  } else 
+  drupal_goto('notifications');
+}
+  
+function price_check_remove_notifications_atom($nid, &$context) {
+  node_delete($nid);
+  $context['results'][] = $nid;
+}
+
+function price_check_remove_notifications_finished($success, $results, $operations) {
+  $count = count($results);
+  drupal_set_message("$count notifications removed");
+}
+
+function price_check_item_search_results() {
+  $sql = <<<EOSQL
+select nid from node where type='item_template' 
+and nid not in (select entity_id from field_data_field_external_url) 
+and nid in (select entity_id from field_data_field_search_response)
+EOSQL;
+  $results = db_query($sql);
+  $operations = array();
+  foreach($results as $row) {
+    $operations[] = array(
+      'price_check_get_image_result',
+      array($row->nid),
+    );
+  }
+  $batch = array(
+    'title' => 'Search Item Sources',
+    'operations' => $operations,
+    'finished' => 'price_check_get_image_result_finished',
+  );
+  batch_set($batch);
+  batch_process('/');
+}
+
+function price_check_get_image_result($nid, &$context_array) {
+  print_r("needs work"); exit(0);
+  $node = node_load($nid);
+  $response = $node->field_search_response['und'][0]['value'];
+  $response_data = json_decode($response);
+  if($response_data->status == 200 || $response_data->status == 201) {
+    $project_id = $response_data->project_id;
+    $data = price_check_get_image_search_request();
+    $data['project_id'] = $project_id;
+    $json = json_encode($data);
+    $context = stream_context_create(
+      array(
+        'http' => array(
+          'method' => 'POST', 
+          "Content-Type: application/json\r\n",
+          'content' => $json 
+        )
+      )
+    );
+    $response = @file_get_contents("https://incandescent.xyz/api/get/", FALSE, $context);
+    $response_data = json_decode($response, true);  
+    $sources = array(
+      'www.amazon.com',
+      'www.walmart.com',
+    );
+    $results = array();
+    foreach($response_data as $source => $raw_data) {
+      if(in_array($source, $sources)) {
+        foreach($raw_data['pages'] as $rank => $raw_atom) {
+          $results[] = array('score' => $raw_atom['usage-height'] * $raw_atom['usage-width'] / $rank,
+            'page' => $raw_atom['page']);
+        }
+      }
+    }
+    usort($results, 'price_check_sort_image_results');
+    foreach($results as $result) {
+      $node->field_search_results['und'][] = array('value' => $result['page']);
+    }
+    foreach($results as $result) {
+      $link = $result['page'];
+      if($item = price_check_get_item_object_from_url($link)) {
+        $node->field_store_price['und'][0]['value'] = $item->salePrice;
+        $node->field_external_url['und'][0]['value'] = $link;
+        break;
+      }
+    }
+    node_save($node);
+    $context_array['results'][] = "<a href='/node/{$node->nid}'>{$node->title}</a><br />";
+  }
+}
+
+function price_check_get_image_result_finished($success, $results, $operations)  {
+  print_r($results); exit(0);
+}
+
+function price_check_sort_image_results($a, $b) {
+  if ($a['score'] == $b['score']) {
+    return 0;
+  }
+  return ($a['score'] < $b['score']) ? -1 : 1;
+}
+
+function price_check_fix_items() {
+  $sql = <<<EOSQL
+select nid from node where type='item_template' and nid not in (
+select entity_id from field_data_field_my_item where field_my_item_value = 1) and nid in (
+select entity_id from field_data_field_category where field_category_value is null );
+EOSQL;
+  $results = db_query($sql);
+  $operations = array();
+  foreach($results as $row) {
+    $operations[] = array(
+      'price_check_fix_items_atom', 
+      array($row->nid),
+    );
+  }
+  $batch = array(
+    'title' => 'Update Items',
+    'operations' => $operations,
+    'finished' => 'price_check_fix_items_finished',
+  );
+  batch_set($batch);
+  batch_process('/');
+}
+
+function price_check_fix_items_atom($nid, &$context) {
+  $node = node_load($nid);
+  $ebay_url = $node->field_ebay_url[$node->language][0]['value'];
+  $item = price_check_get_ebay_item_from_url($ebay_url);
+  if(!@$item['Item']['ConditionID']) $item['Item']['ConditionID'] = 1000;
+  $node->field_condition[$node->language][0]['value'] = $item['Item']['ConditionID'];
+  $node->field_category[$node->language][0]['value'] = $item['Item']['PrimaryCategory']['CategoryID'];
+  node_save($node);
+  $context['results']['fix_items'][] = "<a href='/node/{$node->nid}' target='_blank'>{$node->title}</a><br />";
+}
+
+function price_check_fix_items_finished($success, $results, $operations)  {
+  print_r($results); exit(0);
+}
+
+function price_check_get_ebay_item_from_url($ebay_url, $uid = false) {
+  $parts = explode("/", $ebay_url);
+  $last_part = array_pop($parts);
+  $ebay_id = @array_shift(explode("?", $last_part));
+  $ebay_item = price_check_get_ebay_item_from_id($ebay_id, $uid);
+  return $ebay_item;
+}
+
+function price_check_seller_sources_finished($success, $results, $operations)  {
+  print_r($results); exit(0);
+}
+
+
+
+
+
+
+
+
+
+function price_check_get_image_search_request() {
+  $expires = time()+1000;
+  $apikey = '79f66c59a2c0d45bf4a09235589bba73';
+  $uid = 6572;
+  $stringToSign = $uid."\n".$expires; 
+  $binarySignature = hash_hmac('sha1', $stringToSign, $apikey, true);
+  $signature =urlencode(base64_encode($binarySignature));
+  $data = array("uid"=>6572,"expires"=>$expires,"signature"=>$signature);
+  return $data;
+}
+
+function price_check_image_search($images) {
+  $data = price_check_get_image_search_request();
+  $data['images'] = $images;
+  $json = json_encode($data);
+  $context = stream_context_create(
+    array(
+      'http' => array(  
+        "method" => "POST", 
+        "Content-Type: application/json\r\n",
+        'content' => $json, 
+      ),
+    )
+  );
+  $response = @file_get_contents("https://incandescent.xyz/api/add/", FALSE, $context);
+  return $response;
+}
+
+function price_check_batch_get_seller_items_sources_atom($item, $response, &$context_batch) {
+  $response_data = json_decode($response);
+  //{"status":200,"project_id":1234567890}
+  if($response_data->status == 200 || $response_data->status == 201) {
+    $project_id = $response_data->project_id;
+    $data = price_check_get_image_search_request();
+    $data['project_id'] = $project_id;
+    $json = json_encode($data);
+    $context = stream_context_create(
+      array(
+        'http' => array(
+          'method' => 'POST', 
+          "Content-Type: application/json\r\n",
+          'content' => $json 
+        )
+      )
+    );
+    $response = @file_get_contents("https://incandescent.xyz/api/get/", FALSE, $context);
+    $response_data = json_decode($response);
+    $status = @$response_data->status;
+    if($status == 710) {
+      return;
+    }
+    if($status == 755) {
+      //no results
+      return;
+    }
+    $context_batch['results'][$item]['response'] = $response;
+  }
+}
+function price_check_update_item_template_node($node, $description, $images, $price) {
+  if(!@$node->field_price[$node->language][0]['value']) {
+    $node->field_price[$node->language][0]['value'] = $price;
+    node_save($node); 
+    return;
+  }
+  $node->body[$node->language][0]['value'] = $description;
+  //$node->body[$node->language][0]['summary'] = 'Here goes a summary';
+  $node->body[$node->language][0]['format'] = 'ebay'; 
+  //load images
+  foreach($images as $image) {
+    $picture_output[] = array('value' => price_check_save_ebay_picture($image));
+  }
+  $node->field_picture[$node->language] = $picture_output;
+  $node->field_search_response[$node->language][0]['value'] = price_check_image_search($images);
+  node_save($node);
+}
+
+function price_check_get_ebay_item_from_url_internal($ebay_url) {
+  $sql = "select * from field_data_field_ebay_url where field_ebay_url_value = :ebay_url";
+  $results = db_query($sql, array(":ebay_url" => $ebay_url));
+  foreach($results as $row) {
+    return node_load($row->entity_id);
+  }
+  return false;
+}
+
+function price_check_get_item_sales_30($item, $uid = false) {
+  global $user;
+  if(is_array($item)) {
+    if(@$item['Item'])
+      $ebay_id = $item['Item']['ItemID'];
+    if(@$item['ItemID'])
+      $ebay_id = $item['ItemID'];
+    if(@$item['itemId'])
+      $ebay_id = $item['itemId'];
+  } else {
+    if(is_numeric($item))
+      $ebay_id = $item;
+  }
+  if(!$ebay_id) return 0;
+  $data = price_check_get_ebay_item_transactions($ebay_id, $uid);
+  if(!@$data['TransactionArray']['Transaction']) return 0;
+  $transactions = price_check_force_json_array(@$data['TransactionArray']['Transaction']);
+  return count($transactions);
+}
+
+function price_check_save_item_template_node($ebay_url, $title, $description, $images, $response, $price, $condition, $category, $seller, $quantity_sold, $uid = false) {
+  global $user;
+  if(!$uid) {
+    $uid = $user->uid;
+  }
+  $node = new stdClass();
+  $node->title = $title;
+  $node->type = "item_template";
+  node_object_prepare($node); // Sets some defaults. Invokes hook_prepare() and hook_node_prepare().
+  $node->language = LANGUAGE_NONE; // Or e.g. 'en' if locale is enabled
+  $node->uid = $uid;
+  $node->status = 1; //(1 or 0): published or not
+  $node->promote = 0; //(1 or 0): promoted to front page
+  $node->comment = 0; // 0 = comments disabled, 1 = read only, 2 = read/write
+  $node->field_price[$node->language][0]['value'] = $price;
+  $images = price_check_force_json_array($images);
+  foreach($images as $image) {
+    $picture_output[] = array('value' => price_check_save_ebay_picture($image));
+  }
+  $node->field_condition[$node->language][0]['value'] = $condition;
+  $node->field_category[$node->language][0]['value'] = $category;
+  $node->field_picture[$node->language] = $picture_output;
+  $node->field_ebay_url[$node->language][0]['value'] = $ebay_url;
+  $node->body[$node->language][0]['value'] = $description;
+  $node->body[$node->language][0]['format'] = 'ebay'; 
+  $node->field_search_response[$node->language][0]['value'] = $response;
+  $node->field_seller['und'][0]['value'] = $seller;
+  $node->field_quantity_sold['und'][0]['value'] = $quantity_sold;
+  $node->field_imported['und'][0]['value'] = 1;
+  $node = node_submit($node); // Prepare node for saving
+  node_save($node);
+  watchdog('DEBUG:GSM', $node->nid);
+  return $node->nid;
+}
+
+function price_check_terapeak_test_2() {
+  $batch = $_SESSION['batch_2'][0];
+  batch_set($batch);
+  unset($_SESSION['batch_2']);
+  batch_process('terapeak_test_3');
+}
+
+function price_check_get_ebay_seller_item_details() {}
+
+function price_check_debug_batch_revise() {
+  $ebay_account = 'bigdealsinthebigapple';
+  $sql = "select * from field_data_field_subscribers where field_subscribers_value like :ebay_account";
+  $result = db_query($sql, array(':ebay_account' => db_like($ebay_account . '|') . '%'));
+  
+  foreach($result as $row) {
+    $entity_id = $row->entity_id;
+    $subscriber = price_check_get_subscriber_from_string($row->field_subscribers_value);
+    $item_template = node_load($entity_id);
+    $item_id = $subscriber['ebay_id'];
+    $auth_code = price_check_get_ebay_auth_code_admin($subscriber['ebay_account']);
+    $operations[] = array(
+      'price_check_revise_ebay_item_atom',
+      array(
+        $item_template, $item_id, $auth_code
+      ),
+    );
+  }
+  $batch = array(
+    'operations' => $operations,
+    'finished' => 'price_check_revise_ebay_item_finished',
+  );
+  batch_set($batch);
+  batch_process('/');
+}
+
+function price_check_revise_ebay_item_finished($success, $results, $operations) {
+  if ($success) {
+    drupal_set_message(t('@count items processed.', array('@count' => count($results), )));
+    $output = "<PRE>" . print_r($results, true) . "</PRE>";
+    return $output;
+  }
+  else {
+    $error_operation = reset($operations);
+    drupal_set_message(
+      t('An error occurred while processing @operation with arguments : @args',
+        array(
+          '@operation' => $error_operation[0],
+          '@args' => print_r($error_operation[0], TRUE),
+        )
+      )
+    );
+  }
+}
+
+function price_check_debug_batch(){
+  $files = file_scan_directory('public://', '/^file.*$/');
+  drupal_set_message(t('Found @num images to process', array('@num' => count($files))));
+  $operations = array();
+  foreach($files as $uri => $data) {
+    $operations[] = array(
+      'price_check_resize_image_atom',
+      array(
+        $uri
+      ),
+    );
+  }
+  $batch = array(
+    'operations' => $operations,
+    'finished' => 'price_check_resize_image_finished',
+  );
+  batch_set($batch);
+  batch_process('/');
+}
+
+function price_check_resize_image_atom($uri, &$context) {
+  $image = image_load($uri);
+  if($image) {
+    $w = $image->info['width'];
+    $h = $image->info['height'];
+    if($w < 500 && $h < 500) {
+      if($w < $h) {
+        $s = 500/$h;
+        $ws = $s * $w;
+        $hs = 500;
+      } else {
+        $s = 500/$w;
+        $hs = $s * $h;
+        $ws = 500;
+      } 
+      image_resize($image, $ws, $hs);
+      image_save($image,$uri);
+      $context['results'][] = "$uri resized";
+      $context['message'] = t('Resized @uri', array('@uri' => $uri));
+    } else {
+      $context['results'][] = "$uri skipped";
+      $context['message'] = t('Skipping @uri', array('@uri' => $uri));
+    }
+  } else {
+    $context['results'][] = "$uri skipped - failed to load";
+    $context['message'] = t('Skipping @uri because of error', array('@uri' => $uri));
+  }
+}
+
+function price_check_resize_image_finished($success, $results, $operations) {
+  if ($success) {
+    drupal_set_message(t('@count files processed.', array('@count' => count($results), )));
+    return "<PRE>" . print_r($results) . "</PRE>";
+  }
+  else {
+    $error_operation = reset($operations);
+    drupal_set_message(
+      t('An error occurred while processing @operation with arguments : @args',
+        array(
+          '@operation' => $error_operation[0],
+          '@args' => print_r($error_operation[0], TRUE),
+        )
+      )
+    );
+  }
+}
+
+function price_check_my_signups() {
+  $user_full = price_check_get_current_user();
+  if($user_full) {
+    if(!@$user_full->field_affiliate_hash['und'][0]['value']) return '';
+    $sql = <<<SQL
+select uid from users_roles ur
+join role r on r.rid = ur.rid 
+join field_data_field_affiliate_code fc on fc.entity_id = uid
+where r.name = 'Paying Customer' 
+and field_affiliate_code_value = :code
+SQL;
+    $results = db_query($sql, array(':code' => $user_full->field_affiliate_hash['und'][0]['value']));
+    $output = '<table><tr><th>Customer Name</th><th>Date Subscribed</th><th>Amount</th></tr>';
+    $total_comm = 0;
+    foreach($results as $row) {
+      $account = user_load($row->uid);
+      $customer_name = $account->field_user_full_name['und'][0]['value'];
+      $month = date('n');
+      $year = date('Y');
+      $start_time = mktime(0,0,0,$month-2,1,$year);
+      $end_time = mktime(23,59,00,$month-1,0,$year);
+      price_check_call_stripe();
+      $customer_id = @$account->field_stripe_id['und'][0]['value'];
+      if(!$customer_id) continue;
+      $customer = \Stripe\Customer::retrieve($customer_id);
+      $subscription = $customer->subscriptions->retrieve($account->field_subscription_id['und'][0]['value']); 
+      if($subscription->status != 'active') continue;
+      if($subscription->start >= $start_time && $subscription->start <= $end_time) {
+        $comm = 50;
+      } else {
+        if($subscription->start < $end_time) {
+          $comm = 20;
+        } else {
+          $comm = 0;
+        }
+      }
+      if($comm == 0) $comm_message = '50 (pending)'; else $comm_message = $comm;
+      $sub_date = date('Y-m-d H:i:s', $subscription->start);
+      $output .= "<tr><td>$customer_name</td><td>$sub_date</td><td>$comm_message</td></tr>";
+      $total_comm += $comm;
+    }
+    if($total_comm) $output .= "<tr><td colspan='2'>Total Commission</td><td>$total_comm</td></tr>";
+    $output .= "</table>";
+    return $output;
+  }
+  return '';
+}
+
+function price_check_add_work_item(&$work, $key, $val) {
+  $nid = substr($key, 1);
+  $k = $key[0];
+  $work[$nid][$k] = $val;
+}
+
+
+
+function price_check_translate_modify_params($params) {
+  foreach($params as $k=>$val) {
+    if($k=='p') $output[] = " set price to $" . $val;
+    if($k=='q') $output[] = " set quantity to " . $val;
+  }
+  return implode(' and ', $output) . ".";
+}
+
+function price_check_build_sql_accounts($ebay_accounts) {
+  $sql = array();
+  $args = array();
+  $i = 0;
+  foreach($ebay_accounts as $account) {
+    $sql[] = "field_subscribers_value like :fsv_$i";
+    $args[":fsv_$i"] = db_like($account . '|') . '%';
+    $i++;
+  }
+  if($i) return array('sql' => implode(' or ', $sql), 'args' => $args);
+  return false;
+}
+
+/*
+function price_check_ebay_listings() {
+  $ebay_accounts = price_check_get_ebay_account_names();
+  $sql_args = price_check_build_sql_accounts($ebay_accounts);
+  $output = "<p>You have no listings at this time.</p>";
+  if($sql_args) {
+    $output = "<form id='modify_item' method='POST' action='/modify_item_ajax'><table><tr><th>Image</th><th>Item Name</th><th>Price</th><th>Set Price</th><th>Set Qty</th><th>Action</th><th>Verified</th><th>Action</th></tr>";
+    $sql = "select * from field_data_field_subscribers where " . $sql_args['sql'];
+    $result = db_query($sql, $sql_args['args']);
+    foreach($result as $record) {
+      $nid = $record->entity_id;
+      $params = $record->field_subscribers_value;
+      $subscriber = price_check_get_subscriber_from_string($params);
+      $price_html = '';
+      if($subscriber['price']) $price_html = " ({$subscriber['price']})";
+      $ebay_id = $subscriber['ebay_id'];
+      $item = node_load($nid);
+      if(!$item) continue;
+      $bool_verified = @$item->field_verified['und'][0]['value'];
+      if($bool_verified) { 
+        $verify_html = "YES";
+      } else {
+        $user_full = price_check_get_current_user();
+        if($user_full->uid != $item->uid) {
+          $verify_html = "ADMIN";
+        } else {
+          $verify_html = "NO";
+        }
+      }
+      $edit_link = "<a href='/edit_ebay/$ebay_id'>(edit)</a>";
+      $ext_link = "<a target='_blank' href='" . htmlspecialchars(@$item->field_external_url['und'][0]['value']) . "'>(link)</a>";
+      $pictures = price_check_decode_field(@$item->field_picture['und']);
+      if(count($pictures) > 0) {
+        $picture = $pictures[0];
+      } else {
+        $pictures = price_check_decode_picture_field(@$item->field_ds_genie_pictures['und']);
+        if(count($pictures) > 0) $picture = $pictures[0];
+      }
+      if(@$picture) {
+        $img = "<img src='$picture' width='100' />";
+      } else 
+        $img = "N/A";
+      $price = @$item->field_price['und'][0]['value'];
+      $remove_link = "<a href='/remove_item/$nid/$ebay_id' onclick='return confirm(\"Are you sure?\")'>remove</a>";
+      $output .= "<tr><td>$img</td><td><a href='" . price_check_get_ebay_item_url($ebay_id)
+        . "'>". @$item->title . "</a> $ext_link $edit_link</td><td>$price $price_html</td>" .
+        "<td><input type='text' name='p$nid' /></td>" .
+        "<td><input type='text' name='q$nid' /></td>" .
+        "<td><input type='hidden' name='x$nid' value='$params' /><input type='submit' value='Submit'></td>" .
+        "<td>$verify_html</td>" .
+        "<td>$remove_link</td>" .
+        "</tr>";
+    }
+    $output .= "</table></form>";
+  }
+  return $output;
+}
+*/
+
+function price_check_ebay_listings_report() {
+  $sql = <<<EOSQL
+select uid, `name`, field_ebay_accounts_value, (select count(*) from field_data_field_subscribers where field_subscribers_value like concat(field_ebay_accounts_value,'|%')) listings from users join field_data_field_ebay_accounts on 
+uid = entity_id
+where status = 1
+order by entity_id
+EOSQL;
+  $result = db_query($sql);
+  $output = "<table><tr><th>Username</th><th>Ebay Account</th><th>Listings</th><th>Action</th></tr>";
+  foreach($result as $record) {
+    $output .= "<tr><td>{$record->name}</td><td>{$record->field_ebay_accounts_value}</td><td>{$record->listings}</td>" .
+        "<td><a href='/view_user_listings/{$record->uid}'>View</a></td></tr>";  
+  }
+  $output .= "</table>";
+  return $output;
+}
+
+function price_check_get_ebay_auth_code($target_ebay_account) {
+  $user_full = price_check_get_current_user();
+  $ebay_accounts = price_check_get_ebay_account_names();
+  foreach($ebay_accounts as $key => $ebay_account) {
+    if($ebay_account == $target_ebay_account) return @$user_full->field_ebay_access_tokens['und'][$key]['value'];
+  }
+  return false;
+}
+
+function price_check_add_subscriber(&$item_template, $subscriber_info) {
+  $item_template->field_subscribers['und'][] = array('value' => $subscriber_info);
+}
+
+function price_check_remove_suggested_account(&$item_template, $ebay_account) {
+  $output = array();
+  foreach($item_template->field_suggested_accounts['und'] as $s_account) {
+    if($s_account['value'] != $ebay_account) $output['und'][] = $s_account;
+  }
+  $item_template->field_suggested_accounts = $output;
+}
+
+function price_check_translate_xml_errors($error_xml) {
+  if(@$error_xml['ShortMessage']) {
+    $error_xml_array = array(0 => $error_xml);
+  } else {
+    $error_xml_array = $error_xml;
+  }
+  foreach($error_xml_array as $error) {
+    $output_line = "<h3>" . $error['ShortMessage'] . "</h3>" .
+      "<p>" . $error['LongMessage'] . "</p>";
+    $error_parms = price_check_force_json_array(@$error['ErrorParameters']);  
+    foreach($error_parms as $error_parm) {
+      $output_line .= "<div>" . $error_parm['Value'] . "</div>";
+    }
+    $output[] = $output_line;
+  }
+  return implode('', $output) . "<!-- " . print_r($error_xml, true) . " -->"; 
+}
+
+function price_check_get_user_location() {
+  $user_full = price_check_get_current_user();
+  return @$user_full->field_city['und'][0]['value'] . ", " .
+      @$user_full->field_state['und'][0]['value'];
+}
+
+function price_check_html_convert_entities($string) {
+  return preg_replace_callback('/&([a-zA-Z][a-zA-Z0-9]+);/S', 
+                               'price_check_convert_entity', $string);
+}
+
+/* Swap HTML named entity with its numeric equivalent. If the entity
+ * isn't in the lookup table, this function returns a blank, which
+ * destroys the character in the output - this is probably the 
+ * desired behaviour when producing XML. */
+function price_check_convert_entity($matches) {
+  static $table = array('quot'    => '&#34;',
+                        'amp'      => '&#38;',
+                        'lt'       => '&#60;',
+                        'gt'       => '&#62;',
+                        'OElig'    => '&#338;',
+                        'oelig'    => '&#339;',
+                        'Scaron'   => '&#352;',
+                        'scaron'   => '&#353;',
+                        'Yuml'     => '&#376;',
+                        'circ'     => '&#710;',
+                        'tilde'    => '&#732;',
+                        'ensp'     => '&#8194;',
+                        'emsp'     => '&#8195;',
+                        'thinsp'   => '&#8201;',
+                        'zwnj'     => '&#8204;',
+                        'zwj'      => '&#8205;',
+                        'lrm'      => '&#8206;',
+                        'rlm'      => '&#8207;',
+                        'ndash'    => '&#8211;',
+                        'mdash'    => '&#8212;',
+                        'lsquo'    => '&#8216;',
+                        'rsquo'    => '&#8217;',
+                        'sbquo'    => '&#8218;',
+                        'ldquo'    => '&#8220;',
+                        'rdquo'    => '&#8221;',
+                        'bdquo'    => '&#8222;',
+                        'dagger'   => '&#8224;',
+                        'Dagger'   => '&#8225;',
+                        'permil'   => '&#8240;',
+                        'lsaquo'   => '&#8249;',
+                        'rsaquo'   => '&#8250;',
+                        'euro'     => '&#8364;',
+                        'fnof'     => '&#402;',
+                        'Alpha'    => '&#913;',
+                        'Beta'     => '&#914;',
+                        'Gamma'    => '&#915;',
+                        'Delta'    => '&#916;',
+                        'Epsilon'  => '&#917;',
+                        'Zeta'     => '&#918;',
+                        'Eta'      => '&#919;',
+                        'Theta'    => '&#920;',
+                        'Iota'     => '&#921;',
+                        'Kappa'    => '&#922;',
+                        'Lambda'   => '&#923;',
+                        'Mu'       => '&#924;',
+                        'Nu'       => '&#925;',
+                        'Xi'       => '&#926;',
+                        'Omicron'  => '&#927;',
+                        'Pi'       => '&#928;',
+                        'Rho'      => '&#929;',
+                        'Sigma'    => '&#931;',
+                        'Tau'      => '&#932;',
+                        'Upsilon'  => '&#933;',
+                        'Phi'      => '&#934;',
+                        'Chi'      => '&#935;',
+                        'Psi'      => '&#936;',
+                        'Omega'    => '&#937;',
+                        'alpha'    => '&#945;',
+                        'beta'     => '&#946;',
+                        'gamma'    => '&#947;',
+                        'delta'    => '&#948;',
+                        'epsilon'  => '&#949;',
+                        'zeta'     => '&#950;',
+                        'eta'      => '&#951;',
+                        'theta'    => '&#952;',
+                        'iota'     => '&#953;',
+                        'kappa'    => '&#954;',
+                        'lambda'   => '&#955;',
+                        'mu'       => '&#956;',
+                        'nu'       => '&#957;',
+                        'xi'       => '&#958;',
+                        'omicron'  => '&#959;',
+                        'pi'       => '&#960;',
+                        'rho'      => '&#961;',
+                        'sigmaf'   => '&#962;',
+                        'sigma'    => '&#963;',
+                        'tau'      => '&#964;',
+                        'upsilon'  => '&#965;',
+                        'phi'      => '&#966;',
+                        'chi'      => '&#967;',
+                        'psi'      => '&#968;',
+                        'omega'    => '&#969;',
+                        'thetasym' => '&#977;',
+                        'upsih'    => '&#978;',
+                        'piv'      => '&#982;',
+                        'bull'     => '&#8226;',
+                        'hellip'   => '&#8230;',
+                        'prime'    => '&#8242;',
+                        'Prime'    => '&#8243;',
+                        'oline'    => '&#8254;',
+                        'frasl'    => '&#8260;',
+                        'weierp'   => '&#8472;',
+                        'image'    => '&#8465;',
+                        'real'     => '&#8476;',
+                        'trade'    => '&#8482;',
+                        'alefsym'  => '&#8501;',
+                        'larr'     => '&#8592;',
+                        'uarr'     => '&#8593;',
+                        'rarr'     => '&#8594;',
+                        'darr'     => '&#8595;',
+                        'harr'     => '&#8596;',
+                        'crarr'    => '&#8629;',
+                        'lArr'     => '&#8656;',
+                        'uArr'     => '&#8657;',
+                        'rArr'     => '&#8658;',
+                        'dArr'     => '&#8659;',
+                        'hArr'     => '&#8660;',
+                        'forall'   => '&#8704;',
+                        'part'     => '&#8706;',
+                        'exist'    => '&#8707;',
+                        'empty'    => '&#8709;',
+                        'nabla'    => '&#8711;',
+                        'isin'     => '&#8712;',
+                        'notin'    => '&#8713;',
+                        'ni'       => '&#8715;',
+                        'prod'     => '&#8719;',
+                        'sum'      => '&#8721;',
+                        'minus'    => '&#8722;',
+                        'lowast'   => '&#8727;',
+                        'radic'    => '&#8730;',
+                        'prop'     => '&#8733;',
+                        'infin'    => '&#8734;',
+                        'ang'      => '&#8736;',
+                        'and'      => '&#8743;',
+                        'or'       => '&#8744;',
+                        'cap'      => '&#8745;',
+                        'cup'      => '&#8746;',
+                        'int'      => '&#8747;',
+                        'there4'   => '&#8756;',
+                        'sim'      => '&#8764;',
+                        'cong'     => '&#8773;',
+                        'asymp'    => '&#8776;',
+                        'ne'       => '&#8800;',
+                        'equiv'    => '&#8801;',
+                        'le'       => '&#8804;',
+                        'ge'       => '&#8805;',
+                        'sub'      => '&#8834;',
+                        'sup'      => '&#8835;',
+                        'nsub'     => '&#8836;',
+                        'sube'     => '&#8838;',
+                        'supe'     => '&#8839;',
+                        'oplus'    => '&#8853;',
+                        'otimes'   => '&#8855;',
+                        'perp'     => '&#8869;',
+                        'sdot'     => '&#8901;',
+                        'lceil'    => '&#8968;',
+                        'rceil'    => '&#8969;',
+                        'lfloor'   => '&#8970;',
+                        'rfloor'   => '&#8971;',
+                        'lang'     => '&#9001;',
+                        'rang'     => '&#9002;',
+                        'loz'      => '&#9674;',
+                        'spades'   => '&#9824;',
+                        'clubs'    => '&#9827;',
+                        'hearts'   => '&#9829;',
+                        'diams'    => '&#9830;',
+                        'nbsp'     => '&#160;',
+                        'iexcl'    => '&#161;',
+                        'cent'     => '&#162;',
+                        'pound'    => '&#163;',
+                        'curren'   => '&#164;',
+                        'yen'      => '&#165;',
+                        'brvbar'   => '&#166;',
+                        'sect'     => '&#167;',
+                        'uml'      => '&#168;',
+                        'copy'     => '&#169;',
+                        'ordf'     => '&#170;',
+                        'laquo'    => '&#171;',
+                        'not'      => '&#172;',
+                        'shy'      => '&#173;',
+                        'reg'      => '&#174;',
+                        'macr'     => '&#175;',
+                        'deg'      => '&#176;',
+                        'plusmn'   => '&#177;',
+                        'sup2'     => '&#178;',
+                        'sup3'     => '&#179;',
+                        'acute'    => '&#180;',
+                        'micro'    => '&#181;',
+                        'para'     => '&#182;',
+                        'middot'   => '&#183;',
+                        'cedil'    => '&#184;',
+                        'sup1'     => '&#185;',
+                        'ordm'     => '&#186;',
+                        'raquo'    => '&#187;',
+                        'frac14'   => '&#188;',
+                        'frac12'   => '&#189;',
+                        'frac34'   => '&#190;',
+                        'iquest'   => '&#191;',
+                        'Agrave'   => '&#192;',
+                        'Aacute'   => '&#193;',
+                        'Acirc'    => '&#194;',
+                        'Atilde'   => '&#195;',
+                        'Auml'     => '&#196;',
+                        'Aring'    => '&#197;',
+                        'AElig'    => '&#198;',
+                        'Ccedil'   => '&#199;',
+                        'Egrave'   => '&#200;',
+                        'Eacute'   => '&#201;',
+                        'Ecirc'    => '&#202;',
+                        'Euml'     => '&#203;',
+                        'Igrave'   => '&#204;',
+                        'Iacute'   => '&#205;',
+                        'Icirc'    => '&#206;',
+                        'Iuml'     => '&#207;',
+                        'ETH'      => '&#208;',
+                        'Ntilde'   => '&#209;',
+                        'Ograve'   => '&#210;',
+                        'Oacute'   => '&#211;',
+                        'Ocirc'    => '&#212;',
+                        'Otilde'   => '&#213;',
+                        'Ouml'     => '&#214;',
+                        'times'    => '&#215;',
+                        'Oslash'   => '&#216;',
+                        'Ugrave'   => '&#217;',
+                        'Uacute'   => '&#218;',
+                        'Ucirc'    => '&#219;',
+                        'Uuml'     => '&#220;',
+                        'Yacute'   => '&#221;',
+                        'THORN'    => '&#222;',
+                        'szlig'    => '&#223;',
+                        'agrave'   => '&#224;',
+                        'aacute'   => '&#225;',
+                        'acirc'    => '&#226;',
+                        'atilde'   => '&#227;',
+                        'auml'     => '&#228;',
+                        'aring'    => '&#229;',
+                        'aelig'    => '&#230;',
+                        'ccedil'   => '&#231;',
+                        'egrave'   => '&#232;',
+                        'eacute'   => '&#233;',
+                        'ecirc'    => '&#234;',
+                        'euml'     => '&#235;',
+                        'igrave'   => '&#236;',
+                        'iacute'   => '&#237;',
+                        'icirc'    => '&#238;',
+                        'iuml'     => '&#239;',
+                        'eth'      => '&#240;',
+                        'ntilde'   => '&#241;',
+                        'ograve'   => '&#242;',
+                        'oacute'   => '&#243;',
+                        'ocirc'    => '&#244;',
+                        'otilde'   => '&#245;',
+                        'ouml'     => '&#246;',
+                        'divide'   => '&#247;',
+                        'oslash'   => '&#248;',
+                        'ugrave'   => '&#249;',
+                        'uacute'   => '&#250;',
+                        'ucirc'    => '&#251;',
+                        'uuml'     => '&#252;',
+                        'yacute'   => '&#253;',
+                        'thorn'    => '&#254;',
+                        'yuml'     => '&#255;'
+
+                        );
+  // Entity not found? Destroy it.
+  return isset($table[$matches[1]]) ? $table[$matches[1]] : '';
+}
+
+function price_check_write_watchdog($subject, $message) {
+  watchdog($subject, $message);
+}
+
+function price_check_get_brand_xml_from_item_template($item_template) {
+  $brand = @$item_template->field_brand['und'][0]['value'];
+  $mpn = @$item_template->field_mpn['und'][0]['value'];
+  $upc = @$item_template->field_upc['und'][0]['value'];
+  if(!$brand) $brand = 'does not apply';
+  if(!$mpn) $mpn = 'does not apply';
+  $brand = htmlspecialchars($brand);
+  $mpn = htmlspecialchars($mpn);
+  $output = "";
+  if($brand && $mpn) {
+    $brand_mpn = <<<BMPN
+<ItemSpecifics>
+  <NameValueList>
+    <Name>Brand</Name>
+    <Value>$brand</Value>
+  </NameValueList>
+  <NameValueList>
+    <Name>MPN</Name>
+    <Value>$mpn</Value>
+  </NameValueList>
+</ItemSpecifics>
+BMPN;
+    $output = $brand_mpn;
+  }
+  if($upc) $output .= "<ProductListingDetails><UPC>$upc</UPC></ProductListingDetails>";
+  //print_r($output); exit(0);
+  if($upc || ($brand && $mpn)) return $output;
+  return "";
+}
+
+function price_check_ebay_account_status() {
+  global $user;
+  $user_full = user_load($user->uid);
+  $ebay_accounts = $user_full->field_ebay_accounts['und'];
+  $output = "<h2>Ebay Account Status</h2>" .
+    "<table><tr><th>Account Name</th><th>Status</th><th>Action</th><tr>";
+  foreach($ebay_accounts as $key => $ebay_account) {
+    $status = price_check_check_ebay_token_status(@$user_full->field_ebay_access_tokens['und'][$key]['value']);
+    if(!$status || @$status['TokenStatus']['Status'] != 'Active') {
+      $status_message = "<a href='/ebay_auth?return=dashboard'>Expired, needs log in</a>";
+      $action_message = "&nbsp;";
+    } else { 
+      //2011-04-14T21:09:41.000Z
+      $expiration_time = strtotime($status['TokenStatus']['ExpirationTime']) - strtotime($status['Timestamp']);
+      $dtF = new DateTime("@0");
+      $dtT = new DateTime("@$expiration_time");
+      $expiration_time_formatted = $dtF->diff($dtT)->format('%a days, %h hours, %i minutes and %s seconds');
+      $status_message = "<a href='/ebay_auth?return=dashboard'>Good for $expiration_time_formatted</a>";
+      $action_message = "<a href='/ebay_auth?return=dashboard&func=logout&token=$key'>Revoke Login</a>";
+    }
+    $output .= "<tr><td>" . $ebay_account['value'] . "</td><td>$status_message</td><td>$action_message</td>";
+  }
+  $output .= "</table>";
+  //api section
+  if(@$user_full->field_ebay_auth_token['und'][0]['value']) {
+    $usage = price_check_get_api_usage(); 
+    if(is_array($usage)) {
+      $output .= "<h2>Error getting api usage. Contact support.<h2>"; 
+    } else {
+      $output .= "<p>Current api usage: $usage/5000</p>";
+    }
+  } else {
+    $output .= "<h2>Contact Customer Service to have your api set up.</h2>";
+  }
+  
+  return $output;
+}
+
+function price_check_get_ebay_account_names_uid($uid) {
+  $user_full = user_load($uid);
+  $ebay_accounts_raw = @$user_full->field_ebay_accounts['und'];
+  $output = array();
+  foreach($ebay_accounts_raw as $ebay_account) {
+    $output[] = $ebay_account['value'];
+  }
+  return $output;
+}
+
+function price_check_get_ebay_account_names() {
+  $user_full = price_check_get_current_user();
+  $ebay_accounts_raw = @$user_full->field_ebay_accounts['und'];
+  $output = array();
+  foreach($ebay_accounts_raw as $ebay_account) {
+    $output[] = $ebay_account['value'];
+  }
+  return $output;
+}
+
+function price_check_decode_field($field_data, $skip_blanks = false) {
+  $output = array();
+  if(!$field_data) return $output;
+  foreach($field_data as $row) {
+    if(is_array($row) && array_key_exists('value', $row)) {
+      if($skip_blanks == true && $row['value'] == '') continue;
+      $output[] = $row['value'];
+    }
+  }
+  return $output;
+}
+
+function price_check_decode_picture_field($field_data) {
+  $output = array();
+  if(!$field_data) return $output;
+  foreach($field_data as $row) {
+    $fid = @$row['fid'];
+    if($fid) {
+      $file = file_load($fid);
+      $uri = $file->uri;
+      $output[] = file_create_url($uri);
+      continue;
+    }
+    if(trim(@$row['uri']) == '') continue;
+    $output[] = file_create_url($row['uri']);
+  }
+  return $output;
+}
+
+function price_check_get_suggested_account($item_template, $ebay_accounts) {
+  $suggested_accounts = price_check_decode_field(@$item_template->field_suggested_accounts['und']);
+  foreach($ebay_accounts as $ebay_account){
+    if(in_array($ebay_account, $suggested_accounts)) return $ebay_account;
+  }
+  return "Not Found";
+}
+
+function price_check_get_ebay_item_id_from_account($item_template, $ebay_accounts) {
+  $subscribers_accounts = price_check_decode_field(@$item_template->field_subscribers['und']);
+  foreach($subscribers_accounts as $subscriber_raw) {
+    $subscriber = price_check_get_subscriber_from_string($subscriber_raw);
+    $ebay_account = $subscriber['ebay_account'];
+    if(in_array($ebay_account, $ebay_accounts)) return $subscriber['ebay_id'];
+  }
+  return false;
+}
+
+function price_check_suggested_items() {
+  $output = "<h2>Suggested Items</h2>" .
+    "<table><tr><th>Image</th><th>Item Name</th><th>Account</th><th>Action</th><tr>";
+  $ebay_accounts = price_check_get_ebay_account_names();
+  $sql = "select entity_id, field_suggested_accounts_value from {field_data_field_suggested_accounts} where " . 
+      "field_suggested_accounts_value in (:ebay_accounts)";
+  $result = db_query($sql, array(':ebay_accounts' => $ebay_accounts));
+  foreach($result as $record) {
+    $nid = $record->entity_id;
+    $item_template = node_load($nid);
+    $ebay_account = $record->field_suggested_accounts_value;
+    if(!@$item_template->field_assigned_to['und'][0]['value']) {
+      $remove_url = "";
+    } else {
+      $remove_url = " | <a href='/swap_item/$nid/$ebay_account'>swap item</a>";
+    }
+    //check if the item is locked
+    if(@$item_template->field_locked_for_review['und'][0]['value'] == 1) {
+      $action_url = "<a href='/node/$nid/edit?destination=dashboard'>review suggestion</a>";
+    } else {
+      $action_url = "<a href='/list_item/$nid/$ebay_account'>add to my ebay account</a> | " .
+        "<a href='/node/$nid/edit?rawform=1'>edit suggestion</a>";
+    }
+    //print_r($item_template->field_picture); exit(0);
+    $pictures = price_check_decode_field(@$item_template->field_picture['und']);
+    $picture = @$pictures[0];
+    if(!$picture || trim($picture) == '' ) {
+      $pictures = price_check_decode_picture_field(@$item_template->field_ds_genie_pictures['und']);
+      $picture = @$pictures[0];
+    }
+    $output .= "<tr><td><a target='_blank' href='{$item_template->field_external_url['und'][0]['value']}'><img src='$picture' width='100' " .
+        "/></a></td><td>" . $item_template->title . "</td><td>" . $ebay_account .
+        "</td><td>$action_url $remove_url</td></tr>";
+  }
+  $output .= "</table>";
+  return $output;
+}
+
+function price_check_user_is_worker() {
+  global $user;
+  if (in_array('DS Genie Employee', array_values($user->roles))) return true;
+  return false;
+}
+
+function price_check_alerts() {
+  global $user;
+  
+  $sql = <<<SQL
+select title,nid from field_data_field_data fd join
+node n on n.nid = fd.entity_id
+where field_data_value = 'invalid' and
+uid = :uid        
+SQL;
+  $results = db_query($sql, array(":uid" => $user->uid));
+  $output = "<h2>Alert</h2><table><tr><th>Title</th><th>Action</th></tr>";
+  foreach($results as $row) {
+    $title = $row->title;
+    $nid = $row->nid;
+    $edit_link = "<a href='/node/$nid/edit'>edit</a>";
+    $output .= "<tr><td>$title</td><td>$edit_link</td></tr>";
+  }
+  $output .= "</table>";
+  return $output;
+  
+}
+
+function price_check_user_dashboard() {
+  global $user;
+  if(!@$user->uid) return '';
+  if (in_array('DS Genie Employee', array_values($user->roles))) return price_check_worker_dashboard();
+  
+  return 
+    price_check_affiliate_link() .
+    price_check_ebay_account_status() .
+    //price_check_alerts() .
+    price_check_suggested_items() . 
+    price_check_worker_dashboard();
+}
+
+function price_check_affiliate_link() {
+  $user_full = price_check_get_current_user();
+  if(@$user_full->field_affiliate_hash['und'][0]['value']) return "<p>Your affiliate link is: http://dsgenie.com/user/register?affiliate_id=" . $user_full->field_affiliate_hash['und'][0]['value'] . "</p>";
+  return '';
+}
+
+function price_check_worker_dashboard() {
+  global $user;
+  $user_full = price_check_get_current_user();
+  if (in_array('Paying Customer', $user_full->roles)) {
+    $output = "<h2>My Research</h2>" .
+      "<a href='/clear_research'>clear research</a><br />" .
+      "<table><tr><th>Seller</th><th>Items</th></tr>";
+  $sql = <<<SQL
+select field_seller_value, count(*) records from node fa 
+join field_data_field_seller fs on fs.entity_id = fa.nid
+where fa.uid = :uid
+and fs.entity_id not in (select entity_id from field_data_field_complete)
+and fs.entity_id in (select entity_id from field_data_field_imported where field_imported_value = 1)
+and fs.entity_id not in (select entity_id from field_data_field_complete where field_complete_value = 1)
+group by field_seller_value
+SQL;
+    $results = db_query($sql, array(':uid' => $user->uid));
+    foreach($results as $row) {
+      $records = $row->records;
+      $seller = $row->field_seller_value;
+      $seller_link = "<a href='/seller_work/$seller'>$seller</a>";
+      $output .= "<tr><td>$seller_link</td><td>$records</td></tr>";
+    }
+    $output .= "</table>";
+    return $output;
+  }
+  
+  $timezone = date('T');
+  $output = "<h2>My Work</h2>" .
+      "<h3>Completed " . price_check_get_worker_report_24h($user->uid) . " as of 12AM today ($timezone)</h3>" .
+      "<table><tr><th>Seller</th><th>Items</th><th>Value</th></tr>";
+  $sql = <<<SQL
+select field_seller_value, count(*) records from field_data_field_assigned_to fa 
+join field_data_field_seller fs on fs.entity_id = fa.entity_id
+join node on node.nid = fa.entity_id
+where field_assigned_to_value = :assigned_to
+and fs.entity_id not in (select entity_id from field_data_field_complete where field_complete_value = 1) and
+nid not in (select entity_id from field_data_field_complete_date where field_complete_date_value > '')
+group by field_seller_value
+SQL;
+  $results = db_query($sql, array(':assigned_to' => $user->uid));
+  $total = 0;
+  foreach($results as $row) {
+    $records = $row->records;
+    $total += $records;
+    $seller = $row->field_seller_value;
+    $seller_link = "<a href='/seller_work/$seller'>$seller</a>";
+    $value = number_format((float)$records / 6, 2, '.', '');
+    $output .= "<tr><td>$seller_link</td><td>$records</td><td>$value</td></tr>";
+  }
+  $total_value = number_format((float)$total / 6, 2, '.', '');
+  $output .= "<tr><td colspan='2'>Total</td><td>$total_value</td></tr></table>";
+  return $output;
+}
+
+function price_check_tracking_update_form($form, &$form_state) {
+  if(isset($_SESSION['tracking-output']) && count($_SESSION['tracking-output'])) {
+    $form['update_summary'] = array(
+      '#type' => 'item', 
+      '#title' => 'Results',
+      '#markup' => $_SESSION['tracking-output'][0],
+    );
+    $_SESSION['tracking-output'] = array();
+  }
+  $form['raw_data'] = array(
+    '#type' => 'textarea', 
+    '#title' => 'Tracking Data',
+    '#cols' => 200,
+    '#rows' => 120,
+    '#required' => TRUE, 
+  );
+  $form['submit_button'] = array(
+    '#type' => 'submit',
+    '#value' => t('Update'),
+  );
+  return $form;
+}
+
+function price_check_get_tracking_object($order, $order_header) {
+  $result = new stdClass();
+  foreach($order_header as $k => $col) {
+    $col = strtolower(str_replace(" ", "_", $col)); 
+    $result->$col = $order[$k];
+  }
+  return $result;
+}
+
+function price_check_tracking_update_form_submit(&$form, &$form_state) {
+  $item_count = 0;
+  $_SESSION['tracking-output'][0] = "";
+  $data = $form_state['values']['raw_data'];
+  $data_array = preg_split("/\r\n|\n|\r/", $data);
+  foreach($data_array as $order) {
+    if(empty($order_header)) {
+      $order_header = explode("\t", $order);
+      continue;
+    } 
+    if(trim($order) == "") continue;
+    $obj_order = price_check_get_tracking_object(explode("\t", $order), $order_header);
+    $order_status = 'Tracking uploaded';
+    if(strpos($obj_order->tracking_number, "+") !== false) $order_status = 'Order complete, delivered';
+    $node = menu_get_object("node", 1, drupal_lookup_path("source", "content/{$obj_order->ebay_account}/" . $obj_order->ebay_record_number));
+    $node->field_order_status_select['und'][0]['value'] = $order_status;
+    if(empty($node->field_tracking_number['und'][0]['value'])) { 
+      $node->field_tracking_number['und'][0]['value'] = substr($obj_order->tracking_number, 0, -1);
+    } else {
+      $node->field_tracking_number['und'][] = array("value"=>substr($obj_order->tracking_number, 0, -1));
+    }
+    node_save($node);
+    $_SESSION['tracking-output'][0] .= "{$obj_order->ebay_account}\\{$obj_order->ebay_record_number}<br />";
+    $item_count++;  
+  }
+  $_SESSION['tracking-output'][0] .= "Total items $item_count";
+}
+
+function price_check_lookup_form_debug($form, &$form_state) {
+  $form['url'] = array(
+    '#type' => 'textfield', 
+    '#title' => 'URL?',
+    '#size' => 80,
+    '#maxlength' => 255,
+    '#required' => TRUE, 
+  );
+  $form['submit_button'] = array(
+    '#type' => 'submit',
+    '#value' => t('Search'),
+  );
+  if(isset($_SESSION['output']) && count($_SESSION['output'])) {
+    $form['results'] = array(
+      '#type' => 'item', 
+      '#title' => 'Results',
+      '#markup' => $_SESSION['output'][0],
+    );
+    $_SESSION['output'] = array();
+  }
+  return $form;
+}
+
+function price_check_lookup_form_debug_submit(&$form, &$form_state) {
+  $form_state['rebuild'] = TRUE;
+  $url = $form_state['values']['url'];
+  $_SESSION['output'] = array(print_r(price_check_get_item_object_from_url($url), true));
+}
+
+function price_check_lookup_form_new($form, &$form_state) {
+  $form['url'] = array(
+    '#type' => 'textfield', 
+    '#title' => 'Walmart URL?',
+    '#size' => 80,
+    '#maxlength' => 255,
+    '#required' => TRUE, 
+  );
+  $form['submit_button'] = array(
+    '#type' => 'submit',
+    '#value' => t('Search'),
+  );
+  if(isset($_SESSION['walmart_items']) && count($_SESSION['walmart_items'])) {
+    $form['results'] = array(
+      '#type' => 'item', 
+      '#title' => 'Results',
+      '#markup' => implode('',$_SESSION['walmart_items']),
+    );
+    $_SESSION['walmart_items'] = array();
+  }
+  return $form;
+}
+
+function price_check_profit_form($form, &$form_state) {
+  global $user; 
+  $user_full = user_load($user->uid);
+  $form['ebay_account']['#type'] = "select";
+  $form['ebay_account']['#size'] = null;
+  $form['ebay_account']['#default_value'] = t('<Any>');
+  foreach($user_full->field_ebay_accounts['und'] as $field_ebay_account) {
+      $ebay_account = $field_ebay_account['value'];
+      $form['ebay_account']['#options'][$ebay_account] = $ebay_account;
+  }
+  $form['start_date'] = array(
+    '#type' => 'textfield', 
+    '#title' => 'Start Date',
+    '#size' => 80,
+    '#maxlength' => 255,
+    '#required' => TRUE, 
+    '#description' => 'Format YYYY-MM-DD eg 2015-02-01', 
+  );
+  $form['end_date'] = array(
+    '#type' => 'textfield', 
+    '#title' => 'End Date',
+    '#size' => 80,
+    '#maxlength' => 255,
+    '#required' => TRUE,
+    '#description' => 'Format YYYY-MM-DD eg 2015-02-01'    
+  );
+  $form['submit_button'] = array(
+    '#type' => 'submit',
+    '#value' => t('Search'),
+  );
+  if(isset($_SESSION['output_profit']) && count($_SESSION['output_profit'])) {
+    $form['results'] = array(
+      '#type' => 'item', 
+      '#title' => 'Results',
+      '#markup' => $_SESSION['output_profit'][0],
+    );
+    $_SESSION['output_profit'] = array();
+  }
+  return $form;
+}
+
+function price_check_profit_form_submit(&$form, &$form_state) {
+  $user_token = price_check_get_user_content_access_token();
+  $query = new EntityFieldQuery();
+  $query->entityCondition('entity_type', 'node')
+    ->entityCondition('bundle', 'order')
+    ->propertyCondition('status', NODE_PUBLISHED)
+    ->fieldCondition('field_purchase_date', 'value', $form_state['values']['start_date'], ">=")
+    ->fieldCondition('field_purchase_date', 'value', $form_state['values']['end_date'], "<=")
+    ->fieldCondition('field_ebay_account', 'value', $form_state['values']['ebay_account'], "=")
+    ->fieldCondition('field_content_access_token', 'value', $user_token, "=")
+    ->propertyOrderBy('title', 'ASC');
+    
+    
+  
+  $result = $query->execute();
+  if (isset($result['node'])) {
+    $profit_total = 0;
+    $order_count = 0;
+    $output = "<h1>Profit report for Account: {$form_state['values']['ebay_account']} for the period {$form_state['values']['start_date']} to {$form_state['values']['end_date']}</h1>".
+      "<table><tr><th>#</th><th>Item</th><th>Profit</th><th>Edit</th></tr>";
+    foreach($result['node'] as $nid => $v) {
+      $node = node_load($nid);
+      if(isset($node->field_profit['und']) && 
+        @$node->field_order_status_select['und'][0]['value'] != 'Order cancelled, need to re-order' &&
+        @$node->field_order_status_select['und'][0]['value'] != 'Order cancelled' &&
+        @$node->field_order_status_select['und'][0]['value'] != 'New Order'
+      ){
+        $profit = $node->field_profit['und'][0]['value'] + 0;
+        $profit_css = "profit-normal";
+        $order_count++;
+      } else {
+        $profit = 0;
+        $profit_css = "profit-missing";
+      }
+      $profit_total += $profit;
+      $link = l('edit', "node/{$node->nid}/edit");
+      $output .= "<tr class='$profit_css'><td>{$node->title}</td><td>{$node->field_item_name['und'][0]['value']}</td><td>$profit</td><td>$link</td><tr>";
+    }
+    $output .= "<tr><td colspan='3'>Total Items</td><td>$order_count</td></tr>";
+    $output .= "<tr><td colspan='3'>Total Profit</td><td>$profit_total</td></tr>";
+    $output .= "</table>";
+    $_SESSION['output_profit'] = array($output);
+  }
+}
+
+function price_check_get_item_object_from_url($url) {
+  $domain = str_ireplace('www.', '', parse_url($url, PHP_URL_HOST));
+  $host_map = array(
+      'amazon.com' => 'price_check_get_amazon_item_from_url',
+      'walmart.com' => 'price_check_get_walmart_item_from_url_new',
+      'target.com' => 'price_check_get_target_item_from_url',
+      'overstock.com' => 'price_check_get_overstock_item_from_url',
+      'wayfair.com' => 'price_check_get_wayfair_item_from_url',
+      'academy.com' => 'price_check_get_academy_item_from_url',
+  );
+  $fn = @$host_map[$domain];
+  if($fn) {
+    return call_user_func_array($fn, func_get_args());//was $fn($url);
+  }
+  return false;
+}
+
+function price_check_get_wayfair_item_from_url($url){
+  return array('false'); 
+  
+  $reg = '#(?:http:\/\/(?:www\.){0,1}wayfair\.com\/)(.*).html#';
+  preg_match($reg, $url, $matches);
+  $obj->itemId = substr(strrchr($matches[1], "-"), 1);
+  $raw_data = price_check_get_data($url);
+  $reg = '#dynamic-sku-price"(.*)span#';
+  preg_match($reg, $raw_data, $matches0);
+  $price = strip_tags($matches0[1]);
+  $obj->salePrice = $price;
+  $reg = '#Out of Stock/Discontinued#';
+  preg_match($reg, $raw_data, $matches1);
+  if($matches1[1]) {
+    $obj->stock = "Not Available";
+  } else { 
+    $obj->stock = "Available";
+  }
+  if(@$_GET['debug']) {
+    print_r($matches0); exit(0);
+  }
+  /*$doc = new DOMDocument();
+  $doc->recover = true;
+  @$doc->loadHTML($raw_data);
+  //
+  $xp = new DOMXPath($doc);
+  $price = $xp->evaluate('string(.//*[@data-id="dynamic-sku-price"])');
+  $obj = new stdClass();
+  $obj->salePrice = str_replace("$", "", $price);
+  //$stock = $xp->evaluate('string(.//*[contains(concat(" ", @class, " "), " stock_count ")])');
+  $stock = $xp->evaluate('string(.//td[contains(.,"Out of Stock/Discontinued")])');
+  if($stock) 
+    $obj->stock = "Not Available";
+  else 
+    $obj->stock = "Available";
+  $cadena = $matches[1];
+  $obj->itemId = substr(strrchr($cadena, "-"), 1);
+  if(@$_GET['debug']) {
+    print_r($doc); exit(0);
+  }*/
+  return $obj;
+}
+
+function price_check_get_academy_item_from_url($url){
+  
+  $reg = '#(?:http://(?:www\.){0,1}academy\.com(?:\/shop)(?:\/pdp)\/)(.*)#'; 
+  preg_match($reg, $url, $matches); 
+  $raw_data = file_get_contents($url); 
+  $doc = new DOMDocument(); 
+  $doc->recover = true; 
+  @$doc->loadHTML($raw_data); 
+  $xp = new DOMXPath($doc); 
+  $priceBlock = $doc->getElementById('price_new_rebate_wrap'); 
+  $price = $xp->evaluate('string(.//*[@class="price"])', $priceBlock); 
+  $obj = new stdClass(); 
+  $obj->salePrice = str_replace("$", "", $price);
+  $idblock = $doc->getElementById('pdp_promotion_area');
+  $iditem = $xp->evaluate('string(.//*[@class="sku"])', $idblock);
+  $obj->itemId = str_replace("SKU:", "", $iditem); 
+  $stockBlock = $doc->getElementById('diffs_add_to_cart'); 
+  $stock = trim($xp->evaluate('string(.//*[@class="text"])', $stockBlock)); 
+  if($stock == "Not Sold Online") 
+    $obj->stock = "Not Available"; 
+  else 
+    $obj->stock = "Available";
+  
+  return $obj; 
+}
+
+function price_check_get_overstock_item_from_url($url){
+  $reg = '#(?:http://(?:www\.){0,1}overstock\.com(?:/.*)(?:/.*)/)(.*)/.*#';
+  preg_match($reg, $url, $matches);
+  $raw_data = file_get_contents($url);
+  $doc = new DOMDocument();
+  $doc->recover = true;
+  @$doc->loadHTML($raw_data);
+  $xp = new DOMXPath($doc);
+  $priceBlock = $doc->getElementById('pricing-container');
+  $price = $xp->evaluate('string(.//*[@itemprop="price"])', $priceBlock);
+  $obj = new stdClass();
+  $obj->salePrice = str_replace("$", "", $price);
+  $stockBlock = $doc->getElementById('addToCartForm');
+  $stock = trim($xp->evaluate('string(.//*[@class="product-labels"])', $stockBlock));
+  if($stock == "Out of stock")  
+    $obj->stock = "Not Available";
+  else 
+    $obj->stock = "Available";
+  $obj->itemId = $matches[1];
+  return $obj;
+}
+
+function price_check_get_target_item_from_url($url) {
+  $reg = '#(?:http://(?:www\.){0,1}target\.com(?:/.*){0,1}(?:/-/))(.*?)(?:\#|/.*|$)#';
+  preg_match($reg, $url, $matches);
+ 	$raw_data = @file_get_contents($url);
+ 	$doc = new DOMDocument();
+ 	$doc->recover = true;
+ 	@$doc->loadHTML($raw_data);
+ 	$xp = new DOMXPath($doc);
+ 	$priceBlock = $doc->getElementById('price_main');
+  $price = $xp->evaluate('string(.//*[@class="offerPrice"])', $priceBlock);
+  $stockBlock = $doc->getElementById('pdpSingleButtonContainer');   
+  $stock = $xp->evaluate('string(.//*[@class="shipping"])', $stockBlock);
+ 	$obj = new stdClass();
+ 	$obj->salePrice = str_replace("$", "", $price);
+  $obj->stock = "Not Available";
+ 	if (strpos($stock, 'Out of Stock') == FALSE) $obj->stock = "Available";
+ 	$obj->itemId = $matches[1];
+  return $obj;
+}
+
+function price_check_get_amazon_item_from_url($url, $variants = false) {
+  $asin = price_check_get_amazon_asin_from_url($url);
+  if(!$asin) {
+    return array('status' => false, 'reason' => 'cant decode id', 'debug' => $url);
+  }
+  $item = price_check_get_amazon_item_from_asin($asin);
+  if(!$item) {
+    return array('status' => false, 'reason' => 'cant get item', 'debug' => $asin);
+  }
+  if(@$item['Item']['Variations']) {
+    return array('status' => false, 'reason' => 'item has variations', 'debug' => $asin);
+  }
+  //if we have a parent, follow it
+  if($variants && @$item['Item']['ParentASIN'] && ($item['Item']['ParentASIN'] != $item['Item']['ASIN'])) {
+    $parent_item = price_check_get_amazon_item_from_asin($item['Item']['ParentASIN']);
+    //get variant attributes
+    $var_dims = @$parent_item['Item']['Variations']['VariationDimensions']['VariationDimension'];
+    if($var_dims) {
+      $dims = array();
+      foreach($var_dims as $var_dim) {
+        $dims[] = $var_dim;
+      }
+    }
+    //find item in list
+    $items = @$parent_item['Item']['Variations']['Item'];
+    if($items) {
+      foreach($items as $itemvar) {
+        if($asin == $itemvar['ASIN']) {
+          if(@$_GET['debug']) {
+            //print_r($itemvar); exit();
+          }
+          $variation_details = @$itemvar['VariationAttributes']['VariationAttribute'];
+          if($variation_details) {
+            $vars = array();
+            foreach($variation_details as $variation_detail) {
+              $vars[] = $variation_detail['Value'];
+            }
+          }
+          break;
+        }
+      }
+    }
+  }
+  $base_url = @$item['Item']['DetailPageURL'];
+  //wrap item like a variation ;)
+  $variation = @$item['Item'];
+  if(!$variation) {
+    return array('status' => false, 'reason' => 'cant get base item', 'debug' => $asin);
+  }
+  $url = "<a href='$base_url' target='_blank'>right click and copy link address/location</a>";
+  $title = $variation['ItemAttributes']['Title'];
+  $image = @$variation['MediumImage']['URL'];
+  $upc = @$variation['ItemAttributes']['UPC'];
+  $mpn = @$variation['ItemAttributes']['MPN'];
+  $brand = @$variation['ItemAttributes']['Brand'];
+  $offers = @$variation['Offers']['Offer'];
+  if($offers) {
+    $offers = price_check_force_json_array($offers);
+    $price = price_check_get_amazon_best_offer($offers);
+  }
+  if(@$price) 
+    $availability = "Available";
+  else 
+    $availability = "Not Available";
+
+  $obj = new stdClass();
+  $obj->salePrice = @str_replace("$", "", $price);
+  $obj->stock = "Not Available";
+  if(@$price) $obj->stock = "Available";
+  $obj->itemId = $asin;
+  $obj->upc = $upc;
+  $obj->modelNumber = $mpn;
+  $obj->brandName = $brand;
+  if($vars) {
+    $obj->skugrid_variant = implode('|', $vars);
+  }
+  return $obj;
+}
+
+function price_check_get_walmart_item_from_url($url) {
+  $sku = array_pop(explode("/", $url));
+  $sku = array_shift(explode("?", $sku));
+  $json = @file_get_contents("http://walmartlabs.api.mashery.com/v1/items/$sku?format=json&apiKey=z58e678x39qen55m2jbqqpmt");
+  if($json === false) {
+    return false;
+  }  
+  $obj = json_decode($json);  
+  if($obj->itemId != $sku) {
+    return false;
+  }
+  return $obj;
+}
+
+function price_check_get_data($url) {
+  $uas = array();
+  $uas[] = "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.6) Gecko/20070725 Firefox/2.0.0.6";
+  $uas[] = "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:5.0) Gecko/20100101 Firefox/5.0";
+  $uas[] = "Mozilla/5.0 (Windows NT 6.1.1; rv:5.0) Gecko/20100101 Firefox/5.0";
+  $uas[] = "Mozilla/5.0 (X11; U; Linux i586; de; rv:5.0) Gecko/20100101 Firefox/5.0";
+  $uas[] = "Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.1 (KHTML, like Gecko) Ubuntu/11.04 Chromium/14.0.825.0 Chrome/14.0.825.0 Safari/535.1";
+  $uas[] = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/14.0.824.0 Safari/535.1";
+  $uas[] = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.7; rv:5.0) Gecko/20100101 Firefox/5.0";
+  $uas[] = "Mozilla/5.0 (Macintosh; PPC MacOS X; rv:5.0) Gecko/20110615 Firefox/5.0";
+  $uas[] = "Mozilla/5.0 (Windows; U; MSIE 9.0; WIndows NT 9.0; en-US))";
+  $uas[] = "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.2; Trident/4.0; Media Center PC 4.0; SLCC1; .NET CLR 3.0.04320)";
+  $uas[] = "Mozilla/5.0 (Windows; U; MSIE 7.0; Windows NT 6.0; en-US)";
+  $uas[] = "Mozilla/5.0 (compatible; Konqueror/4.5; FreeBSD) KHTML/4.5.4 (like Gecko)";
+  $uas[] = "Opera/9.80 (Windows NT 6.1; U; es-ES) Presto/2.9.181 Version/12.00";
+  $uas[] = "Opera/9.80 (X11; Linux x86_64; U; fr) Presto/2.9.168 Version/11.50";
+  $uas[] = "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_8; de-at) AppleWebKit/533.21.1 (KHTML, like Gecko) Version/5.0.5 Safari/533.21.1";
+  $uas[] = "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_7; da-dk) AppleWebKit/533.21.1 (KHTML, like Gecko) Version/5.0.5 Safari/533.21.1";
+  $uas[] = "MMozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.13) Gecko/20080311 Firefox/2.0.0.13";
+  $ua = $uas[array_rand($uas)];
+  
+	$ch = curl_init();
+	$timeout = 5;
+	curl_setopt($ch, CURLOPT_URL, $url);
+	curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+	curl_setopt($ch, CURLOPT_CONNECTTIMEOUT, $timeout);
+  curl_setopt($ch,CURLOPT_USERAGENT,$ua);
+	$data = curl_exec($ch);
+	curl_close($ch);
+	return $data;
+}
+
+function price_check_get_walmart_item_from_url_new($url) {
+  $sku = @array_pop(explode("/", $url));
+  $sku = @array_shift(explode("?", $sku));
+  $json = price_check_get_data("http://www.walmart.com/product/api/$sku?selected=true");
+  $json = str_replace("true", '1', $json);
+  $json = str_replace("false", '0', $json);
+  $phpobj = json_decode($json, true);
+  if(@$_GET['debug']) {
+    print_r($phpobj); exit(0);
+  }
+  $obj = new stdClass();
+  $seller_map = @$phpobj['analyticsData']['productSellersMap'];
+  if($seller_map) {
+    foreach($seller_map as $seller) {
+      if($seller['sellerName'] == "Walmart.com") {
+        $obj->salePrice = $seller['price'];
+        $obj->standardShipRate = $seller['shipPrice'];
+        break;
+      }
+    }
+    if(!@$obj->salePrice) {
+      $seller = $seller_map[0];
+      $obj->salePrice = $seller['price'];
+      $obj->standardShipRate = $seller['shipPrice'];
+    }
+  }
+  $shipping_options = @$phpobj['analyticsData']['onlineFFOptions'];
+  $shipping_options2 = @$phpobj['analyticsData']['fulfillmentOptions'];
+  if(@in_array("S2H", $shipping_options) || @in_array("S2H", $shipping_options2)) {
+    $obj->stock = "Available";
+  } else {
+    $obj->stock = "Not Available";
+  }
+  $obj->itemId = @$phpobj['analyticsData']['usItemId'];
+  $obj->upc = @$phpobj['analyticsData']['upc'];
+  $obj->modelNumber = @$phpobj['product']['manufacturerProductId'];
+  $obj->brandName = @$phpobj['product']['brand'];
+  //deal with variations
+  $variations = @$phpobj['product']['variantInformation']['variantTypes'];
+  if($variations) {
+    $vars = array(); 
+    foreach($variations as $variant) {
+      $vars[] = $variant['selectedValue'];
+    }
+    $obj->skugrid_variant = implode('|', $vars);
+  }
+  return $obj;
+}
+
+function price_check_walmart_row($obj) {
+  $variations = '<ul>';
+  foreach($obj->variations as $variation) {
+    $variations .= "<li>$variation</li>";
+  }
+  $variations .= "</ul>";
+  $upc = @$obj->upc;
+  return "<tr><td>{$obj->name}</td><td>$variations</td><td>$upc</td>" .
+      "<td>http://www.walmart.com/ip/{$obj->itemId}</td></tr>";
+}
+
+function price_check_walmart_upc($itemId) {
+  $obj = price_check_get_walmart_item_from_url("walmart.com/ip/$itemId");
+  return $obj->upc;
+}
+
+function price_check_walmart_upc_ajax($content) {
+  print $content;
+}
+
+function price_check_lookup_form_new_submit(&$form, &$form_state) {
+  $form_state['rebuild'] = TRUE;
+  $url = $form_state['values']['url'];
+  $sku = @array_pop(explode("/", $url));
+  $json = price_check_get_data("http://www.walmart.com/product/api/$sku?selected=true");
+  $phpobj = json_decode($json, true);
+  //print_r($phpobj); exit(0);
+  //$obj salePrice, standardShipRate, stock, itemID
+  $name = $phpobj['analyticsData']['productName'];
+  $results = array();
+  $results[] = "<table><tr><th>Name</th><th>Option</th><th>UPC</th><th>Link</th></tr>";
+  $variant_products = @$phpobj['product']['variantInformation']['variantProducts'];
+  if($variant_products) {
+    foreach($variant_products as $product) {
+      $obj = new stdClass();
+      $obj->name = $name;
+      $obj->variations = array();
+      foreach($product['variants'] as $variant) {
+        $obj->variations[] = $variant['type'] . ":" . $variant['name'];
+      }
+      $obj->itemId = $product['buyingOptions']['usItemId'];
+      if($product['buyingOptions']['available'] == true) {
+        $obj->stock = "Available";
+      } else {
+        $obj->stock = "Not Available";
+      }
+      $obj->upc = "<a href='#' onclick=\"javascript:jQuery(this.parentElement).load('/walmart_upc/{$obj->itemId}');\">click</a>";
+      $results[] = price_check_walmart_row($obj);
+    }
+  } else {
+    $obj = new stdClass();
+    $obj->name = $name;
+    $obj->upc = @$phpobj['analyticsData']['upc'];
+    $obj->variations = array('N/A');
+    $obj->itemId = @$phpobj['analyticsData']['usItemId'];
+    $shipping_options = $phpobj['analyticsData']['onlineFFOptions'];
+    $shipping_options2 = $phpobj['analyticsData']['fulfillmentOptions'];
+    if(in_array("S2H", $shipping_options) || in_array("S2H", $shipping_options2)) {
+      $obj->stock = "Available";
+    } else {
+      $obj->stock = "Not Available";
+    }
+    $results[] = price_check_walmart_row($obj);
+  }
+  $results[] = "</table>";
+  $_SESSION['walmart_items'] = $results;
+  /*$seller_map = $phpobj['analyticsData']['productSellersMap'];
+  foreach($seller_map as $seller) {
+    if($seller['sellerName'] = "Walmart.com") {
+      $obj->salePrice = $seller['price'];
+      $obj->standardShipRate = $seller['shipPrice'];
+      break;
+    }
+  }
+  if(!@$obj->salePrice) {
+    $seller = $seller_map[0];
+    $obj->salePrice = $seller['price'];
+    $obj->standardShipRate = $seller['shipPrice'];
+  }
+  if($phpobj['analyticsData']['onlineAvail'] == 1)  
+    $obj->stock = "Available";
+  else 
+    $obj->stock = "Not Available";
+  $obj->itemId = $phpobj['analyticsData']['usItemId'];
+  return $obj;
+  
+  
+  
+  
+  
+  
+  
+  $json = @file_get_contents("http://walmartlabs.api.mashery.com/v1/items/$sku?format=json&apiKey=z58e678x39qen55m2jbqqpmt");
+  if($json === false) {
+    $_SESSION['output'] = array("Invalid call to Walmart, please recheck your url.");
+    return;
+  }  
+  $obj = json_decode($json);
+        
+  if($obj->itemId != $sku) {
+    form_set_error("Invalid Item URL");
+    return;
+  }
+  $novars = false;
+  if(!isset($obj->variants)) {
+    $name = str_replace(" ", "-", $obj->name);
+    $link = "http://www.walmart.com/ip/$name/$sku";
+    $link_code = urlencode($link);
+    if($novars) {
+      $option = "NA";
+    } else $option = price_check_get_walmart_attributes($obj);
+    $upc = @$obj->upc;
+    $output = "<tr><td>{$obj->name}</td><td><img src='{$obj->thumbnailImage}' /></td><td>$upc</td><td>$option</td><td>{$obj->salePrice}</td><td>http://www.walmart.com/ip/$name/$sku</td>" .
+        "<td><!--<a href='/node/add/item?link=$link_code'>Add Item</a>--></td></tr>";
+    $_SESSION['walmart_items'] = array($output);
+  } else {
+    //get into a batch framework
+    $variants = $obj->variants;
+    foreach($variants as $sku) {
+      $operations[] = array(
+        'price_check_get_walmart_items_atom',
+        array($sku),
+      );
+    }
+    $batch = array(
+      'title' => 'Looking up Walmart Variants',
+      'operations' => $operations,
+      'finished' => 'price_check_get_walmart_items_finished',
+    );
+    batch_set($batch);
+    batch_process('lookup-new');
+  }*/
+}
+
+function price_check_lookup_form_new_submit_old(&$form, &$form_state) {
+  $form_state['rebuild'] = TRUE;
+  $url = $form_state['values']['url'];
+  $sku = array_pop(explode("/", $url));
+  $json = @file_get_contents("http://walmartlabs.api.mashery.com/v1/items/$sku?format=json&apiKey=z58e678x39qen55m2jbqqpmt");
+  if($json === false) {
+    $_SESSION['output'] = array("Invalid call to Walmart, please recheck your url.");
+    return;
+  }  
+  $obj = json_decode($json);
+        
+  if($obj->itemId != $sku) {
+    form_set_error("Invalid Item URL");
+    return;
+  }
+  $novars = false;
+  if(!isset($obj->variants)) {
+    $name = str_replace(" ", "-", $obj->name);
+    $link = "http://www.walmart.com/ip/$name/$sku";
+    $link_code = urlencode($link);
+    if($novars) {
+      $option = "NA";
+    } else $option = price_check_get_walmart_attributes($obj);
+    $upc = @$obj->upc;
+    $output = "<tr><td>{$obj->name}</td><td><img src='{$obj->thumbnailImage}' /></td><td>$upc</td><td>$option</td><td>{$obj->salePrice}</td><td>http://www.walmart.com/ip/$name/$sku</td>" .
+        "<td><!--<a href='/node/add/item?link=$link_code'>Add Item</a>--></td></tr>";
+    $_SESSION['walmart_items'] = array($output);
+  } else {
+    //get into a batch framework
+    $variants = $obj->variants;
+    foreach($variants as $sku) {
+      $operations[] = array(
+        'price_check_get_walmart_items_atom',
+        array($sku),
+      );
+    }
+    $batch = array(
+      'title' => 'Looking up Walmart Variants',
+      'operations' => $operations,
+      'finished' => 'price_check_get_walmart_items_finished',
+    );
+    batch_set($batch);
+    batch_process('lookup-new');
+  }
+}
+
+function price_check_get_walmart_items_atom($sku, &$context) {
+  $json = file_get_contents("http://walmartlabs.api.mashery.com/v1/items/$sku?format=json&apiKey=z58e678x39qen55m2jbqqpmt");
+  $obj = json_decode($json);
+  $name = str_replace(" ", "-", $obj->name);
+  $link = "http://www.walmart.com/ip/$name/$sku";
+  $link_code = urlencode($link);
+  if($novars) {
+    $option = "NA";
+  } else $option = price_check_get_walmart_attributes($obj);
+  $upc = $obj->upc;
+  $output = "<tr><td>{$obj->name}</td><td><img src='{$obj->thumbnailImage}' /></td><td>$upc</td><td>$option</td><td>{$obj->salePrice}</td><td>http://www.walmart.com/ip/$name/$sku</td>" .
+    "<td><!-- <a href='/node/add/item?link=$link_code'>Add Item</a>--></td></tr>";
+  $context['results']['walmart_items'][] = $output;
+}
+
+function price_check_get_walmart_items_finished($success, $results, $operations)  {
+  $_SESSION['walmart_items'] = $results['walmart_items'];
+}
+
+function price_check_lookup_form($form, &$form_state) {
+  $form['url'] = array(
+    '#type' => 'textfield', 
+    '#title' => 'Walmart URL?',
+    '#size' => 80,
+    '#maxlength' => 255,
+    '#required' => TRUE, 
+  );
+  $form['submit_button'] = array(
+    '#type' => 'submit',
+    '#value' => t('Search'),
+  );
+  if(isset($_SESSION['output']) && count($_SESSION['output'])) {
+    $form['results'] = array(
+      '#type' => 'item', 
+      '#title' => 'Results',
+      '#markup' => $_SESSION['output'][0],
+    );
+    $_SESSION['output'] = array();
+  }
+  return $form;
+}
+
+function price_check_lookup_form_submit(&$form, &$form_state) {
+  $form_state['rebuild'] = TRUE;
+  $url = $form_state['values']['url'];
+  $sku = array_pop(explode("/", $url));
+  $json = @file_get_contents("http://walmartlabs.api.mashery.com/v1/items/$sku?format=json&apiKey=z58e678x39qen55m2jbqqpmt");
+  if($json === false) {
+    $_SESSION['output'] = array("Invalid call to Walmart, please recheck your url.");
+    return;
+  }  
+  $obj = json_decode($json);
+        
+  if($obj->itemId != $sku) {
+    form_set_error("Invalid Item URL");
+    return;
+  }
+  $novars = false;
+  if(!isset($obj->variants)) {
+    //$_SESSION['output'] = array("No variants found.");
+    //return;
+    $variants = array($sku);
+    $novars = true;
+  } else $variants = $obj->variants;
+  $output = "<table><tr><td>Title</td><td>Image</td><td>UPC</td><td>Option</td><td>Price</td><td>URL</td><td>Add item</td></tr>";
+  foreach($variants as $sku) {
+    $json = file_get_contents("http://walmartlabs.api.mashery.com/v1/items/$sku?format=json&apiKey=z58e678x39qen55m2jbqqpmt");
+    $obj = json_decode($json);
+    $name = str_replace(" ", "-", $obj->name);
+    $link = "http://www.walmart.com/ip/$name/$sku";
+    $link_code = urlencode($link);
+    if($novars) {
+      $option = "NA";
+    } else $option = price_check_get_walmart_attributes($obj);
+    $upc = $obj->upc;
+    $output .= "<tr><td>{$obj->name}</td><td><img src='{$obj->thumbnailImage}' /></td><td>$upc</td><td>$option</td><td>{$obj->salePrice}</td><td>http://www.walmart.com/ip/$name/$sku</td>" .
+        "<td><!--<a href='/node/add/item?link=$link_code'>Add Item</a>--></td></tr>";
+  }  
+  $output .= "</table>";
+  $_SESSION['output'] = array($output);
+}
+
+function price_check_get_walmart_attributes($obj) {
+  $result = '';
+  if(!@$obj->attributes) return $result;
+  foreach($obj->attributes as $op => $value) $result .= "$op : $value,";
+  return $result;
+}
+
+function price_check_form_ebay_item_node_form_alter(&$form, &$form_state, $form_id) {
+  $form['actions']['submit']['#submit'][] = 'price_check_ebay_item_node_submit';
+}
+
+function price_check_update_ebay_item_submit($form, &$form_state) {
+  if($form_state['values']['update_ebay'] == 'Save & Update Ebay') {
+    //drupal_set_message('dbg:1');
+    //print_r($form_state); exit(0);
+  }
+}
+
+function price_check_ebay_item_node_submit($form, &$form_state) {
+  $form_state['redirect'] = 'my_listings';
+  price_check_update_user_ebay_item($form_state['node']);
+}
+
+function price_check_get_brand_xml_from_ebay_item($item_template) {
+  $brand = @$item_template->field_ebay_brand['und'][0]['value'];
+  $mpn = @$item_template->field_ebay_mpn['und'][0]['value'];
+  $upc = @$item_template->field_ebay_upc['und'][0]['value'];
+  $output = "";
+  if($brand && $mpn) {
+    $brand_mpn = <<<BMPN
+<ItemSpecifics>
+  <NameValueList>
+    <Name>Brand</Name>
+    <Value>$brand</Value>
+  </NameValueList>
+  <NameValueList>
+    <Name>MPN</Name>
+    <Value>$mpn</Value>
+  </NameValueList>
+</ItemSpecifics>
+BMPN;
+    $output = $brand_mpn;
+  }
+  if($upc) $output .= "<ProductListingDetails><UPC>$upc</UPC></ProductListingDetails>";
+  //print_r($output); exit(0);
+  if($upc || ($brand && $mpn)) return $output;
+  return "";
+}
+
+function price_check_form_item_node_form_alter(&$form, &$form_state, $form_id) {
+  if($form['nid']['#value'] > 0 ) return;
+  $form['body']['#access'] = FALSE;
+  $form['field_store_title']['#access'] = FALSE;
+  //$form['field_store_image']['#access'] = FALSE; 
+  $form['field_store_price']['#access'] = FALSE;
+  $form['field_store_status']['#access'] = FALSE;
+  $form['field_last_checked']['#access'] = FALSE;
+  $form['field_sku']['#access'] = FALSE;
+  $form['field_change_reason']['#access'] = FALSE;
+  if(isset($_GET['link'])) {
+    $form['field_url']['und'][0]['#default_value']['url'] = urldecode($_GET['link']);
+  } 
+  $form['#submit'][] = 'price_check_item_node_submit';
+}
+
+function price_check_item_node_submit($form, &$form_state) {
+  $form_state['redirect'] = 'items';
+}
+
+function price_check_set_form_value(&$form, $field, $values, &$form_state, $i = 0) {
+  $form[$field]['#parents'] = array($field);
+  if(!is_array($values)) {
+    $safe_values = array($i => array('value' => $values));
+  } else
+    $safe_values = $values;
+  form_set_value($form[$field], array(LANGUAGE_NONE => $safe_values), $form_state);
+}
+
+function price_check_save_ebay_picture($picture) {
+  $image_data = file_get_contents($picture);
+  $file = file_save_data($image_data, null, FILE_EXISTS_REPLACE);
+  //$file = file_save_data("123", null, FILE_EXISTS_REPLACE);
+  //print_r($file); exit(0);
+  $image = image_load($file->uri);
+  if($image) {
+    $w = $image->info['width'];
+    $h = $image->info['height'];
+    if($w < 500 && $h < 500) {
+      if($w < $h) {
+        $s = 500/$h;
+        $ws = $s * $w;
+        $hs = 500;
+      } else {
+        $s = 500/$w;
+        $hs = $s * $h;
+        $ws = 500;
+      } 
+      image_resize($image, $ws, $hs);
+      image_save($image,$file->uri);
+    }
+  } else {
+    watchdog('Save picture from ebay', "Failed for $picture | {$file->uri}");
+  }
+  return file_create_url($file->uri);
+ }
+ 
+function price_check_get_uid_from_ebay_account($ebay_account) {
+  $sql = "select entity_id from field_data_field_ebay_accounts where field_ebay_accounts_value = :ebay_account";
+  $result = db_query($sql, array(':ebay_account' => $ebay_account));
+  return $result->fetchField();  
+} 
+ 
+function price_check_count_images($form_state) {
+  //count ebay pictures
+  $image_count = @$form_state['input']['image_count'];
+  $images = $image_count;
+  //print_r($form_state['input']); exit(0);
+  if($images) {
+    for($i=0; $i<$images; $i++) {
+      if(@$form_state['input']['image_checkbox' . $i] == 1) {
+        $image_count--;
+      }
+    }
+  }
+  //count dsgenie pictures
+  $pictures = $form_state['input']['field_ds_genie_pictures']['und'];
+  foreach($pictures as $picture) {
+    if($picture['fid'] != 0) {
+      $image_count++;
+    }
+  }
+  return $image_count;
+}
+
+function price_check_email($node, $item, $message, $email) {
+  drupal_mail('price_check', 'alert', $email, language_default(), array('node' => $node,'item'=>$item, 'message'=>$message));
+  drupal_mail('price_check', 'alert', "kwesistewart@bluephoenixtt.com", language_default(), array('node' => $node, 'item'=>$item, 'message'=>$message));
+  //drupal_mail('price_check', 'alert', "ormc@email.com", language_default(), array('node' => $node,'item'=>$item, 'message'=>$message));
+}
+
+function price_check_get_user_email($node) {
+  $account = user_load($node->uid);
+  return $account->mail;
+  
+  /*
+   * the old way
+  $content_access_token = $node->field_content_access_token['und'][0]['value'];
+   
+  $sql = "SELECT mail FROM `field_data_field_user_access_token` fa join node n on n.nid = fa.field_user_access_token_value join users on title= name where field_user_access_token_value = :access_token";
+  $result = db_query($sql, array(':access_token' => $content_access_token));
+  $email = $result->fetchField();
+  return $email;
+   * 
+   */
+}
+
+function price_check_update_item($node, $item, $message) {
+  if(!@$node->field_store_price['und'][0]['value']) {
+    watchdog('big problem', print_r($node, true));
+    return;
+  }
+  if(@$node->field_skugrid_local_id['und'][0]['value'] || property_exists($item, "standardShipRate")) {
+    $node->field_store_price['und'][0]['value'] = $item->salePrice;
+    $node->field_shipping_price['und'][0]['value'] = $item->standardShipRate;
+  } else {
+    $node->field_store_price['und'][0]['value'] = $item->salePrice;
+  }
+  $node->field_store_status['und'][0]['value'] = ($item == null) ? "Not Available" : $item->stock;
+  $node->field_change_reason['und'][0]['value'] = $message;
+  $node->field_item_history['und'][] = array('value' => $message);
+}
+
+function price_check_touch_item(&$node, $is_walmart = false) {
+  if($is_walmart) {
+    if($node->nid == 233748) {
+        //watchdog('superdebug touch', print_r($node, true));
+    }
+    $node->field_last_checked_1['und'][0]['value'] = time();
+  } else {
+    $node->field_last_checked['und'][0]['value'] = time();
+  }
+}
+/**
+ * 
+ * @param string $raw_subscriber
+ * @return keyed array: ebay_account, ebay_id, price(dep)
+ */
+function price_check_get_subscriber_from_string($raw_subscriber) {
+  $subscriber = explode('|',$raw_subscriber);
+  return array("ebay_account" => @$subscriber[0], 
+      "ebay_id" => @$subscriber[1],
+      "price" => @$subscriber[2]);
+}
+
+function price_check_get_ebay_subscribers($item_template) {
+  $subscribers = price_check_decode_field(@$item_template->field_subscribers['und']);
+  if(!$subscribers) return array();
+  $output = array();
+  foreach($subscribers as $raw_subscriber) {
+    $subscriber = explode('|',$raw_subscriber);
+    $output[] = array("ebay_account" => @$subscriber[0], 
+      "ebay_id" => @$subscriber[1],
+      "price" => @$subscriber[2]);
+  }
+  return $output;
+}
+
+function price_check_get_ebay_auth_code_admin($target_ebay_account) {
+  $query = new EntityFieldQuery();
+  $query->entityCondition('entity_type', 'user')
+    ->fieldCondition('field_ebay_accounts', 'value', $target_ebay_account, '=');
+  $results = $query->execute();
+  $users = user_load_multiple(array_keys($results['user']));
+  foreach($users as $user) {  
+    $ebay_accounts = price_check_decode_field($user->field_ebay_accounts['und']);
+    $ebay_auth_tokens = price_check_decode_field($user->field_ebay_access_tokens['und']);
+    foreach($ebay_accounts as $key => $ebay_account) {
+      if($ebay_account == $target_ebay_account) return $ebay_auth_tokens[$key];
+    }
+  }
+  return false;
+}
+
+function price_check_notify_user($ebay_account, $nid, $message) {
+  $item_template = node_load($nid);
+  $title = $item_template->title;
+  $uid = price_check_get_uid_from_ebay_account($ebay_account);
+  $node = new stdClass();
+  $node->title = $title;
+  $node->type = "item_activity";
+  node_object_prepare($node); // Sets some defaults. Invokes hook_prepare() and hook_node_prepare().
+  $node->language = LANGUAGE_NONE; // Or e.g. 'en' if locale is enabled
+  $node->uid = $uid; 
+  $node->status = 1; //(1 or 0): published or not
+  $node->promote = 0; //(1 or 0): promoted to front page
+  $node->comment = 0; // 0 = comments disabled, 1 = read only, 2 = read/write
+  $node->field_related_node[$node->language][0]['value'] = $nid;
+  $node->field_related_message[$node->language][0]['value'] = $message;
+  $node = node_submit($node); // Prepare node for saving
+  node_save($node);
+}
+
+function price_check_ebay_item_oos(&$item_template) {
+  $workload = price_check_get_ebay_subscribers($item_template);
+  if($workload) {
+    foreach($workload as $work) {
+      $ebay_account = @$work['ebay_account'];
+      $ebay_id = @$work['ebay_id'];
+      if($ebay_id) {
+        $ebay_item = price_check_get_ebay_item_from_id($ebay_id, $item_template->uid);
+        $qty = @$ebay_item['Item']['Quantity'];
+        $auth_code = price_check_get_ebay_auth_code_admin($ebay_account);
+        price_check_set_ebay_item_quantity($ebay_id, 0, $auth_code);
+        price_check_notify_user($ebay_account, $item_template->nid, "Item is out of stock");
+      }
+    }
+  }
+  $item_template->field_store_status['und'][0]['value'] = "Not Available";
+  if($qty) $item_template->field_saved_quantity['und'][0]['value'] = $qty;
+  $date = date("m.d.y H:i:s");
+  $message = "$date Availability changed (Not Available)";
+  $item_template->field_item_history['und'][] = array('value' => $message);
+}
+
+function price_check_ebay_item_instock(&$item_template) {
+  $user_full = user_load($item_template->uid);
+  $workload = price_check_get_ebay_subscribers($item_template);
+  if($workload) {
+    foreach($workload as $work) {
+      $ebay_account = @$work['ebay_account'];
+      $ebay_id = @$work['ebay_id'];
+      if($ebay_id) {
+        $auth_code = price_check_get_ebay_auth_code_admin($ebay_account);
+        $saved_qty = @$item_template->field_saved_quantity['und'][0]['value'];
+        if($saved_qty) {
+          $qty = $saved_qty;
+        } else {
+          $qty = @$user_full->field_minimum_quantity['und'][0]['value'];
+          if(!$qty) $qty = 1;
+        }
+        price_check_set_ebay_item_quantity($ebay_id, $qty, $auth_code);
+        price_check_notify_user($ebay_account, $item_template->nid, "Item is in stock");
+      }
+    } 
+  }
+  $item_template->field_store_status['und'][0]['value'] = "Available";
+  $date = date("m.d.y H:i:s");
+  $message = "$date Availability changed (Not Available)";
+  $item_template->field_item_history['und'][] = array('value' => $message);
+}
+
+function price_check_ebay_item_price_change(&$item_template, $old_price, $new_price) {
+  if($old_price == 0 || $new_price == 0) return;
+  $delta_price = $old_price - $new_price;
+  $old_item_price = $item_template->field_price['und'][0]['value'];
+  $revised_price = $old_item_price - $delta_price;
+  $workload = price_check_get_ebay_subscribers($item_template);
+  if($workload) {
+    if(count($workload) > 1) $multi_account = true;
+    foreach($workload as $work) {
+      $ebay_account = @$work['ebay_account'];
+      $ebay_id = @$work['ebay_id'];
+      /*
+       * this sort of thing is outdated now
+       * $price = @$work['price'];
+       */
+      if(!$ebay_id) continue;
+      if($delta_price < 0) {
+        $auth_code = price_check_get_ebay_auth_code_admin($ebay_account);
+        if($revised_price < $new_price) {
+          price_check_notify_user($ebay_account, $item_template->nid, "S001: Source item changed from $old_price to $new_price, DS Genie would set item $old_item_price to $revised_price but the source is $new_price");     
+        } else {
+          price_check_set_ebay_item_price($ebay_id, $revised_price, $auth_code);
+          price_check_notify_user($ebay_account, $item_template->nid, "S002: Source item changed from $old_price to $new_price so DS Genie set item from $old_item_price to $revised_price");
+          $retprice = $revised_price;
+        }
+      } else {
+        if($delta_price > 0) {
+          price_check_notify_user($ebay_account, $item_template->nid, "S003: Source item changed from $old_price to $new_price but DS Genie is not configured to lower prices. Consider lowering price to $revised_price");
+        }    
+      }
+    }
+  }
+  if(!@$multi_account && @$retprice) return @$retprice;
+  return false;
+}
+
+function price_check_ebay_item_update($item_template) {
+  return;
+  $workload = price_check_get_ebay_subscribers($item_template);
+  foreach($workload as $work) {
+    $ebay_account = @$work['ebay_account'];
+    $ebay_id = @$work['ebay_id'];
+    if($ebay_id) {
+      $auth_code = price_check_get_ebay_auth_code_admin($ebay_account);
+      price_check_ebay_item_update_tax($ebay_id, $auth_code);
+      print "$ebay_id $ebay_account <br>";
+    }
+  }
+}
+
+function price_check_debug_update() { 
+  ini_set('max_execution_time', 300);
+  $raw_nids = <<<NODEDATA
+4462
+4463
+NODEDATA;
+  /*4596
+4599
+4776
+4781
+5188
+5191
+5193
+6008*/
+  $nids = explode("\n", $raw_nids);
+  $items = entity_load('node', $nids);
+  foreach($items as $item) {
+    price_check_touch_item($item);
+    price_check_ebay_item_update($item);
+    //print_r($item); exit(0);
+    node_save($item);
+  }
+  print "done";
+}
+
+function price_check_get_walmart_item_id_from_url($url) {
+  $parts = explode('/', $url);
+  $last = end($parts);
+  $last_last = explode('?', $last);
+  $frags = explode('#', $last_last[0]);
+  return @$frags[0];
+}
+
+function price_check_add_cron_work_item($row, &$work) {
+  $item_id = price_check_get_walmart_item_id_from_url($row->field_external_url_value);
+  //watchdog('walmart:workitems', "add {$item_id} to node {$row->entity_id}");
+  $work[trim($item_id)] = $row->entity_id;
+}
+
+function price_check_cron_queue_info() { 
+  $queues['price_check_bot_queue_atom_1'] = array( 
+    'worker callback' => 'price_check_bot_queue_atom_1', 
+    'time' => 99, 
+  );
+  $queues['price_check_walmart_queue'] = array( 
+    'worker callback' => 'price_check_process_walmart_queue', 
+    'time' => 30000, 
+  ); 
+  $queues['price_check_walmart_queue_atom'] = array( 
+    'worker callback' => 'price_check_process_walmart_queue_atom', 
+    'time' => 30000, 
+  );
+  $queues['price_check_general_queue'] = array( 
+    'worker callback' => 'price_check_process_general_queue', 
+    'time' => 30000, 
+  );
+  $queues['price_check_skugrid_queue'] = array( 
+    'worker callback' => 'price_check_process_skugrid_queue', 
+    'time' => 30000, 
+  );
+  $queues['price_check_skugrid_queue_atom'] = array( 
+    'worker callback' => 'price_check_process_skugrid_queue_atom', 
+    'time' => 30000, 
+  );
+  $queues['price_check_delete_queue'] = array( 
+    'worker callback' => 'price_check_process_delete_queue', 
+    'time' => 99, 
+  );
+  $queues['price_check_assign_work_queue_atom'] = array( 
+    'worker callback' => 'price_check_assign_work_queue_atom', 
+    'time' => 99, 
+  );
+  $queues['price_check_spider_queue_atom'] = array( 
+    'worker callback' => 'price_check_spider_queue_atom', 
+    'time' => 99, 
+  );
+  $queues['price_check_spider_queue_seller_atom'] = array( 
+    'worker callback' => 'price_check_spider_queue_atom', 
+    'time' => 399, 
+  );
+  return $queues; 
+}
+
+function price_check_encode_field($data) {
+  $output = array();
+  if(!$data) return $output;
+  $data = price_check_force_json_array($data);
+  foreach($data as $item) $output[] = array('value' => $item);
+  return $output;
+}
+
+function price_check_assign_work_queue_atom($item) {
+  $node = node_load($item['item']);
+  $node->field_assigned_to['und'][0]['value'] = $item['worker'];
+  node_save($node);
+}
+
+function price_check_query_walmart_items($item) {
+  $result = file_get_contents("http://api.walmartlabs.com/v1/items?ids=$item&format=json&apiKey=z58e678x39qen55m2jbqqpmt");
+  $obj = json_decode($result);
+  watchdog("walmart multiquery", print_r(array("query" => $item, 'results'=> $obj), true));
+  
+  return $obj;
+}
+
+function price_check_check_update($item, $obj, $is_walmart = false) {
+  if(is_numeric($item)) {
+    $item = node_load($item); 
+  } else {
+    $item = node_load($item->nid);
+  }
+  if((@$item->field_cron_ignore == 1) && ($item->uid == 184)) {
+    watchdog("cron ignore:", $item->nid);
+    price_check_touch_item($item);
+    node_save($item);
+    return;
+  }
+  if(is_array($obj)) {
+    //watchdog('problem with object: fatal', print_r(array('obj' => $obj, 'item' => $item), true));
+    if(@$obj['reason'] == 'cant get item') return;
+    $message = "Unable to decode item. Debugging info follows: " . print_r($obj, true);
+    $params = array('message' => $message, 'node' => $item);
+    $email = price_check_get_user_email($item);
+    drupal_mail('price_check', 'error', $email, language_default(), $params);
+    drupal_mail('price_check', 'error', "kwesistewart@bluephoenixtt.com", language_default(), $params);
+    price_check_ebay_item_oos($item);
+    price_check_touch_item($item, $is_walmart);
+    node_save($item);
+    return;
+  } 
+  if(!@$item->field_external_url['und'][0]['value']) return;
+  if(!@$obj) {
+    price_check_ebay_item_oos($item);
+    price_check_touch_item($item, $is_walmart);
+    node_save($item);
+    return;
+  }
+  if($item->nid == 501961) {
+    watchdog('superdebug pre touch', print_r($item, true)); 
+  }
+  $date = date("m.d.y H:i:s");
+  price_check_touch_item($item, $is_walmart);
+  if($obj->stock != @$item->field_store_status['und'][0]['value']) {
+    price_check_update_item($item, $obj, "$date Availability changed ({$obj->stock})");
+    if(@$obj->stock == "Available") {
+      if(!$is_walmart) price_check_ebay_item_instock($item);
+    } else {
+      if($is_walmart) {
+        $delta_checked = time() - $item->field_last_checked['und'][0]['value'];
+        if($delta_checked > 2 * 60 * 60) {
+          $result = new stdClass();
+          $result->entity_id = $item->nid;
+          $result->field_external_url_value = $item->field_external_url['und'][0]['value'];
+          $queue = DrupalQueue::get('price_check_general_queue'); 
+          $queue->createQueue();
+          $queue->createItem($result); 
+        }
+      } else {
+        price_check_ebay_item_oos($item);
+        node_save($item); 
+        return;
+      }
+    }
+  } 
+  //profit checking
+  $subscriber = price_check_get_subscriber_from_string(@$item->field_subscribers['und'][0]['value']);
+  if(!$subscriber) {
+    watchdog("debug: no subscriber", $item->nid);
+    //return;
+  }
+  $ebay_id = $subscriber['ebay_id'];
+  $ebay_account = $subscriber['ebay_account'];
+  $uid = $item->uid;
+  //$ebay_item = price_check_get_ebay_item_from_id($ebay_id, $uid);
+  $ebay_price = @$ebay_item['Item']['StartPrice'];
+  if(!$ebay_price) {
+    //watchdog("debug: no ebay item", $ebay_id . ":" . $uid . ":" . $item->nid);
+    //$item->field_subscribers['und'] = array();
+    //node_save($item); 
+  }
+  $store_price = price_check_get_price_with_shipping($obj);
+  if($store_price && $ebay_price) {
+    if(($store_price * 1.1725 > $ebay_price + 0) && ($item->field_store_price['und'][0]['value'] * 1.1725 > $ebay_price + 0)) {
+      $price = round($store_price * 1.1725, 2) + 1;
+      price_check_set_ebay_item_price($ebay_id, $price, $uid);
+      $message = "Changed from $ebay_price to $price to maintain profit.";
+      price_check_notify_user($ebay_account, $item->nid, $message);
+      $item->field_price['und'][0]['value'] = $price;
+      $item->field_store_price['und'][0]['value'] = $store_price;
+      $item->field_store_status['und'][0]['value'] = ($item == null) ? "Not Available" : $obj->stock;
+      $item->field_change_reason['und'][0]['value'] = $message;
+      $item->field_item_history['und'][] = array('value' => $message);
+      node_save($item);
+      return;
+    }
+  }
+  if($obj->salePrice) {
+    if(price_check_get_price_with_shipping($obj) - @$item->field_store_price['und'][0]['value'] - @$item->field_shipping_price['und'][0]['value'] != 0) {
+      $store_price = price_check_get_price_with_shipping($obj);
+      $old_store_price = @$item->field_store_price['und'][0]['value'] + @$item->field_shipping_price['und'][0]['value'];
+      $price = price_check_ebay_item_price_change($item, $old_store_price, $store_price);
+      price_check_update_item($item, $obj, "$date PRICE CHANGED: $old_store_price => $store_price");
+      if(@$price) $item->field_price['und'][0]['value'] = $price;
+    }
+  }
+  node_save($item);
+}
+
+function price_check_get_price_with_shipping($item_object) {
+  if(@$item_object->standardShipRate && @$item_object->salePrice) return $item_object->standardShipRate + $item_object->salePrice;
+  return $item_object->salePrice;
+}
+
+function price_check_process_walmart_queue_atom($item) {
+  $item_template = $item['i'];
+  $walmart_item = $item['w'];
+  if($item_template->nid == 650657) {
+    watchdog("walmart queue debug 2", $item_template->nid);
+  }
+  price_check_check_update($item_template, $walmart_item, true);
+}
+
+function price_check_process_delete_queue($item) {
+  node_delete($item);
+}
+
+function price_check_process_walmart_queue($item) { 
+  $walmart_items = price_check_query_walmart_items($item);
+  if(!$walmart_items) return;
+  //watchdog('walmart:json', print_r($walmart_items, true));
+  foreach($walmart_items->items as $walmart_item) {
+   if($walmart_item->itemId == 34426675) {
+     watchdog("walmart queue debug", $walmart_item->itemId);
+   }
+   $sql = <<<EOSQL
+select fu.entity_id
+from role r
+join users_roles ur on r.rid = ur.rid 
+join node n on n.uid = ur.uid
+join field_data_field_external_url fu on fu.entity_id = nid
+where name ='Paying Customer' and type = 'item_template'
+and field_external_url_value like '%walmart.com%{$walmart_item->itemId}%'
+and fu.entity_id in (select entity_id from field_data_field_subscribers)
+and fu.entity_id not in (select entity_id from field_data_field_data where field_data_value like 'invalid%')
+EOSQL;
+    $results = db_query($sql);
+    $queue = DrupalQueue::get('price_check_walmart_queue_atom'); 
+    $queue->createQueue();
+    foreach($results as $result) {
+      $item_template = node_load($result->entity_id);      
+      $arg_item = array('i'=>$item_template, 'w'=>$walmart_item);  
+      if($item_template->nid == 233748) {
+        //watchdog('superdebug', print_r($arg_item, true));
+      }
+      $queue->createItem($arg_item); 
+    }
+  }
+}
+
+function price_check_process_general_queue($item) { 
+  $obj = price_check_get_item_object_from_url($item->field_external_url_value);
+  $item_template = node_load($item->entity_id);
+  price_check_check_update($item_template, $obj);
+  sleep(2);
+}
+
+function price_check_process_skugrid_queue($item) {
+  $cron_seq = variable_get('cron_seq');
+  $local_id = $item->localId;
+  $data = "price_check_process_skugrid_queue entry: " . print_r($item, true);
+  price_check_write_cron_log($cron_seq, 'b_price_check_process_skugrid_queue_enter', $data);
+  if($local_id) {
+    $sql = "select entity_id from field_data_field_skugrid_local_id where field_skugrid_local_id_value = :local_id";
+    $results = db_query($sql, array(":local_id" => $local_id));
+    $queue = DrupalQueue::get('price_check_skugrid_queue_atom'); 
+    $queue->createQueue();
+    foreach($results as $row) {
+      $queue_item = array('obj' => $item, 'nid' => @$row->entity_id);
+      $queue->createItem($queue_item);
+      $data = "price_check_process_skugrid_queue hit: " . print_r($queue_item, true);
+      price_check_write_cron_log($cron_seq, 'c_price_check_process_skugrid_queue_hit', $data);
+      price_check_write_cron_log($cron_seq, 'cc_price_check_process_skugrid_queue_hit', $data);
+    }
+  }
+}
+
+function price_check_process_skugrid_queue_atom($item) {
+  $cron_seq = variable_get('cron_seq');
+  $data = "price_check_process_skugrid_queue entry: " . print_r($item, true);
+  price_check_write_cron_log($cron_seq, 'd_price_check_process_skugrid_queue_atom', $data);
+  $nid = $item['nid'];
+  $obj = $item['obj'];
+  price_check_check_update($nid, $obj);
+}
+
+function price_check_build_item_id_string($work) {
+  $output_slice = array_slice($work, 0, 20);
+  return implode(',', $output_slice);
+}
+
+function price_check_create_walmart_queue() {
+  $sql = <<<SQL
+select fu.entity_id, field_external_url_value from role r
+join users_roles ur on r.rid = ur.rid 
+join node n on n.uid = ur.uid
+join field_data_field_external_url fu on fu.entity_id = nid
+left join field_data_field_last_checked_1 fc on  fc.entity_id = n.nid
+where name ='Paying Customer' and type = 'item_template'
+and field_external_url_value like '%walmart.com%'
+and nid in (select entity_id from field_data_field_subscribers)
+and nid not in (select entity_id from field_revision_field_skugrid_local_id)
+and nid not in (select entity_id from field_data_field_data where field_data_value like 'invalid%')
+order by cast(field_last_checked_1_value as unsigned) asc
+limit 100
+SQL;
+  $results = db_query($sql);
+  $work = array();
+  foreach($results as $result) {
+    price_check_add_cron_work_item($result, $work);
+  }
+  
+  $workloads = price_check_partition(array_keys($work), 5);
+  //watchdog('walmart:work', print_r($work, true));
+  //print_r($workloads); exit(0);
+  
+  $queue = DrupalQueue::get('price_check_walmart_queue'); 
+  $queue->createQueue();
+  foreach($workloads as $workload) {
+    $item_ids = price_check_build_item_id_string($workload);
+    $queue->createItem($item_ids); 
+    //$output[] = $item_ids;
+  }
+}
+
+function price_check_mail($key, &$message, $params) {
+  switch($key) {
+    case 'error':
+      /*drupal_mail('price_check', 'alert', $email, language_default(), array('node' => $node,'item'=>$item, 'message'=>$message));
+  drupal_mail('price_check', 'alert', "kwesistewart@bluephoenixtt.com", language_default(), array('node' => $node, 'item'=>$item, 'message'=>$message));
+  */
+      $message_text = $params['message'];
+      $node = $params['node'];
+      $nid = $node->nid;
+      $url = "http://dsgenie.com/node/$nid/edit?rawform=1";
+      $langcode = $message['language']->language;
+      $message['subject'] = "DSGenie Alert";
+      $message['body'][] = "There is an error in one of your listings.";
+      $message['body'][] = $url;
+      $message['body'][] = "Message: $message_text";
+      break;
+    case 'alert':
+      $message_text = $params['message'];
+      $item = $params['item'];
+      $options = array('absolute' => TRUE);
+      $node = $params['node'];
+      $nid = $node->nid;
+      $url = url('node/' . $nid, $options);
+      $langcode = $message['language']->language;
+      $message['subject'] = "Price Check Alert";
+      $message['body'][] = "Alert: There has been a change in item {$item->name}. Message: {$message_text}. Store Link: {$node->field_url['und'][0]['url']} Price Check Link: $url";
+      break;
+    case 'invoice':
+      $message_text = $params['message'];
+      $langcode = $message['language']->language;
+      $message['subject'] = "New Invoice from DS Genie";
+      $message['body'][] = $message_text;
+      $message['from'] = 'DS Genie Sales <sales@dsgenie.com>';
+      break;
+    case 'debug':
+      $langcode = $message['language']->language;
+      $message['subject'] = "Price Check Alert: DEBUG";
+      $message['body'][] = "check" . time();
+      break;
+    case 'ipn':
+      $langcode = $message['language']->language;
+      $message['subject'] = "IPN from dsgenie";
+      $message['body'][] = $params;
+      break;
+    case 'stripe hook':
+      $langcode = $message['language']->language;
+      $message['subject'] = "Stripe Hook";
+      $message['body'][] = $params;
+      break;
+    case 'diagnostics':
+      $langcode = $message['language']->language;
+      $message['subject'] = "DsGenie Diagnostics";
+      $message['body'][] = $params;
+      $message['headers']['Content-Type'] = 'text/html; charset=UTF-8; format=flowed';
+      break;
+  }
+}
+
+function price_check_form_user_register_form_alter(&$form, &$form_state, $form_id) {
+  if(@$_GET['affiliate_id']) {
+    $affiliate_id = $_GET['affiliate_id'];
+    $sql = "select entity_id from field_data_field_affiliate_hash where field_affiliate_hash_value = :affiliate_id";
+    $result = db_query($sql, array('affiliate_id' => $affiliate_id));
+    $uid = $result->fetchField();
+    if($uid) {
+      $form['field_affiliate_code']['#disabled'] = TRUE;
+      $form['field_affiliate_code']['und'][0]['value']['#default_value'] = $affiliate_id;
+      //$form['#submit'][] = 'price_check_user_register_form_submit';
+    }
+  } else {
+    $form['field_affiliate_code']['#access'] = false;
+  } 
+}
+
+function price_check_make_image($image) {
+  return "<a href='https://www.google.com/searchbyimage?&image_url=$image' target='_blank'><img src='$image' width='500' /></a><br />";
+}
+
+function price_check_form_show_fields(&$form, $all_fields, $show_fields) {
+  foreach($all_fields as $field) {
+    if(!in_array($field, $show_fields)) $form[$field]['#access'] = FALSE;
+  }
+}
+
+function price_check_form_order_node_form_alter(&$form, &$form_state, $form_id) {
+  if(isset($form_state['node']) && property_exists($form_state['node'], 'nid') && $form_state['node']->nid > 0 && $form['field_store_order_number']['und'][0]['value']['#default_value'] > 0)
+    unset($form['field_order_status_select']['und']['#options']['New Order']);
+  $form['#attached']['js'] = array(
+    drupal_get_path('module', 'price_check') . '/price_check.js',
+  );  
+  $form['markup'] = array(
+    '#type' => 'item',
+    '#title' => t('Item Link'),
+    '#markup' => price_check_get_item_link($form_state['build_info']['args'][0]->field_ebay_item_id['und'][0]['value']),
+  );
+  return;
+  $form['field_order_status']['#type'] = "select";
+  //$form['field_order_status']['#size'] = null;
+  $form['field_order_status']['#default_value'] = t('New Order');
+  $form['field_order_status']['#options'] = array(
+    'New Order' => t('New Order'),
+    'Product Ordered, waiting on tracking' => t('Product Ordered, waiting on tracking'),
+    'Tracking uploaded' => t('Tracking uploaded'),
+    'Order complete, delivered' => t('Order complete, delivered'),
+    'Return in progress' => t('Return in progress'),
+    'Return/replacement in progress' => t('Return/replacement in progress'),
+    'Order cancelled' => t('Order cancelled'),
+    'Bad address, waiting on customer response' => t('Bad address, waiting on customer response'),
+    'Order cancelled, need to re-order' => t('Order cancelled, need to re-order'),
+  ); 
+}
+
+function price_check_get_current_user() {
+  global $user;
+  return user_load($user->uid);
+}
+
+function price_check_prepare_invoice_message($node) {
+  $output = "Invoice\r\n\r\n" . 
+      "To: " . @$node->field_customer_name['und'][0]['value'] . "\r\n" . 
+      "Description: " . @$node->title . "\r\n" .
+      "Amount: USD " .  @$node->field_customer_amount['und'][0]['value'] . "\r\n" .
+      "\r\n" .
+      "Click <a href='http://www.dsgenie.com/view_invoice/{$node->nid}'>here</a> to pay this invoice.";
+  return $output;
+}
+
+function price_check_node_insert($node) {
+  if($node->type == 'invoice') {
+    $email = @$node->field_customer_email['und'][0]['value'];
+    $amount = @$node->field_customer_amount['und'][0]['value'];
+    $title = @$node->title;
+    $customer_name = @$node->field_customer_name['und'][0]['value'];
+    $message = price_check_prepare_invoice_message($node);
+    drupal_mail('price_check', 'invoice', $email, language_default(), array('node' => $node,'message'=>$message));   
+  }
+}
+
+function price_check_node_update($node) {  
+  global $user;
+  if($user->uid ==0) return ;
+  $new_node = $node;
+  $old_node = node_load($node->nid);
+  if($node->type == 'item_template') {
+    /*$new_subs = @$new_node->field_subscribers['und'];
+    $old_subs = @$old_node->field_subscribers['und'];
+    if(count($old_subs) <= count($new_subs)) return;
+    $new_sub = array_pop(array_pop($new_subs));
+    $sub_account = user_load_by_name($new_sub);
+    price_check_add_ebay_item_to_account($sub_account, $node);*/
+  }
+  if($node->type == 'order') {
+    $user_full = price_check_get_current_user();
+    $use_gc_system = @$user_full->field_use_gc_system['und'][0]['value'];
+    if(!$use_gc_system) return;
+    if(!isset($new_node->field_order_status_select['und'][0]) || !isset($old_node->field_order_status_select['und'][0])) return;
+    if($new_node->field_order_status_select['und'][0]['value'] == 'Product Ordered, waiting on tracking' && 
+      $old_node->field_order_status_select['und'][0]['value'] != 'Product Ordered, waiting on tracking') {
+      //deduct points, what did the order cost?
+      $order_price = @$new_node->field_order_price['und'][0]['value'];
+      drupal_set_message("You did not specify order price for " . $new_node->title);
+      $gift_cards = price_check_get_gift_cards($new_node);
+      $balance = $order_price;
+      foreach($gift_cards as $gift_card) {
+        price_check_use_gift_card($gift_card, $balance, $new_node);
+      }
+    }
+    if($new_node->field_order_status_select['und'][0]['value'] == 'Order cancelled, need to re-order' && 
+      $old_node->field_order_status_select['und'][0]['value'] != 'Order cancelled, need to re-order') {
+      //refund points
+      $gift_cards = price_check_get_gift_cards($new_node);
+      foreach($gift_cards as $gift_card) {
+        price_check_reverse_gift_card($gift_card);
+      }
+    }
+    if($new_node->field_order_status_select['und'][0]['value'] == 'Tracking uploaded' && 
+      $old_node->field_order_status_select['und'][0]['value'] != 'Tracking uploaded') {
+      //unlock gcs
+      $gift_cards = price_check_get_gift_cards($new_node);
+      foreach($gift_cards as $gift_card) {
+        price_check_unlock_gift_card($gift_card); 
+      }
+    }
+  }
+}
+
+function price_check_get_gift_cards($node) { 
+  $gift_cards = array();
+  foreach($node->field_gift_card['und'] as $gift_card) {
+    if(is_array($gift_card) && key_exists("value", $gift_card) && $gift_card['value'] > "")
+      $gift_cards[] = $gift_card['value']; 
+  } 
+  return $gift_cards;
+}
+
+function price_check_get_gift_card($gift_card) {
+  $type = 'gift_card';
+  $title = $gift_card;
+  //if(substr($title, -1) != '-') $title .= '-';
+  $result = db_query("SELECT n.nid FROM {node} n WHERE n.title = :title AND n.type = :type", array(":title"=> $title, ":type"=> $type));  
+  $nid = $result->fetchField();
+  if(!$nid) return $nid;
+  $gift_card_node = node_load($nid);
+  return $gift_card_node;
+}
+
+function price_check_gift_card_create($card_number, $gc_lock) {
+  global $user;
+  $node = new stdClass();
+  $node->title = $card_number;
+  $node->type = "gift_card";
+  node_object_prepare($node); // Sets some defaults. Invokes hook_prepare() and hook_node_prepare().
+  $node->language = LANGUAGE_NONE; // Or e.g. 'en' if locale is enabled
+  $node->uid = $user->uid; 
+  $node->status = 1; //(1 or 0): published or not
+  $node->promote = 0; //(1 or 0): promoted to front page
+  $node->comment = 1; // 0 = comments disabled, 1 = read only, 2 = read/write
+  
+  $node->field_pin[$node->language][0]['value'] = 0;
+  $node->field_gc_discount[$node->language][0]['value'] = 0;
+  $node->field_gc_balance[$node->language][0]['value'] = 0;
+  $node->field_last_used[$node->language][0]['value'] = 0;
+  //$node->field_activity[$node->language][0]['value'] = 
+  $node->field_last_checked[$node->language][0]['value'] = 0;
+  $node->field_refunded[$node->language][0]['value'] = 0;
+  $node->field_gc_purchase_date[$node->language][0]['value'] = 0;
+  $node->field_gc_locked_by[$node->language][0]['value'] = $gc_lock;
+  $node->field_content_access_token[$node->language][0]['value'] = price_check_get_user_content_access_token();
+  
+  $node = node_submit($node); // Prepare node for saving
+  node_save($node);
+}
+
+function price_check_use_gift_card($gift_card, &$balance, $node) {
+  //get node from node title
+  $gift_card_node = price_check_get_gift_card($gift_card);
+  if(!$gift_card_node) {
+    //need to create a gift card node to be checked
+    price_check_gift_card_create($gift_card, "{$node->field_ebay_account['und'][0]['value']}\\{$node->title}");
+    $balance = -1;
+    //need to report this 
+    //Array ( [status] => Array ( [0] => UNKNOWN CARD: 1234ABCD ) )
+    $messages = drupal_get_messages();
+    $status_messages = (array) @$messages['status'];
+    $message = array("UNKNOWN CARD: $gift_card");
+    $ret_messages = array_merge($status_messages, $message);
+    //drupal_set_message("UNKNOWN CARD: $gift_card", strip_tags("GC" . $gift_card));
+    
+    drupal_set_message(implode("\r\n", $ret_messages));
+    
+    //    print_r(drupal_get_messages()); exit(0);
+    //$node = node_load($node->nid);
+    //$node->body[LANGUAGE_NONE] .= "UNKNOWN CARD: $gift_card\r\n\r\n";
+    //node_save($node);
+    return;
+  }
+  $gift_card_balance = $gift_card_node->field_gc_balance['und'][0]['value'];
+  //handle $balance = -1
+  if($balance == -1) {
+    $gift_card_node->field_gc_balance['und'][0]['value'] = 0;
+    $gift_card_node->field_activity['und'][] = array('value' => price_check_activity_stamp($node->title, $node->field_ebay_account['und'][0]['value'], 0));
+    $gift_card_node->field_last_checked[$node->language][0]['value'] = 0; 
+  } else {
+    //normal scenarios
+    if($balance >= $gift_card_balance) {
+      $gift_card_node->field_gc_balance['und'][0]['value'] = 0;
+      $balance -= $gift_card_balance;
+      $gift_card_node->field_activity['und'][] = array('value' => price_check_activity_stamp($node->title, $node->field_ebay_account['und'][0]['value'], -$gift_card_balance));
+    } else {
+      $gift_card_node->field_gc_balance['und'][0]['value'] -= $balance;
+      $gift_card_node->field_activity['und'][] = array('value'=> price_check_activity_stamp($node->title, $node->field_ebay_account['und'][0]['value'], -$balance));
+      $balance = 0;
+    }
+  }
+  $gift_card_node->field_gc_locked_by['und'][0]['value'] = "{$node->field_ebay_account['und'][0]['value']}\\{$node->title}"; 
+  $gift_card_node->field_last_used['und'][0]['value'] = date("Y-m-d");
+  node_save($gift_card_node);
+}
+//
+function price_check_reverse_gift_card($gift_card) {
+  $gift_card_node = price_check_get_gift_card($gift_card);
+  if(!$gift_card_node) return;
+  if(isset($gift_card_node->field_last_checked['und']['0']) && $gift_card_node->field_last_checked['und']['0']['value'] != 0) {
+    $last_activity = html_entity_decode(end(end($gift_card_node->field_activity['und'])));
+    $last_activity_details = json_decode($last_activity, true);
+    $gift_card_node->field_activity['und'][] = array('value' => price_check_activity_stamp($last_activity_details['record'], $last_activity_details['account'], -$last_activity_details['amount']));
+    $gift_card_node->field_gc_balance['und']['0']['value'] -= $last_activity_details['amount'];
+  } 
+  $gift_card_node->field_gc_locked_by['und'][0]['value'] = "";
+  $gift_card_node->field_refunded['und'][0]['value'] = "1";
+  node_save($gift_card_node);
+}
+
+function price_check_activity_stamp($record_number, $ebay_account, $amount) {
+  $stamp = array('record'=>$record_number,
+    'account'=>$ebay_account, 
+    'amount'=>$amount);
+  return json_encode($stamp);
+}
+
+function price_check_unlock_gift_card($gift_card) { 
+  $gift_card_node = price_check_get_gift_card($gift_card);
+  if(!$gift_card_node) return;
+  $gift_card_node->field_gc_locked_by['und'][0]['value'] = "";
+  node_save($gift_card_node);
+}
+
+function price_check_gift_card_query($form, &$form_state) {
+  $form['amount'] = array(
+    '#type' => 'textfield', 
+    '#title' => 'Amount',
+    '#size' => 80,
+    '#maxlength' => 255,
+    '#required' => TRUE, 
+    '#description' => 'Enter the amount you need, eg: 999.99', 
+  );
+  $form['submit_button'] = array(
+    '#type' => 'submit',
+    '#value' => t('Search'),
+  );
+  if(isset($_SESSION['output_gift_card_query']) && count($_SESSION['output_gift_card_query'])) {
+    $form['results'] = array(
+      '#type' => 'item', 
+      '#title' => 'Results',
+      '#markup' => $_SESSION['output_gift_card_query'][0],
+    );
+    $_SESSION['output_gift_card_query'] = array();
+  }
+  return $form;
+}
+
+function price_check_gift_card_fetch($balance, $gift_cards) {
+  if($balance <= 0) return false;
+  $nids = $gift_cards;
+  //smallest above value
+  $query = new EntityFieldQuery();
+  $query->entityCondition('entity_type', 'node')
+    ->entityCondition('bundle', 'gift_card')
+    ->propertyCondition('status', NODE_PUBLISHED)
+    ->fieldCondition('field_gc_balance', 'value', $balance, "<")
+    ->fieldCondition('field_gc_locked_by', 'value', '', "=")
+    ->fieldOrderBy('field_gc_balance', 'value', 'DESC')
+    ;//->range(0, 1);
+
+  $result = $query->execute();
+  if (isset($result['node'])) {
+    foreach($result['node'] as $nid => $v) {
+      if(in_array($nid, $nids)) continue;
+      $node = node_load($nid);
+      $gift_card = array('number'=>$node->title,
+        'balance'=>$node->field_gc_balance['und'][0]['value'],
+        'nid'=>$node->nid,
+        'pin'=>$node->field_pin['und'][0]['value'],);
+      return (object) $gift_card;
+    }
+  } 
+  
+  //largest below value
+  $query = new EntityFieldQuery();
+  $query->entityCondition('entity_type', 'node')
+    ->entityCondition('bundle', 'gift_card')
+    ->propertyCondition('status', NODE_PUBLISHED)
+    ->fieldCondition('field_gc_balance', 'value', $balance, ">")
+    ->fieldCondition('field_gc_locked_by', 'value', '', "=")
+    ->fieldOrderBy('field_gc_balance', 'value', 'ASC')
+    ;//->range(0, 1);
+    
+  $result = $query->execute();
+  if (isset($result['node'])) {
+    foreach($result['node'] as $nid => $v) {
+      if(in_array($nid, $nids)) continue;
+      $node = node_load($nid);
+      $gift_card = array('number'=>$node->title,
+        'balance'=>$node->field_gc_balance['und'][0]['value'],
+        'nid'=>$node->nid,
+        'pin'=>$node->field_pin['und'][0]['value'],);
+      return (object) $gift_card;
+    }
+  }
+  return false;
+  
+}
+
+function price_check_gift_card_query_submit(&$form, &$form_state) {
+  $balance = $form_state['values']['amount'] + 0;
+  $gift_cards = array();
+  $gift_card_nids = array();
+  $gift_card = price_check_gift_card_fetch($balance, $gift_card_nids);
+
+  while($gift_card !== false) {
+    $gift_card_nids[] = $gift_card->nid;
+    $gift_cards[] = $gift_card;
+    $balance -= $gift_card->balance;
+    $gift_card = price_check_gift_card_fetch($balance, $gift_card_nids);
+  }
+  if($balance > 0) {
+    $output = "Not enough Gift Cards!";
+  } else {
+    $output = "<table><tr><th>Card Number</th><th>Pin</th><th>Balance</th></tr>";
+    foreach($gift_cards as $gift_card) {
+      //print_r($gift_card); exit(0);
+      $output .= "<tr><td>{$gift_card->number}</td><td>{$gift_card->pin}</td><td>{$gift_card->balance}</td></tr>";
+    }
+    $output .= "</table>";
+  }
+  $_SESSION['output_gift_card_query'] = array($output);
+} 
+
+function price_check_get_item_name_from_ebayid($ebay_id) {
+  if(price_check_is_debug()) return $ebay_id;
+  $outp = price_check_fetch_page_proxy("http://www.ebay.com/itm/$ebay_id");
+  preg_match_all("/<h1.*>(.*)<\/h1>/i", $outp, $results);
+  $title = @$results[1][0];
+  return $title;
+}
+
+function price_check_update_tax_table($ebay_id, $auth_code) {
+  $result = array(
+      price_check_set_ebay_tax_table($ebay_id, "True", $auth_code));
+  foreach($result as $row) {
+    if($row['Ack'] != "Success") return false;
+  }
+  return true;
+}
+
+function price_check_user_set_tax_table() {
+  $ebay_id = @$_GET['ebay_id'];
+  $ebay_account = @$_GET['ebay_account'];
+  if(!$ebay_id || !$ebay_account) return "bad request";
+  $auth_code = price_check_get_ebay_auth_code($ebay_account);
+  $result = price_check_set_ebay_tax_table($ebay_id, "True", $auth_code);
+  if($result['Ack'] == "Success") return "Success";
+  return "Failed";
+}
+
+function price_check_get_timer() {
+  if(@$_SESSION['price_check_timer']) return $_SESSION['price_check_timer'][0];
+  $time = time();
+  $_SESSION['price_check_timer'] = array($time);
+  return $time;
+}
+
+function price_check_check_amazon_links_atom($nid) {
+  $node = node_load($nid);
+  $url = $node->field_external_url['und'][0]['value'];
+  $time = price_check_get_timer();
+  while(time() <= $time + 1);
+  $item = price_check_get_item_object_from_url($url);
+  $_SESSION['price_check_timer'] = array(time());
+  if(!$item->salePrice) {
+    $node->field_data['und']['0']['value'] = 'invalid';
+    node_save($node);
+  }
+}
+
+function price_check_fix_amazon_links_finished() {
+  $_SESSION['price_check_fix_amazon_links'] = array(true);
+}
+
+function price_check_node_access($node, $op, $account) {
+  $user_full = user_load($account->uid);
+  if(!isset($node->field_content_access_token)) return NODE_ACCESS_IGNORE;
+  if(@$node->field_content_access_token['und'][0]['value'] == @$user_full->field_user_access_token['und'][0]['value']) {
+    return NODE_ACCESS_ALLOW;
+  } else {
+    return NODE_ACCESS_DENY;
+  }
+} 
+
+function price_check_node_presave($node) {
+  global $user;
+  if($user->uid == 0) return;
+  if (empty($node->nid) && ($user->uid != 1) && isset($node->field_content_access_token)) {  
+    $user_full = user_load($user->uid);
+    $node->field_content_access_token['und'][0]['value'] = $user_full->field_user_access_token['und'][0]['value'];
+  }
+}
+
+function price_check_get_user_content_access_token() {
+  global $user;
+  $user_full = user_load($user->uid);
+  return @$user_full->field_user_access_token['und'][0]['value'];
+}
+
+function price_check_user_insert(&$edit, $account, $category) {
+  //need to make a content access token, get the id and assign it to that user...
+  $uid = $account->uid;
+  $name = $account->name;
+  
+  $node = new stdClass();
+  $node->type = "access_token";
+  node_object_prepare($node); // Sets some defaults. Invokes hook_prepare() and hook_node_prepare().
+  $node->title_field['und'][0]['value'] = $name;
+  $node->language = LANGUAGE_NONE; 
+  $node->uid = $uid; 
+  $node->status = 1; //(1 or 0): published or not
+  $node->promote = 0; //(1 or 0): promoted to front page
+  $node->comment = 0; // 0 = comments disabled, 1 = read only, 2 = read/write
+  $node->field_grant_access[$node->language][0]['value'] = $name;
+  node_save($node);
+  //now the assignment
+  $nid = $node->nid;
+  
+  $user = user_load($account->uid);
+  $user->field_user_access_token['und'][0]['value'] = $nid;
+  user_save($user);
+  
+}
+
+function price_check_save_ebay_auth_code($user_id, $auth_code) {
+  global $user; 
+  $user_full = user_load($user->uid);
+  $ebay_accounts = @$user_full->field_ebay_accounts['und'];
+  if($ebay_accounts) {
+    foreach($ebay_accounts as $key => $ebay_account) {
+      if(strtolower(trim($ebay_account['value'])) == strtolower($user_id)) {
+        $index = $key;
+        break;
+      }
+    }
+    $ebay_auth_codes = @$user_full->field_ebay_access_tokens['und'];
+    $count = count($ebay_auth_codes);
+    if($count-1 < $index) {
+      for($i=$count; $i<=$index; $i++) {
+        if(!isset($user_full->field_ebay_access_tokens['und'][$i]['value']))
+          $user_full->field_ebay_access_tokens['und'][$i]['value'] = '-';
+      }
+    }
+    $user_full->field_ebay_access_tokens['und'][$index]['value'] = $auth_code;
+    user_save($user_full);
+  }
+}
+
+function price_check_unset_ebay_auth_token($token) {
+  global $user;
+  $user_full = user_load($user->uid);
+  $auth_token = $user_full->field_ebay_access_tokens['und'][$token]['value'];
+  if(@$_SESSION['price_session']['auth_code'] == $auth_token) {
+    $_SESSION['price_session']['auth_code'] = false;
+    $_SESSION['price_session']['user_id'] = false;
+  }
+  $user_full->field_ebay_access_tokens['und'][$token]['value'] = '-';
+  user_save($user_full);
+}
+
+function price_check_proc_authorize() {
+  if(@$_GET['bebm2yRH'] == 'WEXEAM3n') {
+    //http://www.dsgenie.com/ebay_auth?bebm2yRH=WEXEAM3n
+    $_SESSION['price_session']['auth_code'] = false;
+    $_SESSION['price_session'][0] = price_check_get_ebay_session();
+    drupal_set_message("reset ebay auth system");
+    drupal_goto('/');
+    return;
+  }
+  $retpath = @$_GET['return'];
+  $func = @$_GET['func'];
+  $token = @$_GET['token'];
+  if($retpath) $_SESSION['price_session']['returl'] = $retpath;
+  if($func == 'logout') {
+    price_check_unset_ebay_auth_token($token);
+    if($retpath) drupal_goto($retpath);
+  }
+  $auth_code = @$_SESSION['price_session']['auth_code'];
+  //watchdog("DEBUG:TRACE", "call auth ($auth_code)", array(), WATCHDOG_DEBUG, NULL);    
+  if(empty($_GET['auth'])) {
+    if(!$auth_code) {
+      $retpath = $_GET['q'];
+      //watchdog("DEBUG:TRACE", "ask ebay with ret: $retpath", array(), WATCHDOG_DEBUG, NULL);  
+      $session_id = price_check_get_ebay_session();
+      $_SESSION['price_session'][0] = $session_id;
+      //$session_id = $_SESSION['price_session'][0];
+      if(substr($retpath, 0 , 9) != "ebay_auth") $_SESSION['price_session']['returl'] = $retpath;
+      $signin = price_check_get_ebay_signin_url($session_id);
+      //watchdog("auth:token before", $_SESSION['price_session'][0]);
+      header("Location: $signin"); exit(0);
+    } else {
+      if($retpath) drupal_goto($retpath);
+      //watchdog("DEBUG:TRACE", "have an authcode: $auth_code", array(), WATCHDOG_DEBUG, NULL);
+      return;
+    }  
+  } else {
+    if($_GET['auth'] == 'true') {
+      //get token
+      //watchdog("auth:token after", $_SESSION['price_session'][0]);
+      $token_raw = price_check_proc_get_token();
+      //watchdog("DEBUG:TRACE", "got auth from ebay: " . print_r($token_raw, true), array(), WATCHDOG_DEBUG, NULL);
+      //print_r($token_raw); exit(0);
+      if($token_raw['Ack'] != 'Success') {
+        //watchdog("DEBUG:TRACE", "auth failed", array(), WATCHDOG_DEBUG, NULL);
+        $_SESSION['price_session'][0] = price_check_get_ebay_session();
+        //drupal_goto('ebay_auth');
+        print_r($token_raw); exit(0);
+        return "Something went wrong with your request. Please try again.";
+      } else {
+        $auth_code = $token_raw['eBayAuthToken'];
+        $user_id = price_check_get_ebay_user_id_from_auth_token($auth_code);
+        price_check_save_ebay_auth_code($user_id, $auth_code);
+        $_SESSION['price_session']['auth_code'] = $token_raw['eBayAuthToken'];
+        $_SESSION['price_session']['user_id'] = $user_id;
+        //watchdog("DEBUG:TRACE", "got auth from ebay {$_SESSION['price_session']['auth_code']}. return to " . $_SESSION['price_session']['returl'], array(), WATCHDOG_DEBUG, NULL);
+        drupal_goto(@$_SESSION['price_session']['returl']);
+      }
+    } else
+      //watchdog("DEBUG:TRACE", "user canceled", array(), WATCHDOG_DEBUG, NULL);
+      return "User cancelled authorization.";
+  }
+}
+
+function price_check_get_item_name($item_id) {
+  return price_check_get_ebay_item_name_from_id($item_id);
+  $sql = "SELECT n.title FROM {field_data_field_ebay_item_id} ei join {node} n on ei.entity_id = n.nid where n.type= 'item' and field_ebay_item_id_value = :ebay_item_id";
+  $result = db_query($sql, array(":ebay_item_id"=> $item_id));  
+  $name = $result->fetchField();
+  $item_name_cache = &drupal_static(__FUNCTION__);
+  if(!$name) {
+    if (!isset($item_name_cache)) {
+      $item_name_cache = array();
+    }
+    if (!isset($item_name_cache[$item_id])) {
+      //desperate! try to get it off the db
+      $sql = "select distinct field_item_name_value from field_data_field_item_name fn " .
+        "join field_data_field_ebay_item_id fi on fn.entity_id = fi.entity_id  " .
+        "and fi.bundle = 'order' " .
+        "where field_item_name_value not like ':%' " .
+        "and field_ebay_item_id_value = :ebay_id ";
+      $result = db_query($sql, array(":ebay_id" => $ebay_id));
+      $name = $result->fetchField();
+      if(!$name) {
+        //last resort, fire up the proxy
+        $item_name_cache[$item_id] = price_check_get_item_name_from_ebayid($item_id);
+        return $item_name_cache[$item_id];
+      } else {
+        $item_name_cache[$item_id] = $name;
+        return $item_name_cache[$item_id];
+      }
+    } else {
+      return $item_name_cache[$item_id];
+    }
+  } else {
+    $item_name_cache[$item_id] = $name;
+    return $name;
+  }
+}
+
+function price_check_fetch_page_proxy($page) {
+  watchdog("DEBUG:PROXY", "page_req: $page", array(), WATCHDOG_DEBUG, NULL);    
+  $proxy_user = 'kstewa';
+  $proxy_pass = 'M0X8VFcC';
+  $proxy_url = '23.81.252.40:29842';
+  $ch = curl_init($page);
+  curl_setopt($ch, CURLOPT_PROXY, $proxy_url);
+  curl_setopt($ch, CURLOPT_PROXYUSERPWD, $proxy_user.':'.$proxy_pass);
+  curl_setopt($ch, CURLOPT_PROXYAUTH, CURLAUTH_BASIC);  
+  curl_setopt($ch, CURLOPT_VERBOSE, 1);
+  curl_setopt($ch, CURLOPT_RETURNTRANSFER, TRUE);
+  curl_setopt($ch, CURLOPT_ENCODING, '');
+  curl_setopt($ch, CURLOPT_TIMEOUT, 15);
+  curl_setopt ($ch, CURLOPT_SSL_VERIFYHOST, 0);
+  curl_setopt ($ch, CURLOPT_SSL_VERIFYPEER, 0);
+  
+  $ua = price_check_random_uagent();
+  curl_setopt($ch,CURLOPT_USERAGENT,$ua);
+  
+  $data = curl_exec($ch);
+  
+  $curl_error = curl_error($ch);
+  if($curl_error) {
+    watchdog("DEBUG:PROXY", "page_req failed(ua): $page ($ua)", array(), WATCHDOG_DEBUG, NULL);
+  }
+  return $data; 
+}
+
+
+function price_check_find_order($ebay_account, $order_number) {
+  $sql = "SELECT nid FROM {field_data_field_ebay_account} join {node} on entity_id = nid where field_data_field_ebay_account = :ebay_account and title = :order_number";
+  $result = drupal_query($sql, array(":order_number" => $order_number, ":ebay_account" => $ebay_account));
+  print_r("doing it wrong"); exit(0);
+}
+
+function price_check_save_node_order($order) {
+  global $user;
+  $node = new stdClass();
+  $node->title = $order['Title'];
+  $node->type = "order";
+  node_object_prepare($node); // Sets some defaults. Invokes hook_prepare() and hook_node_prepare().
+  $node->language = LANGUAGE_NONE; // Or e.g. 'en' if locale is enabled
+  $node->uid = $user->uid; 
+  $node->status = 1; //(1 or 0): published or not
+  $node->promote = 0; //(1 or 0): promoted to front page
+  $node->comment = 1; // 0 = comments disabled, 1 = read only, 2 = read/write
+  
+  $node->field_ebay_account[$node->language][0]['value'] = $order["Ebay Account"];
+  $node->field_purchase_date[$node->language][0]['value'] = $order["Purchase Date"];
+  $node->field_item_name[$node->language][0]['value'] = $order["Item name"];
+  $node->field_customer_price[$node->language][0]['value'] = $order["Customer Price"];
+  $node->field_quantity[$node->language][0]['value'] = $order["Quantity"];
+  $node->field_customer_name[$node->language][0]['value'] = $order["Customer Name"];
+  $node->field_shipping_address_1[$node->language][0]['value'] = $order["Shipping Address 1"];
+  $node->field_shipping_address_2[$node->language][0]['value'] = $order["Shipping Address 2"];
+  $node->field_shipping_city[$node->language][0]['value'] = $order["Shipping City"];
+  $node->field_shipping_zip[$node->language][0]['value'] = $order["Shipping Zip"];
+  $node->field_shipping_country[$node->language][0]['value'] = $order["Shipping Country"];
+  if(is_array($order["Shipping State"])) {
+    $order["Shipping State"] = "";    
+  }
+  $node->field_shipping_state[$node->language][0]['value'] = $order["Shipping State"];
+  $node->field_customer_tel[$node->language][0]['value'] = $order["Customer Tel"];
+  $node->field_ebay_item_id[$node->language][0]['value'] = $order["Ebay Item ID"]; 
+  $node->field_ebay_buyer_id[$node->language][0]['value'] = $order["Ebay Buyer ID"]; 
+  $node->field_ebay_order_id[$node->language][0]['value'] = $order["Ebay Order ID"]; 
+  $node->field_content_access_token[$node->language][0]['value'] = price_check_get_user_content_access_token();
+  if($order["Ebay Buyer Comment"]) {
+    $node->body[$node->language][0]['value']   = "MESSAGE FROM BUYER: " . strip_tags($order["Ebay Buyer Comment"]);
+  }
+  $node = node_submit($node); // Prepare node for saving
+  node_save($node);
+}
+
+function price_check_check_new_orders($orders, $ebay_account) {
+  $sql = "SELECT title FROM {field_data_field_ebay_account} join {node} on entity_id = nid where field_ebay_account_value = :ebay_account and title in (:order_numbers)";
+  $result = db_query($sql, array(":ebay_account" => $ebay_account, ":order_numbers" => $orders));
+  $output = array();
+  foreach($result as $record) { 
+    $output[$record->title] = $record->title;
+  }
+  return $output;
+} 
+
+function price_check_save_new_orders($order_list) {
+  //print_r($order_list); exit(0);
+  foreach($order_list as $ebay_account => $orders) {
+    $order_numbers = array_keys($orders);
+    $work_orders = price_check_check_new_orders($order_numbers, $ebay_account);
+    foreach($orders as $order_number => $order_details) {
+      if(!key_exists($order_number, $work_orders)) price_check_save_node_order($order_details);
+    }
+    return (count($orders) - count($work_orders));
+  }
+}
+
+function price_check_get_item_link($item_number) {
+  $sql = "SELECT fi.entity_id FROM {field_data_field_subscribers} fi where fi.bundle = 'item_template' and field_subscribers_value like :item_id";
+  $result = db_query($sql, array(":item_id" => '%|' . db_like($item_number) . '%'));
+  $nid = $result->fetchField();
+  if($nid) {
+    $item = node_load($nid);
+    $pictures = price_check_decode_field(@$item->field_picture['und']);
+    if(count($pictures) > 0) {
+      $picture = $pictures[0];
+    } else {
+      $pictures = price_check_decode_picture_field(@$item->field_ds_genie_pictures['und']);
+      if(count($pictures) > 0) $picture = $pictures[0];
+    }
+    $store_image = @$picture;
+    $store_url = @$item->field_external_url['und'][0]['value'];
+    return price_check_get_item_link_html($store_image, $store_url);
+  } else return "Item not listed in DS Genie";
+}
+
+function price_check_get_item_link_html($store_image, $store_url) {
+  $image_html = "<img width='200' src='$store_image' />";
+  $link_html = "<a href='$store_url' onclick='openWithoutReferrer(this.href); return false;'>$image_html</a>";
+  return $link_html;
+}
+
+function price_check_fix_orphaned_fields() {
+  $fields = array('store_image', 'store_price', 'our_price', 'store_status', 'last_checked', 'url|url',
+    'body', 'store_title', 'sku', 'change_reason', 'item_history');
+  $tables = array('data', 'revision');
+  foreach($fields as $field) {
+    foreach($tables as $table) {
+      $field_raw = $field;
+      $field_frags = explode('|', $field_raw);
+      if(@$field_frags[1]) {
+        $ext = $field_frags[1];
+        $field = $field_frags[0];
+      } else $ext = 'value';
+      $sql = price_check_sql_insert_field($field, $table, $ext)
+        . price_check_sql_select_empty_field($field, $table, 'item');
+      print "$sql ;<br/>";
+    }
+  }
+  exit(0); 
+}
+
+//SECTION: TRACKING
+
+function price_check_tracking_tests() { 
+  //hook menu proc
+}
+
+function price_check_tracking_is_UPS($code) {
+  preg_match_all("/\b(1Z ?[0-9A-Z]{3} ?[0-9A-Z]{3} ?[0-9A-Z]{2} ?[0-9A-Z]{4} ?[0-9A-Z]{3} ?[0-9A-Z]|[\dT]\d\d\d ?\d\d\d\d ?\d\d\d)\b/i", $code, $results);
+  $carrier = @$results[1][0];
+  if($carrier) return true;
+  return false;
+}
+  
+function price_check_tracking_is_USPS($code) {
+  preg_match_all("/\b(91\d\d ?\d\d\d\d ?\d\d\d\d ?\d\d\d\d ?\d\d\d\d ?\d\d|91\d\d ?\d\d\d\d ?\d\d\d\d ?\d\d\d\d ?\d\d\d\d)\b/i", $code, $results);
+  $carrier = @$results[1][0];
+  if($carrier) return true;
+  return false;
+}
+
+function price_check_tracking_is_FEDEX($code) {
+  preg_match_all("/\b((96\d\d\d\d\d ?\d\d\d\d|96\d\d) ?\d\d\d\d ?d\d\d\d( ?\d\d\d)?)\b/i", $code, $results);
+  $carrier = @$results[1][0];
+  if($carrier) return true;
+  return false;
+}
+
+function price_check_ajax_get_shipper_from_code() {
+   $values = $_POST;
+   foreach($values as $key => $data) {
+     if(substr($key, 0, 13) == 'tracking_data') {
+       $code = $data;
+     } else {
+       $elem = $key;
+     }
+   }
+   $carrier = false;
+   if(price_check_tracking_is_UPS($code)) {
+     $carrier = 'UPS';
+   } 
+   if(price_check_tracking_is_USPS($code)) {
+     $carrier = 'USPS';
+   } 
+   if(price_check_tracking_is_FEDEX($code)) {
+     $carrier = 'FEDEX';
+   }
+   if(!$carrier) {
+     $carrier = 'OTHER';
+     watchdog("DEBUG:TRACKING", "tracking: $code", array(), WATCHDOG_DEBUG, NULL);  
+   }
+   drupal_json_output(array('carrier' => $carrier, 'elem' => $elem));
+   exit(0);
+}
+
+function price_check_tracking_get_shipper_from_code($code) {
+  //fedex, ups, usps, lasership, other
+  //http://gummydev.com/regex/
+  //UPS /\b(1Z ?[0-9A-Z]{3} ?[0-9A-Z]{3} ?[0-9A-Z]{2} ?[0-9A-Z]{4} ?[0-9A-Z]{3} ?[0-9A-Z]|[\dT]\d\d\d ?\d\d\d\d ?\d\d\d)\b/i
+  //Fedex /\b((96\d\d\d\d\d ?\d\d\d\d|96\d\d) ?\d\d\d\d ?d\d\d\d( ?\d\d\d)?)\b/i
+  //USPS /\b(91\d\d ?\d\d\d\d ?\d\d\d\d ?\d\d\d\d ?\d\d\d\d ?\d\d|91\d\d ?\d\d\d\d ?\d\d\d\d ?\d\d\d\d ?\d\d\d\d)\b/i
+  /*
+   * http://wwwapps.ups.com/WebTracking/track?track=yes&trackNums=1ZXXXXXXXXXXXXXXXX
+If any value is provided for the “track” parameter then the confirmation page is skipped and the user goes directly to the tracking page.  If you’d rather send the user to the confirmation page then just omit that parameter.
+
+Direct URL for FedEx shipment tracking:
+http://www.fedex.com/Tracking?action=track&tracknumbers=XXXXXXXXXXXXXXXXX
+Direct URL for USPS shipment tracking
+https://tools.usps.com/go/TrackConfirmAction_input?qtc_tLabels1=XXXXXXXXXXXXXXXXX
+Direct URL for DHL US shipment tracking
+http://track.dhl-usa.com/TrackByNbr.asp?ShipmentNumber=XXXXXXXXXXXXXXXXX
+Direct URL for DHL Global shipment tracking
+http://webtrack.dhlglobalmail.com/?mobile=&trackingnumber=XXXXXXXXXXXXXXXXX
+Direct URL for OnTrac shipment tracking
+http://www.ontrac.com/trackingdetail.asp?tracking=XXXXXXXXXXXXXXXXX
+Direct URL for ICC World shipment tracking
+http://iccworld.com/track.asp?txtawbno=XXXXXXXXXXXXXXXXX
+Direct URL for LaserShip shipment tracking
+http://www.lasership.com/track.php?track_number_input=XXXXXXXXXXXXXXXXX
+}
+*/ 
+}
+
+function price_check_tracking_process_ajax_request() {
+  $values = $_POST;
+  foreach($values as $key => $data) {
+    if(substr($key, 0, 13) == 'tracking_data') {
+      $code = $data;
+      $nid = substr($key, 13);
+    } else if(substr($key, 0, 16) == 'tracking_shipper') {
+      $carrier = $data;
+    }
+  }
+  //we need to write code to dsgenie
+  $node = node_load($nid);
+  if(!$node) return;
+  $tracking = @$node->field_tracking_number['und'];
+  if(!count($tracking)) {
+    $node->field_tracking_number = array('und' => array(0 => array("value" => $code)));
+  } else {
+    $node->field_tracking_number['und'][] = array("value" => $code);
+  }
+  node_save($node); 
+  $order_id = $node->field_ebay_order_id['und'][0]['value'];
+  $ebay_result = price_check_tracking_submit($order_id, $code, $carrier);
+  print "carrier: $carrier, code: $code, nid: $nid";
+  exit(0);
+}
+
+//create form in views, submit
+
+//ajax response: tick graphic + highlight next data row or highlight field
+
+
+function price_check_page_build(&$page) {
+  $req = $_GET['q'];
+  //watchdog("DEBUG:TRACE", "page req: $req" , array(), WATCHDOG_DEBUG, NULL);    
+  //if ($req == 'orders_tracking') price_check_proc_authorize();
+  //if ($req == 'get_orders') price_check_proc_authorize();
+}
+
+/*TODO
+ * item specifics need to be caught
+ */
+
+function price_check_ebay_user_listings_report($uid) {
+  if(!$uid) return;
+  $user_full = user_load($uid);
+  drupal_set_title("View Listings for " . $user_full->name);
+  $ebay_accounts = price_check_get_ebay_account_names_uid($uid);
+  $sql_args = price_check_build_sql_accounts($ebay_accounts);
+
+  $output = "<p>User has no listings at this time.</p>";
+  if($sql_args) {
+    $output = "<table><tr><th>Item Name</th><th>Price</th></tr>";
+    $sql = "select * from field_data_field_subscribers where " . $sql_args['sql']; 
+    $result = db_query($sql, $sql_args['args']);
+    foreach($result as $record) {
+      $nid = $record->entity_id;
+      $params = $record->field_subscribers_value;
+      $subscriber = price_check_get_subscriber_from_string($params);
+      $price_html = '';
+      if($subscriber['price']) $price_html = " ({$subscriber['price']})";
+      $ebay_id = $subscriber['ebay_id'];
+      $item = node_load($nid);
+      //print_r($record); exit(0);
+      $ext_link = "<a target='_blank' href='" . htmlspecialchars($item->field_external_url['und'][0]['value']) . "'>(link)</a>";
+      $output .= "<tr><td><a href='" . price_check_get_ebay_item_url($ebay_id)
+          . "'>". $item->title . "</a> $ext_link</td><td>{$item->field_price['und'][0]['value']}$price_html</td>" .
+          "</tr>";
+    }
+    $output .= "</table>";
+  }
+  return $output;  
+}

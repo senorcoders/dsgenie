@@ -1,0 +1,13 @@
+drwxrwxrwx   3 bluephoenix bluephoenixg     4096 Apr 18  2015 .
+drwxrwxrwx  27 bluephoenix bluephoenixg     4096 Feb 12 12:07 ..
+-rw-r--r--   1 bluephoenix bluephoenixg     1325 Apr 18  2015 CHANGELOG.txt
+-rw-r--r--   1 bluephoenix bluephoenixg    18092 Apr 18  2015 LICENSE.txt
+-rw-r--r--   1 bluephoenix bluephoenixg     2914 Apr 18  2015 README.txt
+-rw-r--r--   1 bluephoenix bluephoenixg     1743 Apr 18  2015 field_permissions.admin.css
+-rw-r--r--   1 bluephoenix bluephoenixg    17816 Apr 18  2015 field_permissions.admin.inc
+-rw-r--r--   1 bluephoenix bluephoenixg     3043 Apr 18  2015 field_permissions.admin.js
+-rw-r--r--   1 bluephoenix bluephoenixg      441 Apr 18  2015 field_permissions.info
+-rw-r--r--   1 bluephoenix bluephoenixg     5689 Apr 18  2015 field_permissions.install
+-rw-r--r--   1 bluephoenix bluephoenixg     9477 Apr 18  2015 field_permissions.module
+-rw-r--r--   1 bluephoenix bluephoenixg    15142 Apr 18  2015 field_permissions.test
+drwxrwxrwx   2 bluephoenix bluephoenixg     4096 Apr 18  2015 images

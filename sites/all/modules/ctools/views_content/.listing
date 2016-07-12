@@ -1,0 +1,6 @@
+drwxrwxrwx   3 bluephoenix bluephoenixg     4096 Apr 18  2015 .
+drwxrwxrwx  19 bluephoenix bluephoenixg     4096 Apr 18  2015 ..
+drwxrwxrwx   6 bluephoenix bluephoenixg     4096 Apr 18  2015 plugins
+-rw-r--r--   1 bluephoenix bluephoenixg        0 Apr 18  2015 views_content.admin.inc
+-rw-r--r--   1 bluephoenix bluephoenixg      633 Apr 18  2015 views_content.info
+-rw-r--r--   1 bluephoenix bluephoenixg     9060 Apr 18  2015 views_content.module

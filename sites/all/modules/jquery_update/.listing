@@ -1,0 +1,9 @@
+drwxr-xr-x   4 bluephoenix bluephoenixg     4096 Jan 23 13:19 .
+drwxrwxrwx  27 bluephoenix bluephoenixg     4096 Feb 12 12:07 ..
+-rw-r--r--   1 bluephoenix bluephoenixg    18092 Jan 23 13:19 LICENSE.txt
+-rw-r--r--   1 bluephoenix bluephoenixg      907 Jan 23 13:19 README.txt
+-rw-r--r--   1 bluephoenix bluephoenixg      391 Jan 23 13:19 jquery_update.info
+-rw-r--r--   1 bluephoenix bluephoenixg     1312 Jan 23 13:19 jquery_update.install
+-rw-r--r--   1 bluephoenix bluephoenixg    19535 Jan 23 13:19 jquery_update.module
+drwxr-xr-x   2 bluephoenix bluephoenixg     4096 Jan 23 13:19 js
+drwxr-xr-x   5 bluephoenix bluephoenixg     4096 Jan 23 13:19 replace

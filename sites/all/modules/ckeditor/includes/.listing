@@ -1,0 +1,13 @@
+drwxr-xr-x   4 bluephoenix bluephoenixg     4096 Apr 20  2015 .
+drwxr-xr-x   7 bluephoenix bluephoenixg     4096 Apr 20  2015 ..
+-rw-r--r--   1 bluephoenix bluephoenixg    85995 Apr 20  2015 ckeditor.admin.inc
+-rw-r--r--   1 bluephoenix bluephoenixg     4623 Apr 20  2015 ckeditor.admin.js
+-rw-r--r--   1 bluephoenix bluephoenixg     2111 Apr 20  2015 ckeditor.drush.inc
+-rw-r--r--   1 bluephoenix bluephoenixg     4081 Apr 20  2015 ckeditor.features.inc
+-rw-r--r--   1 bluephoenix bluephoenixg    60086 Apr 20  2015 ckeditor.lib.inc
+-rw-r--r--   1 bluephoenix bluephoenixg    16288 Apr 20  2015 ckeditor.page.inc
+-rw-r--r--   1 bluephoenix bluephoenixg     5910 Apr 20  2015 ckeditor.user.inc
+-rw-r--r--   1 bluephoenix bluephoenixg    13596 Apr 20  2015 ckeditor.utils.js
+-rw-r--r--   1 bluephoenix bluephoenixg     3779 Apr 20  2015 filemanager.config.php
+drwxr-xr-x   2 bluephoenix bluephoenixg     4096 Apr 20  2015 jqueryUI
+drwxr-xr-x   7 bluephoenix bluephoenixg     4096 Apr 20  2015 uicolor

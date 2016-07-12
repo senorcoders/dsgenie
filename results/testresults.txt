@@ -1,0 +1,623 @@
+Array
+(
+    [url] => http://www.bestbuy.com/site/beats-by-dr-dre-solo-2-on-ear-headphones-blush-rose/9928271.p?id=1219456343208&skuId=9928271
+    [obj] => stdClass Object
+        (
+            [salePrice] => 
+159.99
+
+            [shipping] => Free Shipping
+            [description] => These Beats by Dr. Dre Solo 2 MHNV2AM/A on-ear headphones feature a compact, foldable design for easy portability. The included RemoteTalk cable lets you take calls and control music with most iOS devices.
+            [stock] => Available
+            [itemId] => 9928271
+        )
+
+)
+Array
+(
+    [url] => http://www.bestbuy.com/site/samsung-gear-fit-fitness-watch-with-heart-rate-monitor-black/5291009.p?id=1219118572659&skuId=5291009
+    [obj] => stdClass Object
+        (
+            [salePrice] => 
+149.99
+
+            [shipping] => Free Shipping
+            [description] => Samsung Gear Fit SM-R3500ZKAXAR Fitness Watch: Monitor your exercise and sleep habits with this Samsung watch that features accelerometer, gyro and heart rate sensors to provide helpful fitness data. A Bluetooth 4.0 + LE interface allows pairing with select devices, so you can receive SNS, call, e-mail and app notifications.
+            [stock] => No Available
+            [itemId] => 5291009
+        )
+
+)
+Array
+(
+    [url] => http://www.bestbuy.com/site/logitech-living-room-k410-wireless-keyboard-black/9359361.p?id=1219405818512&skuId=9359361
+    [obj] => stdClass Object
+        (
+            [salePrice] => 
+29.99
+
+            [shipping] => Free Shipping
+            [description] => Control your devices from the comfort of your couch or chair with this Logitech 920-006255 living-room K410 wireless keyboard that features a 2.4 GHz advanced wireless for reliable connectivity.
+            [stock] => Available
+            [itemId] => 9359361
+        )
+
+)
+Array
+(
+    [url] => http://www.bestbuy.com/site/black-rose-pa-digipak-cd/8921049.p?id=3398555&skuId=8921049
+    [obj] => stdClass Object
+        (
+            [salePrice] => 
+10.99
+
+            [shipping] => on orders $35 and up
+            [description] => 
+            [stock] => No Available
+            [itemId] => 8921049
+        )
+
+)
+Array
+(
+    [url] => http://www.bestbuy.com/site/rachael-ray-4-piece-dinner-plate-set/9680543.p?id=1219494700756&skuId=9680543
+    [obj] => stdClass Object
+        (
+            [salePrice] => 
+24.99
+
+            [shipping] => on orders $35 and up
+            [description] => This Rachael Ray 58655 4-piece plate set features generous 10-1/2" plates for flexible use as dinnerware or serveware while the fun polka dot motif brings flair to your table. The dishwasher-safe construction enables simple cleanup.
+            [stock] => No Available
+            [itemId] => 9680543
+        )
+
+)
+Array
+(
+    [url] => http://www.bestbuy.com/site/apple-ipad-air-2-wi-fi-64gb-gold/3315023.p?id=1219090215027&skuId=3315023
+    [obj] => stdClass Object
+        (
+            [salePrice] => 
+599.99
+
+            [shipping] => on orders $35 and up
+            [description] => The thinnest iPad ever is also the most capable. It's loaded with advanced technologies, including the Touch ID fingerprint sensor.
+            [stock] => No Available
+            [itemId] => 3315023
+        )
+
+)
+Array
+(
+    [url] => http://www.bestbuy.com/site/new-orleans-soul-60s-watch-records-cd-various/4268866.p?id=186868&skuId=4268866
+    [obj] => stdClass Object
+        (
+            [salePrice] => 
+12.99
+
+            [shipping] => on orders $35 and up
+            [description] => 
+            [stock] => No Available
+            [itemId] => 4268866
+        )
+
+)
+Array
+(
+    [url] => http://www.bestbuy.com/site/watch-how-the-people-dancing-holiday-vinyl/22763593.p?id=2824578&skuId=22763593
+    [obj] => stdClass Object
+        (
+            [salePrice] => 
+49.99
+
+            [shipping] => on orders $35 and up
+            [description] => 
+            [stock] => No Available
+            [itemId] => 22763593
+        )
+
+)
+Array
+(
+    [url] => http://www.bestbuy.com/site/the-sims-3-plus-showtime-expansion-pack/1308225195.p?id=mp1308225195&skuId=1308225195
+    [obj] => stdClass Object
+        (
+            [salePrice] => 
+14.65
+
+            [shipping] => Free Shipping
+            [description] => SynopsisOpen the door to new realms of Sims-style fun with The Sims 3 Plus Showtime Expansion Pack. In this exciting and feature-packed new edition of The Sims, your Sims no longer have to live out their lives confined to their home environments. An entire world awaits just outside the door, teeming with neighbors, friends, all-new opportunities for fun, adventure and mischief — and even a chance at superstardom. Once you've explored the gorgeous, new realm of Sunset Valley, your Sim can set his or her sights on center stage in Starlight Shores. The Showtime Expansion Pack lets you give your Sims the chance to chase down — and catch — their dreams of riches and fame. Enter a whole new world where your Sims can groom their hidden talents to become all-star singers, acrobats, magicians and DJs. Will they rise to fame and enjoy a lasting career? Will your Sims get rich quick and fizzle out? Or, will they crash and burn before they even get a chance to strike gold? There's only one way to find out.The Sims 3 is packed with enhancements to heighten the fun and adventure of guiding your characters through their simulated lives. Create Sims based on yourself or people you know, or design entirely original Sims, each with carefully customized features, clothing, accessories and personality traits. Explore the wondrous town of Sunset Valley, or set your Sims' wishes and goals on something much bigger. Living an ordinary life can be very rewarding to a Sim, but what's more rewarding than fame and fortune? Live out the classic rags-to-riches story with The Sims 3: Showtime Expansion Pack, where your Sim will get the chance to perform for other Sims as singers, magicians, acrobats or DJs. Nourish your Sims' talents in the all-new world of Starlight Shores, where they'll find new venues and objects that can help get them ready for Showtime. Make brand-new Sims with new tools using traits and Lifetime Wishes. Once your Sim is ready for the spotlight, build customized stages for just the right look — then sit back and see how the crowd likes the show as your Sim performs in sold-out arenas. Construction will dictate how well your Sim performs and how his or her career progresses, so be careful. With the innovative SimPort feature, you can send your talent-groomed Sim to a friend's game to perform gigs in his or her town, go on tour and even get reviewed. Your Sims have the drive and the talent. Will it be enough to earn them a spot among the stars? Sit back and relax — you'll find out at Showtime.
+            [stock] => No Available
+            [itemId] => 1308225195
+        )
+
+)
+Array
+(
+    [url] => http://www.wayfair.com/Wayfair-Custom-Upholstery-Carly-Loveseat-CSTM1147-CSTM1147.html
+    [obj] => stdClass Object
+        (
+            [salePrice] => 
+    1,099.00
+            [ships] => Free Inside Delivery
+            [description] => 
+            [stock] => Not Available
+            [itemId] => 
+        )
+
+)
+Array
+(
+    [url] => http://www.wayfair.com/Areaware-Alarm-Docking-Station-JDCDB2-ARW1190.html
+    [obj] => stdClass Object
+        (
+            [salePrice] => 
+    52.36
+            [ships] => Free Shipping
+            [description] => Remember those faux wood grain GE flip clocks that sat on every bedside table just a couple of decades ago? The Alarm Dock uses a nostalgic product language to meet the progressively thin and disappearing profiles of consumer electronics. It is at once a critique and an accommodation to new technology. Place an iPhone or iPod Touch running a flip clock app onto the dock, and see an iconic and meaningful form return to your nightstand, mantel, or shelf. Your iPhone or iPod's dock connector can be pulled through it, allowing your device to recharge while docked.
+            [stock] => Available
+            [itemId] => ARW1190
+        )
+
+)
+Array
+(
+    [url] => http://www.wayfair.com/WOLF-Heritage-Watch-Storage-Boxes-5-Piece-Watch-Box-99506-WQI1051.html
+    [obj] => stdClass Object
+        (
+            [salePrice] => 
+    49.95
+            [ships] => Free Shipping
+            [description] => Showcase your watches in this elegantly designed Wolf Designs Heritage Watch Storage Boxes 5 Piece Watch Box. This rectangular jewelry box has a functional aspect and a decorative element due to its tempered glass viewing window on the top. This Heritage Watch Storage Boxes 5 Piece Watch Box from Wolf Designs has a smooth and long-lasting black faux leather exterior and it is lined with a plush gray faux suede on the inside. It has a polished chrome key lock closure, which can protect your watch collection from damage. It can be wiped with a cloth from time to time to maintain its appeal.
+            [stock] => Available
+            [itemId] => WQI1051
+        )
+
+)
+Array
+(
+    [url] => http://www.wayfair.com/WOLF-Heritage-Watch-Storage-Boxes-2-Piece-Travel-Watch-Box-99504-WQI1049.html
+    [obj] => stdClass Object
+        (
+            [salePrice] => 
+    20.99
+            [ships] => Free Shipping on orders over $49.00
+            [description] => Classic and elegant, this Wolf Designs Heritage Watch Storage Boxes 2 Piece Travel Watch Box is perfect for watch enthusiasts. This spacious rectangular watch box can accommodate any size watch, which makes it a great choice. This Heritage Watch Storage Boxes 2 Piece Travel Watch Box from Wolf Designs has a durable smooth black faux leather exterior and it is lined with a plush gray fabric on the inside. This travel watch box has a sleek dual snap closure which adds to its contemporary design. It can be carefully wiped with a cloth from time to time to retain its appeal.
+            [stock] => Available
+            [itemId] => WQI1049
+        )
+
+)
+Array
+(
+    [url] => http://www.wayfair.com/Handpresso-Handpresso-Unbreakable-Outdoor-Espresso-Cup-HPCUPS-HDP1001.html
+    [obj] => stdClass Object
+        (
+            [salePrice] => 
+    9.99
+            [ships] => Free Shipping on orders over $49.00
+            [description] => Here are the cups you need to ensure a successful ceremony around the Nomadic espresso. Light, elegant and strong, these cups can be brought wherever.
+            [stock] => Available
+            [itemId] => HDP1001
+        )
+
+)
+Array
+(
+    [url] => http://www.wayfair.com/Unified-Marine-Female-Shut-Off-Valve-50052441-QYM1504.html
+    [obj] => stdClass Object
+        (
+            [salePrice] => 
+    18.45
+            [ships] => Free Shipping on orders over $49.00
+            [description] => Brass shut-off valves for fuel lines provide a quick and easy way to connect one or more tanks to your motor.
+            [stock] => Available
+            [itemId] => QYM1504
+        )
+
+)
+Array
+(
+    [url] => http://www.wayfair.com/daily-sales/p/JDS-Personalized-Gifts-GC1082~JMSI1213~E22983.html
+    [obj] => stdClass Object
+        (
+            [salePrice] => 
+          44.99
+            [ships] => Free Shipping on orders over $49.00
+            [description] => 
+      Contemporary and sleek, this JDS Personalized Gift Men's Watch Box has a glass hinged lid that is a great way to showcase your watch collection. This Personalized Gift Men's Watch Box from JDS has a clasp closure in polished-nickel locks that is ideal to securely place the watches. The rectangular box has a leather exterior and suede interior that is suitable for delicate watches. The glass see through lid protects the watches from dust and damage. The watch box can be personalized as per your preference. It can be wiped clean with a dry cloth to maintain its original texture and quality for a long time.    
+            [stock] => Not Available
+            [itemId] => 
+   JMSI1213    
+        )
+
+)
+Array
+(
+    [url] => http://www.wayfair.com/daily-sales/p/Zipcode-Design-ZIPC1529~ZIPC1529~E21817.html
+    [obj] => stdClass Object
+        (
+            [salePrice] => 
+          30.99
+            [ships] => Free Shipping on orders over $49.00
+            [description] => 
+      Featuring an attached reading lamp, this luminary lets you double up on lighting without giving up on additional space. An upward-facing, white plastic shade will open up the room, and the slim design fits in easily next to your sofa or desk.     
+            [stock] => Not Available
+            [itemId] => 
+   ZIPC1529    
+        )
+
+)
+Array
+(
+    [url] => http://www.wayfair.com/daily-sales/p/WOLF-99507~WQI1052~E22342.html
+    [obj] => stdClass Object
+        (
+            [salePrice] => 
+          44.99
+            [ships] => Free Shipping on orders over $49.00
+            [description] => 
+      This watch storage box houses up to ten watches of varying sizes even the largest 1.5'' watch! Featuring a see-through glass top, plush interior and key lock closure, the perfect case to store and display watches.    
+            [stock] => Not Available
+            [itemId] => 
+   WQI1052    
+        )
+
+)
+Array
+(
+    [url] => 						Free shippinhttp://blog.dsgenie.com/wp-content/uploads/2015/08/logo2.jpeg
+    [obj] => 
+)
+Array
+(
+    [url] => http://www.academy.com/shop/pdp/skechers-mens-supreme-bosnia-thong-sandals?repChildCatid=1455296
+    [obj] => stdClass Object
+        (
+            [salePrice] => 
+			34.99
+		
+            [shipping] => Free Shipping on most Orders Over $25
+            [description] => 
+            [stock] => Available
+            [itemId] => 201626944 
+        )
+
+)
+Array
+(
+    [url] => http://www.academy.com/shop/pdp/nike-mens-florida-state-university-loyalty-t-shirt?repChildCatid=1198211
+    [obj] => stdClass Object
+        (
+            [salePrice] =>  
+					 See in Cart			
+				
+            [shipping] => Free Shipping on most Orders Over $25
+            [description] => 
+            [stock] => Available
+            [itemId] => 102109314 
+        )
+
+)
+Array
+(
+    [url] => http://www.academy.com/shop/pdp/bcg-mens-deceit-running-shoes?repChildCatid=1131708
+    [obj] => stdClass Object
+        (
+            [salePrice] => 
+			19.99
+		
+            [shipping] => Free Shipping on most Orders Over $25
+            [description] => 
+            [stock] => Available
+            [itemId] => 100035016 
+        )
+
+)
+Array
+(
+    [url] => http://www.academy.com/shop/pdp/taurus-1911-45-acp-pistol?repChildCatid=764504
+    [obj] => stdClass Object
+        (
+            [salePrice] => 
+			278.00
+		
+            [shipping] => Free Shipping
+            [description] => 
+            [stock] => Available
+            [itemId] => 
+        )
+
+)
+Array
+(
+    [url] => http://www.academy.com/shop/pdp/taurus-7-round-magazine-for-709-pistols?repChildCatid=871212
+    [obj] => stdClass Object
+        (
+            [salePrice] => 
+			17.99
+		
+            [shipping] => Free Shipping
+            [description] => 
+            [stock] => Available
+            [itemId] => 
+        )
+
+)
+Array
+(
+    [url] => http://www.academy.com/shop/pdp/game-winner-camo-waterfowl-backpack?repChildCatid=1171229
+    [obj] => stdClass Object
+        (
+            [salePrice] => 
+			49.99
+		
+            [shipping] => Free Shipping on most Orders Over $25
+            [description] => 
+            [stock] => Not Available
+            [itemId] => 026854083 
+        )
+
+)
+Array
+(
+    [url] => http://www.amazon.com/Apple-iPhone-Verizon-Cellphone-Black/dp/B0074R0Z3O/ref=sr_1_2?ie=UTF8&qid=1439413109&sr=8-2&keywords=iphone
+    [obj] => stdClass Object
+        (
+            [salePrice] => 108.00
+            [shipping] =>  4.99 
+            [description] => This Apple iPhone 4 is a follow-up to the popular 3GS model and features a high-resolution 3.5-inch display, 5 megapixel camera with LED flash, and HD video recording. This iPhone 4 also features a front facing camera, full web browser, WiFi, Bluetooth compatibility, multi-format music player, GPS, and 8 GB of internal memory. This device may require a data plan for activation. Please, contact your phone carrier for details.
+            [stock] => Available
+            [itemId] => B0074R0Z3O
+        )
+
+)
+Array
+(
+    [url] => http://www.amazon.com/Bluetooth-WristWatch-Android-Smartphone-Samsung/dp/B00KW70WDG/ref=sr_1_6?ie=UTF8&qid=1439993948&sr=8-6&keywords=watch
+    [obj] => stdClass Object
+        (
+            [salePrice] => 15.80
+            [shipping] => Free Shipping
+            [description] => Note: For iPhone,it only supports part of the function as Pedometer, Calendar, Call Sync, Calculator, Clock, Stopwatch.Bluetooth SmartWatch U8 which is compatible with all Bluetooth V2.0 or above enabled smartphones, tablets and PCs (support Android 2.3 or above), such as iPhone 4, 4S, 5, 5S, Sumsung S3, S4, Note 2, Note 3, Note 4 etc. Features 1.48 inches; Capacitive Touch Screen TFT LCD Time/Date/Week/Battery state display Ringing reminder when you receive a call Ringing reminder once your mobile phone disconnected Display the number or name of incoming calls Answer or Dial calls from watch Support hands-free calls, phone book Play the music in your phone Sync SMS/call history(only for android phone, you need download apk) Ring reminder when your smart phone receive a message (including Wechat, Facebook, Twitter, WhatsApp, Skype, and so on.(Only for android phone.) Anti-lost alarm function: When cellphone left watch alarm automatically, after a certain distance to avoid lose the phones Remote taking photo function: You can control your cellphone to take photo from the watch.(only for android phone) Stopwatch, Altitude Meter, Passometer, Photograph, Barometer, Vibration Bluetooth Version: V3.0+EDR Bluetooth Protocol: A2DP + HFP 1.5 + HS P 1.2 Range of Frequency: 2.4GHz spectrum Ambient Noise: ≤75dB Transmitting Range: ≤10m Language: English, French, Spanish, Portuguese, Korean, Italian, German, Indonesian, Finnish, Thai, Turkish, Russian, Arabic, Swedish Charging Time: about 1 hour Talk Time: about 3 hours Music Play Time: about 6 hours Standby Time: about 160 hours Power Supply: Built-in 230mAh rechargeable battery Package includes: 1 x Bluetooth Watch 1 X usb cable(not included plug) 1 x User Manual
+            [stock] => Available
+            [itemId] => B00KW70WDG
+        )
+
+)
+Array
+(
+    [url] => http://www.amazon.com/Nike-Mens-Running-Black-White/dp/B00K7I0Q2W/ref=sr_fsl_cat_softlines_brand_shv_2?s=apparel&ie=UTF8&qid=1439994043&sr=1-2-fed_softlines_strip_1&nodeID=10445813011&keywords=shoes
+    [obj] => stdClass Object
+        (
+            [salePrice] => 
+            [shipping] => Free Shipping
+            [description] => 
+            [stock] => Not Available
+            [itemId] => B00K7I0Q2W
+        )
+
+)
+Array
+(
+    [url] => http://www.amazon.com/AUTOMATIC-DOUBLE-DISPLAY-STORAGE-BATTERY/dp/B00AZPN548/ref=sr_1_3?ie=UTF8&qid=1439996427&sr=8-3&keywords=rolex+box
+    [obj] => stdClass Object
+        (
+            [salePrice] => 49.99
+            [shipping] =>  6.59 
+            [description] => Your finest automatic watches deserve an equally fine display case. 
+
+COMPATIBLE WITH Rolex, Panerai, Patek Philippe, Tag Heuer, Jaeger-LeCoutlter, IWC, Blancpain, Piaget, A. Piguet, Breitling, GP, and all other brands... 
+
+Motorized turntables keep your best watches wound and ready to wear
+
+. Our Dual Automatic Watch Winder keeps your watch always-accurate and ready-to-wear. 
+
+Don't let your self-winding watch fall out of time and out of date. Instead, place it in our Dual Automatic Watch Winder. Features a large display window. A bi-directional timer will automatically turn the winder on and off. 
+
+Rotations Per Minute: 6
+. Rotational Time: 10-15 Minutes
+. Pause Time: 45-50 Minutes
+. Fitment: Will fit most watches with a diameter including crown up to 44mm side by side. For watches with larger diameters, you may need to adjust the placement accordingly. The pillow slot fits small and large bands including leather and stainless steel bands with width up to 26mm.
+            [stock] => Available
+            [itemId] => B00AZPN548
+        )
+
+)
+Array
+(
+    [url] => http://www.amazon.com/Wristwatch-Showcase-Display-Storage-Holders/dp/B00VN9K0XE/ref=sr_1_12?ie=UTF8&qid=1439996427&sr=8-12&keywords=rolex+box
+    [obj] => stdClass Object
+        (
+            [salePrice] => 66.99
+            [shipping] =>  2.99 
+            [description] => A deluxe classic watch case display case to protect your precious watch collection. This black quality leatherette watch display storage case features a clear lid. The interior is lined with soft black felt fabric to protect your watches. There are 20 compartments with removable soft fabric cushions. You may remove the cushions to store other items. The watch case is safeguarded with a gold color plated lock (key included). This watch storage box will fit large watches such as Tag Heuer, Rolex, and many more. Watch case dimension 11 3/4 x 8" x 5 3/4". Watches not included.
+            [stock] => Available
+            [itemId] => B00VN9K0XE
+        )
+
+)
+Array
+(
+    [url] => http://www.amazon.com/BOCS-Xtender-Whole-Home-Entertainment-System/dp/B001FG4HHA/ref=sr_1_1?ie=UTF8&qid=1439997040&sr=8-1&keywords=boc+watch
+    [obj] => stdClass Object
+        (
+            [salePrice] => 142.50
+            [shipping] =>  4.99 
+            [description] => Sleek and easy installation Watch any Tivo DVR from any TVPause a program in one room and continue watching it in another roomPlay a DVD on all TVs in the house simultaneouslyHooks up an iPod    whole home music systemXtender  remote wirelessly  communicates with Tivo DVR from any roomIncludes remote control
+            [stock] => Available
+            [itemId] => B001FG4HHA
+        )
+
+)
+Array
+(
+    [url] => http://www.amazon.com/LG-G4-Black-Leather-Sprint/dp/B00XMGU35Q/ref=sr_1_9?s=wireless&ie=UTF8&qid=1439996903&sr=1-9&keywords=lg+g4
+    [obj] => stdClass Object
+        (
+            [salePrice] => 
+            [shipping] => Free Shipping
+            [description] => 
+            [stock] => Not Available
+            [itemId] => B00XMGU35Q
+        )
+
+)
+Array
+(
+    [url] => http://www.amazon.com/Blue-Oyster-Cult-Long-Night/dp/B00006L923/ref=sr_1_4?ie=UTF8&qid=1439997040&sr=8-4&keywords=boc+watch
+    [obj] => stdClass Object
+        (
+            [salePrice] => 
+            [shipping] => Free Shipping
+            [description] => 
+            [stock] => Not Available
+            [itemId] => B00006L923
+        )
+
+)
+Array
+(
+    [url] => http://www.amazon.com/Splinter-Blacklist-Ultimatum-Collector-SPECIAL-Watch/dp/B00KTO326G/ref=sr_1_103?ie=UTF8&qid=1440174449&sr=8-103&keywords=box+watch
+    [obj] => stdClass Object
+        (
+            [salePrice] => 
+            [shipping] => Free Shipping
+            [description] => 
+            [stock] => Not Available
+            [itemId] => B00KTO326G
+        )
+
+)
+Array
+(
+    [url] => http://www.overstock.com/Electronics/Apple-iPhone-6-16GB-4G-LTE-Unlocked-GSM-Cell-Phone-w-iOS8/9447380/product.html?searchidx=0
+    [obj] => stdClass Object
+        (
+            [salePrice] => 824.99
+            [shipping] => 
+            [description] => ITEM#: 16632031
+						
+						
+						Keep in touch with friends, family and business contacts alike with this Apple iPhone 6. Featuring 16 GB of onboard storage, this phone comes in multiple colors to suit your taste. The phone also features dual cameras for taking videos or capturing selfies. The device is compatible with any GSM carrier so you just need your SIM card to get started.Compatible with all GSM Carriers (phones that use a SIM card) like ATT, T-Mobile, etc.2G: GSM 850 / 900 / 1800 / 1900, 3G: HSDPA 850 / 900 / 1700 / 1900 / 2100, 4G: LTE 700 / 850 / 900 / 1800 / 1900 / 2100 / 2600 / 8504.7-inch LED-backlit IPS LCD Multi-Touchscreen Shatter proof glass, oleophobic coatingOperating System: iOS 8Dual-Core 1.4 GHz Cyclone (ARM v8-based) ProcessorChipset: Apple A8, PowerVR GX6650 (hexa-core graphics) GraphicsInternal Memory: 16GB, 1GB RAMWi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi hotspotBluetooth: v4.0, A2DPUSB: v2.0GPS: with A-GPS, GLONASSBrowser: HTML (Safari)Messaging: iMessage, SMS (threaded view), MMS, Email, Push EmailBuilt-in rechargeable lithium-ion BatteryTalktime: Up to 14 Hours (3G), Standby: Up to 250 Hours (3G)Dimensions: 5.44 x 2.64 x 0.27 (inches), Weight: 4.55 ozPhone, OEM Battery, OEM Wall Charger, Quick Start Guide Will this phone work with your service provider?Please note: Package Contents only include the device and necessary accessories. GSM phones do not come with a SIM card. Although Talk and Text is guaranteed, Wireless Data configuration on smartphones may vary depending on your service provider. To configure wireless data, please contact your wireless carrier directly.
+            [stock] => Available
+            [itemId] => 9447380
+        )
+
+)
+Array
+(
+    [url] => http://www.overstock.com/US/es/Jewelry-Watches/Movado-Mens-2100005-Collection-Yellow-Goldplated-Swiss-Quartz-Watch/7972138/product.html?refccid=IUDVCC4GR6IYEH2IGITPZBBHIU&searchidx=4
+    [obj] => stdClass Object
+        (
+            [salePrice] => 
+            [shipping] => 
+            [description] => 
+            [stock] => Available
+            [itemId] => 7972138
+        )
+
+)
+Array
+(
+    [url] => http://www.overstock.com/Clothing-Shoes/Asics-Mens-Gel-Resolution-5-Black-and-Blue-Tennis-Shoes/9821141/product.html?refccid=P3XAFWGQEOXZYWSERZFH4UTXEM&searchidx=0
+    [obj] => stdClass Object
+        (
+            [salePrice] => 89.99
+            [shipping] => 
+            [description] => ITEM#: 16985998
+						
+						
+						The Asics Gel Resolution 5 updates the top of the Asics tennis shoe line and offers excellent Gel cushioning based on Asics running shoe technology, with the lateral support and durability needed for tennis. These shoes feature a gait-enhancing I.G.S. GEL Cushioning System, and an updated new Flexion Fit Upper for improved flexibility.
+Color options: Black/ White/ Blue
+Style: Athletic 
+Material: Synthetic Leather/ Mesh
+Toe shape: Round
+Platform height: 2 inches
+Width: Medium
+Lining: GEL Cushioning System attenuates shock during impact and toe-off phases
+Sole: PGuard toe protection for added toe durability
+Footbed: Slightly padded
+Imported
+Measurement Guide Men's Shoe Sizing Guide Upper/outersole material: Solyte 55 Midsole Material
+Model: E300Y-9001
+All measurements are approximate and were taken using a size 11. Please note measurements may vary slightly by size.
+            [stock] => Available
+            [itemId] => 9821141
+        )
+
+)
+Array
+(
+    [url] => http://www.overstock.com/Jewelry-Watches/Goldtone-Crystal-Christmas-Stocking-and-Candy-Cane-Brooch/8342088/product.html?refccid=CPF7VI54EMO2X3CF4FERQDZMLU&searchidx=6
+    [obj] => stdClass Object
+        (
+            [salePrice] => 13.94
+            [shipping] => 
+            [description] => ITEM#: 15652648
+						
+						
+						This festive brooch features a red stocking design adorned with red and blue crystals and a candy cane sticking out the top. This brooch comes complete with a classic straight pin on the back for easy attachment.
+Style: Holiday
+Gemstone colors: Red, blue
+Gemstone shapes: Round 
+Eight inlaid round-cut crystals each measure 2 mm
+Metal: Base metal
+Finish: Antiqued
+Clasp: Pin
+Metal weight: 56.7 grams 
+Pin dimensions: 12.7 mm wide x 25.4 mm long 
+All carat weights and measurements are approximate and may vary slightly from the listed dimensions. Treatment code CR. See Treatment Guide for further information.
+            [stock] => Not Available
+            [itemId] => 8342088
+        )
+
+)
+Array
+(
+    [url] => http://www.overstock.com/Clothing-Shoes/Hadari-Womens-Crochet-V-neck-Romper/10184727/product.html?refccid=CPF7VI54EMO2X3CF4FERQDZMLU&searchidx=10
+    [obj] => stdClass Object
+        (
+            [salePrice] => 39.94
+            [shipping] => 
+            [description] => ITEM#: 17310735
+						
+						
+						Horseback riding date, impress him with this thigh high romper. V-cut decorated by a lace trim and 1/2-inch straps. Two sets of trim, pockets and elastic at the waist make the front. Back is fully uncovered held by 1/2-inch straps that truly add a sexy touch. Rock his world with the piece.Material: RayonCare Instruction: Hand WashColor: Pink, BrownThe approximate length from the top center back to the hem is 39 inches. The measurement was taken from a size Small.All measurements are approximate and may vary by size.
+            [stock] => Not Available
+            [itemId] => 10184727
+        )
+
+)
+Array
+(
+    [url] => http://www.overstock.com/Clothing-Shoes/TOI-ET-MOI-Womens-Salad-01-Peep-toe-Wedge-Sandals/10007903/product.html?refccid=CPF7VI54EMO2X3CF4FERQDZMLU&searchidx=19
+    [obj] => stdClass Object
+        (
+            [salePrice] => 50.99
+            [shipping] => 
+            [description] => ITEM#: 17156275
+						
+						
+						These patent faux leather wedges will never go out of style, so stock up while you can. Peep-toe and slingback strap with adjustable buckle. Faux cork-covered platform below builds to the perfect wedge heel.
+Open-toe wedge
+Color options: Black, Apricot
+Style: Pumps
+Material: Patent faux leather, 3.5 inche wedge heel, 0.5 inch platform,
+Toe shape: Almond
+Heel height/type: 3.5 inches
+Platform height: 0.5 inches
+Width: Medium
+Lining: Fully lined
+Sole: PU
+Footbed: Padded
+Imported
+Measurement Guide Women's Shoe Sizing GuideUpper/outersole material: Rubber
+Model: Salad-01
+All measurements are approximate and may vary by size.
+            [stock] => Not Available
+            [itemId] => 10007903
+        )
+
+)

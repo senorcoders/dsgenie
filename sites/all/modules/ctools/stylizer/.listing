@@ -1,0 +1,6 @@
+drwxrwxrwx   3 bluephoenix bluephoenixg     4096 Apr 18  2015 .
+drwxrwxrwx  19 bluephoenix bluephoenixg     4096 Apr 18  2015 ..
+drwxrwxrwx   3 bluephoenix bluephoenixg     4096 Apr 18  2015 plugins
+-rw-r--r--   1 bluephoenix bluephoenixg      345 Apr 18  2015 stylizer.info
+-rw-r--r--   1 bluephoenix bluephoenixg     1841 Apr 18  2015 stylizer.install
+-rw-r--r--   1 bluephoenix bluephoenixg     3788 Apr 18  2015 stylizer.module

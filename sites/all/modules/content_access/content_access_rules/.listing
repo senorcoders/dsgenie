@@ -1,0 +1,5 @@
+drwxrwxrwx   2 bluephoenix bluephoenixg     4096 Apr 18  2015 .
+drwxrwxrwx   4 bluephoenix bluephoenixg     4096 Apr 18  2015 ..
+-rw-r--r--   1 bluephoenix bluephoenixg      434 Apr 18  2015 content_access_rules.info
+-rw-r--r--   1 bluephoenix bluephoenixg      540 Apr 18  2015 content_access_rules.module
+-rw-r--r--   1 bluephoenix bluephoenixg    12838 Apr 18  2015 content_access_rules.rules.inc

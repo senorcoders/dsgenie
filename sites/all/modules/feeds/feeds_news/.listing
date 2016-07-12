@@ -1,0 +1,9 @@
+drwxr-xr-x   2 bluephoenix bluephoenixg     4096 Jun 22  2015 .
+drwxr-xr-x  11 bluephoenix bluephoenixg     4096 Feb 12 12:57 ..
+-rw-r--r--   1 bluephoenix bluephoenixg     2509 Jun 22  2015 feeds_news.features.field.inc
+-rw-r--r--   1 bluephoenix bluephoenixg     1219 Jun 22  2015 feeds_news.features.inc
+-rw-r--r--   1 bluephoenix bluephoenixg     3379 Jun 22  2015 feeds_news.feeds_importer_default.inc
+-rw-r--r--   1 bluephoenix bluephoenixg      809 Jun 22  2015 feeds_news.info
+-rw-r--r--   1 bluephoenix bluephoenixg       88 Jun 22  2015 feeds_news.module
+-rw-r--r--   1 bluephoenix bluephoenixg     5217 Jun 22  2015 feeds_news.test
+-rw-r--r--   1 bluephoenix bluephoenixg     5134 Jun 22  2015 feeds_news.views_default.inc

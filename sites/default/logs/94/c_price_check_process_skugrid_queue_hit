@@ -1,0 +1,2672 @@
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2393164
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 46.99
+            [standardShipRate] => 4.99
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 729696
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2393517
+            [title] => 
+            [image] => 
+            [vendorVariant] => Vanilla
+            [salePrice] => 150.59
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 232210
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2393535
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 197
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 729722
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2393545
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 110.79
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 728018
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2393570
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 99.99
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 727346
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2393745
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 124
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 729681
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2393870
+            [title] => 
+            [image] => 
+            [vendorVariant] => Black
+            [salePrice] => 95.54
+            [standardShipRate] => 0
+            [stock] => Not Available
+            [itemId] => 
+        )
+
+    [nid] => 247556
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2393875
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 59.98
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 727334
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2394064
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 125.86
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 728680
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2394259
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 69
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 730049
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2394601
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 79.99
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 730045
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2394870
+            [title] => 
+            [image] => 
+            [vendorVariant] => 1|Espresso
+            [salePrice] => 37.98
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 274999
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2394985
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 78.12
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 284293
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2395519
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 39.96
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 288177
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2395595
+            [title] => 
+            [image] => 
+            [vendorVariant] => Black
+            [salePrice] => 115
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 730323
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2395640
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 114.99
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 730355
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2396060
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 279
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 730550
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2396060
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 279
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 730563
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2396151
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 94.04
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 730565
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2396176
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 109.92
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 730577
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2396498
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 75
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 730619
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2396612
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 198.99
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 730632
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2396719
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 101.84
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 730642
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2396744
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 59.99
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 730645
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2397035
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 63.95
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 730673
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2397266
+            [title] => 
+            [image] => 
+            [vendorVariant] => Hayneedle
+            [salePrice] => 94.08
+            [standardShipRate] => 0
+            [stock] => Not Available
+            [itemId] => 
+        )
+
+    [nid] => 730715
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2397337
+            [title] => 
+            [image] => 
+            [vendorVariant] => Hayneedle
+            [salePrice] => 74
+            [standardShipRate] => 0
+            [stock] => Not Available
+            [itemId] => 
+        )
+
+    [nid] => 730721
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2397644
+            [title] => 
+            [image] => 
+            [vendorVariant] => Black
+            [salePrice] => 87.97
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 730755
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2397663
+            [title] => 
+            [image] => 
+            [vendorVariant] => White
+            [salePrice] => 138.97
+            [standardShipRate] => 0
+            [stock] => Not Available
+            [itemId] => 
+        )
+
+    [nid] => 288190
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2397793
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 110.06
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 504152
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2398010
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 74.99
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 316769
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2398029
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 109.92
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 728239
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2398050
+            [title] => 
+            [image] => 
+            [vendorVariant] => Espresso
+            [salePrice] => 149
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 316794
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2398111
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 85.24
+            [standardShipRate] => 12.49
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 355440
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2398196
+            [title] => 
+            [image] => 
+            [vendorVariant] => White
+            [salePrice] => 187.08
+            [standardShipRate] => 0
+            [stock] => Not Available
+            [itemId] => 
+        )
+
+    [nid] => 371494
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2398226
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 349.99
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 730966
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2399365
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 19.99
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 731044
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2399440
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 4.47
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 731082
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2399440
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 4.47
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 731087
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2399440
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 4.47
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 731088
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2399440
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 4.47
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 731089
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2399527
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 113.33
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 698320
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2399840
+            [title] => 
+            [image] => 
+            [vendorVariant] => Black
+            [salePrice] => 93.45
+            [standardShipRate] => 0
+            [stock] => Not Available
+            [itemId] => 
+        )
+
+    [nid] => 731162
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2400161
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 14.31
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 731236
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2400161
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 14.31
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 732440
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2400161
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 14.31
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 732442
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2400194
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 7.29
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 731249
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2400339
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 17.49
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 731433
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2400401
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 165
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 731475
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2400547
+            [title] => 
+            [image] => 
+            [vendorVariant] => http://www.ebay.com/itm/Game-Golf-AMTGG1R-Digital-Tracking-System-NEW-OTHER-/141843974513
+            [salePrice] => 123.99
+            [standardShipRate] => 0
+            [stock] => Not Available
+            [itemId] => 
+        )
+
+    [nid] => 731579
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2400648
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 7.85
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 731665
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2401147
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 31.6
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 731709
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2401402
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 23.97
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 731710
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2407673
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 9.18
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 732021
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2407673
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 9.18
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 732022
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2410665
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 179
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 732250
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2412362
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 18
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 732307
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2412629
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 137.69
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 732311
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2414023
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 15
+            [standardShipRate] => 4.97
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 732386
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2415160
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 102.58
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 732482
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2415981
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 16.41
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 731674
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2417467
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 74
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 727956
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2417938
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 10.5
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 728672
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2417993
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 30
+            [standardShipRate] => 4.97
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 727682
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2418258
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 9.93
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 728670
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2418620
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 19.99
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 732802
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2418938
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 51.69
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 733072
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2419309
+            [title] => 
+            [image] => 
+            [vendorVariant] => 10-Pack
+            [salePrice] => 29.98
+            [standardShipRate] => 5.99
+            [stock] => Not Available
+            [itemId] => 
+        )
+
+    [nid] => 732766
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2420020
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 36.99
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 729911
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2421408
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 98.03
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 734021
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2421595
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 174
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 734041
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2421904
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 62.73
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 734067
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2422439
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 24.88
+            [standardShipRate] => 5.23
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 734140
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2422731
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 5.98
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 734218
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2422731
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 5.98
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 734220
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2422731
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 5.98
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 734222
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2422731
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 5.98
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 734224
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2422910
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 79
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 734262
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2423014
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 63.76
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 734288
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2423014
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 63.76
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 740545
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2423096
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 39
+            [standardShipRate] => 4.97
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 734298
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2423184
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 112
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 498863
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2423242
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 99.99
+            [standardShipRate] => 1
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 734179
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2423295
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 129.99
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 734364
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2423358
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 40
+            [standardShipRate] => 4.97
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 444447
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2423495
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 54.2
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 734422
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2423545
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 84.99
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 734463
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2423841
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 95.88
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 734479
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2423892
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 69.99
+            [standardShipRate] => 8.99
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 734498
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2424050
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 71.88
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 734562
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2424193
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 99.99
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 734620
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2424913
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 159.97
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 734645
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2425208
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 52.99
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 734652
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2425369
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 49.5
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 734672
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2426019
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 73.75
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 734697
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2426303
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 29.5
+            [standardShipRate] => 4.97
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 734708
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2427285
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 106.22
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 734794
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2427389
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 226.45
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 734797
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2427389
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 226.45
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 734798
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2427587
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 91.02
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 734811
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2428628
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 51.69
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 731752
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2428764
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 24.99
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 731753
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2428892
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 29.99
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 731754
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2429028
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 79.99
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 735076
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2429041
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 20.47
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 731755
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2429184
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 21.95
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 731756
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2429276
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 103.46
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 735117
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2429367
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 112
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 735184
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2429495
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 89.99
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 735249
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2431756
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 67.99
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 737065
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2431809
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 84.66
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 737075
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2431894
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 101.99
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 737080
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2432109
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 92.99
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 737181
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2432369
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 259
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 737234
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2432369
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 259
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 737239
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2433054
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 129
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 737826
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2433162
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 149
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 737899
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2433373
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 14.99
+            [standardShipRate] => 1
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 737961
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2433447
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 130.78
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 737992
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2433857
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 15.99
+            [standardShipRate] => 1
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 738069
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2433975
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 83.8
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 733955
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2435093
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 189.99
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 733965
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2437455
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 137.93
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 734456
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2437983
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 19.99
+            [standardShipRate] => 1
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 738586
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2440154
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 24.95
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 718582
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2440413
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 92.23
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 738862
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2441021
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 93.12
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 730295
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2441172
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 269
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 735669
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2441681
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 113.33
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 738922
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2442001
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 11.69
+            [standardShipRate] => 5.97
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 739443
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2442297
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 59.99
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 739593
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2442434
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 84.55
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 738665
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2442586
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 89.97
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 739843
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2443560
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 18.99
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 733328
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2443757
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 79.99
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 739900
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2443805
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 18.56
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 733314
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2443864
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 38.99
+            [standardShipRate] => 4.99
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 739952
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2444024
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 38.75
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 733301
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2444255
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 34.99
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 733332
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2444288
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 50.56
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 739961
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2444421
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 59.98
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 740353
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2444474
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 219
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 740364
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2444604
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 249
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 740438
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2444694
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 178
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 740465
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2445061
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 149.99
+            [standardShipRate] => 0.01
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 724206
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2445084
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 249
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 740602
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2445084
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 249
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 740645
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2445195
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 97.87
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 740652
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2445250
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 219.99
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 740666
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2445326
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 388
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 740700
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2445380
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 84.14
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 740714
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2445453
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 459.95
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 740752
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2445513
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 54.95
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 740767
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2445544
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 129.99
+            [standardShipRate] => 0.01
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 724241
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2445565
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 78.88
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 740845
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2445592
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 61.33
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 740853
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2445608
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 0
+            [standardShipRate] => 0
+            [stock] => Not Available
+            [itemId] => 
+        )
+
+    [nid] => 740854
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2445660
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 159.99
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 740886
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2446028
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 114.99
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 741105
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2446209
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 54.99
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 734853
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2446331
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 36.99
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 741198
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2446353
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 203.97
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 741203
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2446442
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 97.73
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 738594
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2449836
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 329.99
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 741639
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2450176
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 125.98
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 741709
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2450515
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 228.49
+            [standardShipRate] => 0
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 741732
+)
+price_check_process_skugrid_queue hit: Array
+(
+    [obj] => stdClass Object
+        (
+            [localId] => 2451443
+            [title] => 
+            [image] => 
+            [vendorVariant] => 
+            [salePrice] => 39
+            [standardShipRate] => 4.97
+            [stock] => Available
+            [itemId] => 
+        )
+
+    [nid] => 741887
+)

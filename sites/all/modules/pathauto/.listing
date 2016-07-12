@@ -1,0 +1,16 @@
+drwxrwxrwx   2 bluephoenix bluephoenixg     4096 Apr 18  2015 .
+drwxrwxrwx  27 bluephoenix bluephoenixg     4096 Feb 12 12:07 ..
+-rw-r--r--   1 bluephoenix bluephoenixg     6549 Apr 18  2015 API.txt
+-rw-r--r--   1 bluephoenix bluephoenixg     1970 Apr 18  2015 INSTALL.txt
+-rw-r--r--   1 bluephoenix bluephoenixg    18092 Apr 18  2015 LICENSE.txt
+-rw-r--r--   1 bluephoenix bluephoenixg     4050 Apr 18  2015 README.txt
+-rw-r--r--   1 bluephoenix bluephoenixg    16991 Apr 18  2015 pathauto.admin.inc
+-rw-r--r--   1 bluephoenix bluephoenixg     2062 Apr 18  2015 pathauto.api.php
+-rw-r--r--   1 bluephoenix bluephoenixg    24410 Apr 18  2015 pathauto.inc
+-rw-r--r--   1 bluephoenix bluephoenixg      422 Apr 18  2015 pathauto.info
+-rw-r--r--   1 bluephoenix bluephoenixg     5720 Apr 18  2015 pathauto.install
+-rw-r--r--   1 bluephoenix bluephoenixg      548 Apr 18  2015 pathauto.js
+-rw-r--r--   1 bluephoenix bluephoenixg    26531 Apr 18  2015 pathauto.module
+-rw-r--r--   1 bluephoenix bluephoenixg    13504 Apr 18  2015 pathauto.pathauto.inc
+-rw-r--r--   1 bluephoenix bluephoenixg    31191 Apr 18  2015 pathauto.test
+-rw-r--r--   1 bluephoenix bluephoenixg     1185 Apr 18  2015 pathauto.tokens.inc
